@@ -1,0 +1,20 @@
+# Catálogo Aguapey convertido
+
+Archivos generados a partir de `marc.mst`, `MARC.XRF`, `MARC.FDT`, `marc.pft` y `MARC.FST`.
+
+## Resultado de esta prueba
+
+- Registros bibliográficos detectados: 4373
+- Registros sin título detectado: 12
+- Registros con inventario/equivalente en campo 859: 4340
+
+## Archivos
+
+- `index.html`: catálogo web listo para abrir en Windows con doble clic.
+- `catalogo.json`: datos limpios para usar en una web.
+- `catalogo.csv`: planilla compatible con Excel/LibreOffice, separada por punto y coma.
+- `catalogo_completo_con_marc.json`: versión técnica con campos MARC originales para revisión.
+
+## Nota
+
+Esta es una conversión de prueba. Antes de publicar en Internet conviene revisar si hay datos privados o campos que no deberían compartirse.
