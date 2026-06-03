@@ -432,9 +432,9 @@
           <button class="btn-primary" id="buscar">Buscar</button>
         </div>
         <div class="filters">
-          <select id="anio"><option value="">Todos los años</option></select>
+          <select id="autor"><option value="">Todos los autores</option></select>
+          <select id="editorial"><option value="">Todas las editoriales</option></select>
           <select id="tema"><option value="">Todos los temas</option></select>
-          <select id="sede"><option value="">Todas las sedes</option></select>
           <button class="btn-clear" id="limpiar">Limpiar filtros</button>
         </div>
         <div class="stats-row"><span id="stats"></span><span id="hint">Se muestran primero los resultados más relevantes según los filtros aplicados.</span></div>
@@ -447,7 +447,7 @@
       <article class="quick-card"><div class="qicon">📚</div><div><h3>Catálogo en línea</h3><p>Consulta de libros, revistas, materiales técnicos y bibliografía de apoyo.</p></div></article>
       <article class="quick-card"><div class="qicon">🪪</div><div><h3>Inventario y ubicación</h3><p>Visualización de número de inventario, sede y signatura topográfica.</p></div></article>
       <a class="quick-card blog-card" href="https://share.google/2a0dzLHfbSRtBE99I" target="_blank" rel="noopener noreferrer" aria-label="Visitar el blog Biblioteca Lucinda Otero"><div class="qicon">🌐</div><div><h3>Visitá nuestro blog</h3><p>Biblioteca Lucinda Otero: novedades, recursos y publicaciones institucionales.</p></div></a>
-      <article class="quick-card"><div class="qicon">🔎</div><div><h3>Búsqueda temática</h3><p>Filtrado por año, sede y descriptores para encontrar material específico.</p></div></article>
+      <article class="quick-card"><div class="qicon">🔎</div><div><h3>Búsqueda especializada</h3><p>Filtrado por autor, editorial y descriptores para encontrar material específico.</p></div></article>
     </div>
   </section>
 
@@ -532,12 +532,14 @@ function initStats() {
   $("totalTemas").textContent = temas.length.toLocaleString("es-AR");
 }
 function initFilters() {
-  const years = uniq(CATALOGO.map(x => x.anio)).filter(y => /^\d{4}$/.test(y)).sort((a,b)=>Number(b)-Number(a));
-  for (const y of years) $("anio").insertAdjacentHTML("beforeend", `<option value="${escapeHTML(y)}">${escapeHTML(y)}</option>`);
+  const autores = uniq(CATALOGO.flatMap(x => x.autores || [])).slice(0, 1200);
+  for (const a of autores) $("autor").insertAdjacentHTML("beforeend", `<option value="${escapeHTML(a)}">${escapeHTML(a)}</option>`);
+
+  const editoriales = uniq(CATALOGO.map(x => x.editorial)).slice(0, 1200);
+  for (const e of editoriales) $("editorial").insertAdjacentHTML("beforeend", `<option value="${escapeHTML(e)}">${escapeHTML(e)}</option>`);
+
   const temas = uniq(CATALOGO.flatMap(x => x.temas || [])).slice(0, 800);
   for (const t of temas) $("tema").insertAdjacentHTML("beforeend", `<option value="${escapeHTML(t)}">${escapeHTML(t)}</option>`);
-  const sedes = uniq(CATALOGO.flatMap(x => x.ubicaciones || []).concat(CATALOGO.flatMap(x => (x.ejemplares||[]).map(e => e.sede))));
-  for (const s of sedes) $("sede").insertAdjacentHTML("beforeend", `<option value="${escapeHTML(s)}">${escapeHTML(s)}</option>`);
 }
 function itemText(x) {
   return norm([
@@ -650,16 +652,16 @@ function renderCard(x) {
 }
 function applyFilters() {
   const q = norm($("q").value);
-  const anio = $("anio").value;
+  const autor = $("autor").value;
+  const editorial = $("editorial").value;
   const tema = $("tema").value;
-  const sede = $("sede").value;
   visibleCount = 60;
   currentResults = CATALOGO.filter(x => {
     const okQ = !q || itemText(x).includes(q);
-    const okYear = !anio || x.anio === anio;
+    const okAutor = !autor || (x.autores || []).includes(autor);
+    const okEditorial = !editorial || x.editorial === editorial;
     const okTema = !tema || (x.temas || []).includes(tema);
-    const okSede = !sede || (x.ubicaciones || []).includes(sede) || (x.ejemplares || []).some(e => e.sede === sede);
-    return okQ && okYear && okTema && okSede;
+    return okQ && okAutor && okEditorial && okTema;
   });
   if (q) currentResults.sort((a,b) => scoreItem(b,q) - scoreItem(a,q));
   render();
@@ -674,9 +676,9 @@ function render() {
   load.style.display = total > visibleCount ? "inline-flex" : "none";
   load.textContent = `Ver más resultados (${Math.min(visibleCount + 60, total)} de ${total})`;
 }
-["q","anio","tema","sede"].forEach(id => $(id).addEventListener("input", applyFilters));
+["q","autor","editorial","tema"].forEach(id => $(id).addEventListener("input", applyFilters));
 $("buscar").addEventListener("click", applyFilters);
-$("limpiar").addEventListener("click", () => { $("q").value=""; $("anio").value=""; $("tema").value=""; $("sede").value=""; applyFilters(); });
+$("limpiar").addEventListener("click", () => { $("q").value=""; $("autor").value=""; $("editorial").value=""; $("tema").value=""; applyFilters(); });
 $("loadMore").addEventListener("click", () => { visibleCount += 60; render(); });
 initStats();
 initFilters();
