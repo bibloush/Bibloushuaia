@@ -241,28 +241,27 @@
   },
   {
     "id": 8,
-    "titulo": "Administración pública y política urbana",
+    "titulo": "Compendio de Farmacología",
     "subtitulo": "",
-    "autor": "Heilbrun, James",
+    "autor": "Litter, Manuel",
     "autores_secundarios": [
-      "Landes, Daniel"
+      "Anguiano Rueda, Cristino"
     ],
-    "editorial": "Marymar",
+    "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
-    "anio": "1977",
+    "anio": "1972",
     "isbn": "",
-    "descripcion": "434 p.",
+    "descripcion": "734 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "ECONOMIA SOCIAL",
-      "ECONOMIA URBANA",
-      "POLITICA DE VIVIENDA",
-      "SECTOR PUBLICO"
+      "FARMACOLOGIA",
+      "FONDO ANTIGUO",
+      "MEDICAMENTOS",
+      "MEDICINA Y SALUD"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000034",
-      "000034"
+      "006592",
+      "006592"
     ],
     "disponible": true
   },
@@ -527,89 +526,83 @@
   },
   {
     "id": 17,
-    "titulo": "Gestión de la Prevención en las empresas",
-    "subtitulo": "derechos, obligaciones y responsabilidades",
-    "autor": "Gónzalez Ortega, Santiago",
+    "titulo": "Teoria de las organizaciones",
+    "subtitulo": "",
+    "autor": "Silvermann, David",
     "autores_secundarios": [],
-    "editorial": "Santillana Profesional",
+    "editorial": "Nueva Vision",
     "lugar": "Buenos Aires",
-    "anio": "",
-    "isbn": "84-8036-366-5",
-    "descripcion": "79 p.",
+    "anio": "1975",
+    "isbn": "",
+    "descripcion": "302 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "CONTRATO DE TRABAJO",
-      "CONVENIOS COLECTIVOS",
-      "DERECHO EMPRESARIAL",
-      "INFRACCIONES",
-      "RESPONSABILIDAD ADMINISTRATIVA",
-      "RIESGOS",
-      "SALUD LABORAL",
-      "SANCIONES",
-      "SEGURIDAD SOCIAL",
-      "SERVICIOS DE PREVENCION",
-      "TRABAJADORES"
+      "ACCION SOCIAL",
+      "COMPORTAMIENTO ORGANIZACIONAL",
+      "ESTRUCTURA SOCIAL",
+      "INTERACCION SOCIAL",
+      "ORGANIZACION",
+      "SOCIOLOGIA",
+      "SOCIOLOGIA DE LAS ORGANIZACIONES",
+      "TEORIA DE LAS ORGANIZACIONES"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001361",
-      "001361"
+      "000135",
+      "000135"
     ],
     "disponible": true
   },
   {
     "id": 18,
-    "titulo": "Gestión de la Prevención en las empresas",
-    "subtitulo": "cómo gestionar la prevención",
-    "autor": "Niederleytner Molina, José Antonio",
-    "autores_secundarios": [
-      "Grau Ríos, Mario",
-      "Yanes Coloma, José"
-    ],
-    "editorial": "Santillana Profesional",
+    "titulo": "El realismo literario",
+    "subtitulo": "",
+    "autor": "Bonet, Carmelo Meliton",
+    "autores_secundarios": [],
+    "editorial": "Nova",
     "lugar": "Buenos Aires",
-    "anio": "",
-    "isbn": "84-8036-367-3",
-    "descripcion": "95 p.",
+    "anio": "1958",
+    "isbn": "",
+    "descripcion": "132 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "PREVENCION DE RIESGOS",
-      "RIESGOS LABORALES",
-      "SEGURIDAD LABORAL"
+      "CRITICA LITERARIA",
+      "FONDO ANTIGUO",
+      "HISTORIA LITERARIA",
+      "LITERATURA",
+      "REALISMO LITERARIO",
+      "TEORIA LITERARIA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001362",
-      "001362"
+      "000624",
+      "000624"
     ],
     "disponible": true
   },
   {
     "id": 19,
-    "titulo": "Gestión de la Prevención en las empresas",
-    "subtitulo": "preguntas y sus respuestas",
-    "autor": "Niederleytner Molina, José Antonio",
-    "autores_secundarios": [
-      "Grau Ríos, Mario",
-      "Yanes Coloma, José"
-    ],
-    "editorial": "Santillana Profesional",
-    "lugar": "Buenos Aires",
-    "anio": "",
-    "isbn": "84-8036-368-1",
-    "descripcion": "73 p.",
+    "titulo": "El arte y la democracia",
+    "subtitulo": "prosa en lucha",
+    "autor": "Ugarte, Manuel",
+    "autores_secundarios": [],
+    "editorial": "Sampere y Compañia",
+    "lugar": "Valencia",
+    "anio": "1909",
+    "isbn": "",
+    "descripcion": "214 p.",
     "temas": [
-      "ADMINISTRACION PUBLICA",
-      "ADMINISTRACION Y ORGANIZACION",
-      "HIEGIENE LABORAL",
-      "RIESGOS LABORALES",
-      "SANCIONES",
-      "SEGURIDAD LABORAL"
+      "ARTE",
+      "CULTURA",
+      "DEMOCRACIA",
+      "FONDO ANTIGUO",
+      "LITERATURA",
+      "POLITICA",
+      "SOCIALISMO",
+      "SOCIEDAD"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001363",
-      "001363"
+      "000944",
+      "000944"
     ],
     "disponible": true
   },
@@ -735,87 +728,82 @@
   },
   {
     "id": 24,
-    "titulo": "Respuestas a las preguntas más frecuentes sobre el sistema de riesgos del trabajo",
-    "subtitulo": "",
-    "autor": "Ministerio de Trabajo, Empleo y Seguridad Social",
+    "titulo": "The Ciba Colection of medical Illustrations",
+    "subtitulo": "Volume 7: Respiratory System",
+    "autor": "Netter, Frank H.",
     "autores_secundarios": [],
-    "editorial": "el ministerio",
-    "lugar": "Buenos Aires",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "16 p.",
+    "editorial": "CIBA",
+    "lugar": "Estados Unidos",
+    "anio": "1988",
+    "isbn": "0914168096",
+    "descripcion": "328 p.",
     "temas": [
-      "ALTA MEDICA",
-      "ART",
-      "AUTONOMO",
-      "COMISION MEDICA",
-      "DERECHO",
-      "ENFERMEDAD PROFESIONAL",
-      "EXAMENES MEDICOS",
-      "LEYES",
-      "MONOTRIBUTISTA",
-      "PRESTACIONES MEDICAS",
-      "RIESGO LABORAL",
-      "TOXICOLOGIA LABORAL"
+      "ANATOMIA HUMANA",
+      "FISIOLOGIA",
+      "FONDO ANTIGUO",
+      "ILUSTRACION MEDICA",
+      "MEDICINA Y SALUD",
+      "PATOLOGIA",
+      "SISTEMA RESPIRATORIO"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "002110",
-      "002110",
-      "002111",
-      "002111",
-      "002112",
-      "002112",
-      "002113",
-      "002113"
+      "006585",
+      "006585"
     ],
     "disponible": true
   },
   {
     "id": 25,
-    "titulo": "Los beneficios directos e inderectos en la evaluación social de proyectos",
+    "titulo": "Atlas de Anatomía humana",
     "subtitulo": "",
-    "autor": "Frediani, Ramón",
-    "autores_secundarios": [],
-    "editorial": "CIPEAP",
-    "lugar": "Córdoba",
-    "anio": "1981",
+    "autor": "Lopez Antunez, Luis",
+    "autores_secundarios": [
+      "Amendolla Gasparo, Luis"
+    ],
+    "editorial": "Interamericana",
+    "lugar": "Buenos Aires",
+    "anio": "1970",
     "isbn": "",
-    "descripcion": "20 p.",
+    "descripcion": "383 p.",
     "temas": [
-      "ADMINISTRACION PUBLICA",
-      "ADMINISTRACION Y ORGANIZACION",
-      "BENEFICIO SOCIAL",
-      "PROYECTOS"
+      "ANATOMIA HUMANA",
+      "ATLAS",
+      "ENSENANZA DE LA MEDICINA",
+      "FONDO ANTIGUO",
+      "MEDICINA Y SALUD"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000435",
-      "000435"
+      "006584",
+      "006584"
     ],
     "disponible": true
   },
   {
     "id": 26,
-    "titulo": "El régimen jurídico-institucional municipal en la provincia de Mendoza",
+    "titulo": "Tratado de Numología",
     "subtitulo": "",
-    "autor": "Cuoghi de Cataños, Leonora",
+    "autor": "Fishman, Alfred P.",
     "autores_secundarios": [
-      "Narrillos, Hilda"
+      "Agustí Vidal, Alberto"
     ],
-    "editorial": "CIPEAP",
-    "lugar": "Córdoba",
-    "anio": "1984",
-    "isbn": "",
-    "descripcion": "55 p.",
+    "editorial": "Ediciones Doyma",
+    "lugar": "Barcelona",
+    "anio": "1983",
+    "isbn": "8475923461",
+    "descripcion": "ca. 900 p.",
     "temas": [
-      "ADMINISTRACION PUBLICA PROVINCIAL",
-      "ADMINISTRACION Y ORGANIZACION"
+      "ENFERMEDADES RESPIRATORIAS",
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "NEUMOLOGIA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000407",
-      "000407"
+      "006589",
+      "006589"
     ],
     "disponible": true
   },
@@ -865,23 +853,33 @@
   },
   {
     "id": 29,
-    "titulo": "El sistema político-jurídico de los municipios de la provincia de Córdoba",
+    "titulo": "Los juegos de la empresa",
     "subtitulo": "",
-    "autor": "Cordeiro Pinto, Luis",
-    "autores_secundarios": [],
-    "editorial": "CIPEAP",
-    "lugar": "Córdoba",
-    "anio": "1984",
+    "autor": "Kaufmann, Arnold",
+    "autores_secundarios": [
+      "Faure, Robert",
+      "Le Garff, Andre"
+    ],
+    "editorial": "EUDEBA",
+    "lugar": "Buenos Aires",
+    "anio": "1966",
     "isbn": "",
-    "descripcion": "40 p.",
+    "descripcion": "120 p.",
     "temas": [
       "ADMINISTRACION",
-      "ADMINISTRACION Y ORGANIZACION"
+      "ADMINISTRACION Y ORGANIZACION",
+      "CONTROL",
+      "DIRECCION",
+      "FONDO ANTIGUO",
+      "GESTION EMPRESARIAL",
+      "ORGANIZACION",
+      "PLANEACION ESTRATEGICA",
+      "TOMA DE DECISIONES"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000434",
-      "000434"
+      "001064",
+      "001064"
     ],
     "disponible": true
   },
@@ -1090,29 +1088,31 @@
   },
   {
     "id": 38,
-    "titulo": "Legislación del trabajo y de la seguridad social",
+    "titulo": "Medicina Interna. Tomo l",
     "subtitulo": "",
-    "autor": "Abad, Antolin",
+    "autor": "Domarus, A. V.",
     "autores_secundarios": [
-      "Silvano, Francisco"
+      "Domarus, A. V.",
+      "Ferreras Valentí, P.",
+      "Mazzei, Egidio S.",
+      "Rozman, Ciril"
     ],
-    "editorial": "Zavalía",
+    "editorial": "Marin",
     "lugar": "Buenos Aires",
-    "anio": "1981",
+    "anio": "1976",
     "isbn": "",
-    "descripcion": "1574 p.",
+    "descripcion": "1101 p.",
     "temas": [
-      "CODIGO DE COMERCIO",
-      "CONSTITUCION NACIONAL",
-      "DECRETOS",
-      "DERECHO",
-      "LEGISLACION LABORAL",
-      "LEYES"
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA",
+      "TRATAMIENTO MEDICO"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000844",
-      "000844"
+      "006587",
+      "006587"
     ],
     "disponible": true
   },
@@ -5997,7 +5997,7 @@
     "id": 214,
     "titulo": "Empresa inteligente y relaciones humanas",
     "subtitulo": "",
-    "autor": "Gómez Sanz, María",
+    "autor": "Sanz Gómez, María",
     "autores_secundarios": [],
     "editorial": "Thomson",
     "lugar": "Madrid",
@@ -7163,7 +7163,7 @@
     "id": 255,
     "titulo": "En busca de Antonio Mamerto Gil Nuñez, el gaucho Antonio Gil",
     "subtitulo": "de Corrientes a Tierra del Fuego",
-    "autor": "Baldassare, Carlos",
+    "autor": "Baldassarre, Carlos",
     "autores_secundarios": [],
     "editorial": "Viento de Hojas",
     "lugar": "Ushuaia",
@@ -7187,7 +7187,7 @@
     "id": 256,
     "titulo": "Gestión y administración de hoteles",
     "subtitulo": "",
-    "autor": "Guerri, Manuel Dolz",
+    "autor": "Dolz Guerri, Manuel",
     "autores_secundarios": [],
     "editorial": "De Vecchi",
     "lugar": "Barcelona",
@@ -33472,7 +33472,7 @@
     "editorial": "Ugerman",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9468-26-5",
+    "isbn": "9789879468265",
     "descripcion": "288 p.",
     "temas": [
       "GESTION",
@@ -33498,7 +33498,7 @@
     "editorial": "Edhasa",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-628-057-0",
+    "isbn": "9789876280570",
     "descripcion": "220 p.",
     "temas": [
       "HISTORIA",
@@ -33526,7 +33526,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-02-0479-8",
+    "isbn": "9789500204798",
     "descripcion": "316 p.",
     "temas": [
       "ESTADO",
@@ -33582,7 +33582,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-02-0465-1",
+    "isbn": "9789500204651",
     "descripcion": "1032 p.",
     "temas": [
       "4",
@@ -33618,7 +33618,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "950-07-1579-1",
+    "isbn": "9500715791",
     "descripcion": "605 p.",
     "temas": [
       "CULTURA",
@@ -33645,7 +33645,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "950-07-1857-X",
+    "isbn": "950071857X",
     "descripcion": "473 p.",
     "temas": [
       "CONFLICTOS SOCIALES",
@@ -33670,7 +33670,7 @@
     "editorial": "Zagier & Urruty",
     "lugar": "Ushuaia",
     "anio": "2005",
-    "isbn": "1-879568-31-4",
+    "isbn": "1879568314",
     "descripcion": "192 p.",
     "temas": [
       "HISTORIA",
@@ -57614,9 +57614,9 @@
       "Smith, Bradley F."
     ],
     "editorial": "Mc Graw Hill",
-    "lugar": "Buenos Airess",
+    "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1112-35-7",
+    "isbn": "9789871112357",
     "descripcion": "476 p.",
     "temas": [
       "ATMOSFERA",
@@ -74234,12 +74234,17 @@
     "editorial": "Thomson",
     "lugar": "Mexico",
     "anio": "2004",
-    "isbn": "970-686-375-3",
+    "isbn": "9706863753",
     "descripcion": "39 p.",
     "temas": [
+      "DINAMICA",
       "ELETRICIDAD",
+      "ENERGIA",
+      "EQUILIBRIO",
       "FISICA",
       "MAGNETISMO",
+      "MOVIMIENTO",
+      "SONIDO",
       "TERMODINAMICA"
     ],
     "sede": "CENT 11",
@@ -78823,6 +78828,30 @@
     "disponible": true
   },
   {
+    "id": 2874,
+    "titulo": "Encrucijadas del campo psi-jurídico",
+    "subtitulo": "diálogos enre el derecho y el psicoanálisis",
+    "autor": "Camargo, Luis",
+    "autores_secundarios": [],
+    "editorial": "Letra Viva",
+    "lugar": "Buenos Aires",
+    "anio": "2005",
+    "isbn": "9506491127",
+    "descripcion": "272 p.",
+    "temas": [
+      "DERECHO",
+      "PSICOANALISIS",
+      "PSICOLOGIA",
+      "SALUD MENTAL"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006578",
+      "006578"
+    ],
+    "disponible": true
+  },
+  {
     "id": 2875,
     "titulo": "Metodología de la investigación",
     "subtitulo": "",
@@ -79248,6 +79277,33 @@
     "disponible": true
   },
   {
+    "id": 2890,
+    "titulo": "Investigacion medicolegal de la muerte",
+    "subtitulo": "tanatologia forense",
+    "autor": "Vazquez Fanego, Hector Osvaldo",
+    "autores_secundarios": [],
+    "editorial": "Astrea",
+    "lugar": "Buenos Aires",
+    "anio": "2003",
+    "isbn": "9505086121",
+    "descripcion": "430 p.",
+    "temas": [
+      "CIENCIAS MEDICAS",
+      "CRIMONOLOGIA",
+      "DERECHO",
+      "MEDICINA FORENSE",
+      "MEDICINA LEGAL",
+      "MUERTE",
+      "TANATOLOGIA FORENSE"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006579",
+      "006579"
+    ],
+    "disponible": true
+  },
+  {
     "id": 2891,
     "titulo": "Los usos del pasado",
     "subtitulo": "la historia y la políticas argentinas en discusión 1910-1945",
@@ -79603,6 +79659,35 @@
     "inventarios": [
       "002924",
       "002924"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 2904,
+    "titulo": "Manual de técnica pericial para médicos",
+    "subtitulo": "",
+    "autor": "Altube, Jose Luis",
+    "autores_secundarios": [
+      "Battani, Daniel alberto",
+      "Galeano, Veronica Andrea"
+    ],
+    "editorial": "Garcia Alonso",
+    "lugar": "Buenos Aires",
+    "anio": "2003",
+    "isbn": "9879488253",
+    "descripcion": "408 p.",
+    "temas": [
+      "CIENCIAS MEDICAS",
+      "DERECHO",
+      "MANUALES",
+      "MEDICINA LEGAL",
+      "PROCEDIMIENTO LEGAL",
+      "TECNICA PERICIAL"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006580",
+      "006580"
     ],
     "disponible": true
   },
@@ -82607,6 +82692,32 @@
     "disponible": true
   },
   {
+    "id": 3017,
+    "titulo": "Fisiopatologia pulmonar",
+    "subtitulo": "",
+    "autor": "West, John B.",
+    "autores_secundarios": [],
+    "editorial": "Medica Panamericana",
+    "lugar": "Buenos Aires",
+    "anio": "1980",
+    "isbn": "",
+    "descripcion": "224 p.",
+    "temas": [
+      "ENFERMEDADES PULMONARES",
+      "ENFERMEDADES VASCULARES",
+      "MEDICINA Y SALUD",
+      "NEUMOLOGIA",
+      "PATOLOGIA",
+      "SISTEMA PULMONAR"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006581",
+      "006581"
+    ],
+    "disponible": true
+  },
+  {
     "id": 3018,
     "titulo": "Pensamiento y acción",
     "subtitulo": "",
@@ -82656,6 +82767,33 @@
     "inventarios": [
       "001889",
       "001889"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 3020,
+    "titulo": "Fisiologia respiratoria",
+    "subtitulo": "",
+    "autor": "West, John B.",
+    "autores_secundarios": [],
+    "editorial": "Medica Panamericana",
+    "lugar": "Buenos Aires",
+    "anio": "1977",
+    "isbn": "",
+    "descripcion": "168 p.",
+    "temas": [
+      "FISIOLOGIA RESPIRATORIA",
+      "GASES EN SANGRE",
+      "INTERCAMBIO GASEOSO-PULMONAR",
+      "MECANICA RESPIRATORIA",
+      "MEDICINA Y SALUD",
+      "RELACION VENTILACION-PERFUSION",
+      "SISTEMA RESPIRATORIO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006582",
+      "006582"
     ],
     "disponible": true
   },
@@ -82893,6 +83031,35 @@
     "inventarios": [
       "001801",
       "001801"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 3030,
+    "titulo": "Electrocardiografia practica",
+    "subtitulo": "lesion, trazado e interpretacion",
+    "autor": "Dublin, Dale",
+    "autores_secundarios": [],
+    "editorial": "Interamericana",
+    "lugar": "Mexico",
+    "anio": "1976",
+    "isbn": "0912912006",
+    "descripcion": "294 p.",
+    "temas": [
+      "ARRITMIA CARDIACA",
+      "BLOQUEO CARDIACO",
+      "EJE ELECTRICO",
+      "ELECTROCARDIOGRAFIA",
+      "FRECUENCIA",
+      "HIPERTROFIA VENTRICULAR",
+      "INFARTO DEL MIOCARDIO",
+      "MEDICINA Y SALUD",
+      "SISTEMA CARDIACO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006583",
+      "006583"
     ],
     "disponible": true
   },
@@ -118791,6 +118958,119 @@
     "disponible": true
   },
   {
+    "id": 4378,
+    "titulo": "Ginecología",
+    "subtitulo": "",
+    "autor": "Calatroni, Carlos J.",
+    "autores_secundarios": [
+      "Ruiz, Vicente"
+    ],
+    "editorial": "Editorial Medica Panamericana",
+    "lugar": "Buenos Aires",
+    "anio": "1977",
+    "isbn": "",
+    "descripcion": "485 p.",
+    "temas": [
+      "FONDO ANTIGUO",
+      "GINECOLOGIA",
+      "MEDICINA Y SALUD",
+      "SALUD DE LA MUJER",
+      "SISTEMA REPRODUCTOR FEMENINO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006595",
+      "006595"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4379,
+    "titulo": "Semiología general",
+    "subtitulo": "con Semiología de huesos. articulaciones y columna vertebral",
+    "autor": "Padilla, Tiburcio",
+    "autores_secundarios": [
+      "Piñeiro Sorondo, Julio"
+    ],
+    "editorial": "El Ateneo",
+    "lugar": "Buenos Aires",
+    "anio": "1956",
+    "isbn": "",
+    "descripcion": "342 p.",
+    "temas": [
+      "DIAGNOSTICO MEDICO",
+      "FONDO ANTIGUO",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006594",
+      "006594"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4380,
+    "titulo": "Semiología y orientación diagnostica de las enfermedades cardiovasculares",
+    "subtitulo": "",
+    "autor": "Caíno, Héctor V.",
+    "autores_secundarios": [
+      "Sánchez, Ricardo J."
+    ],
+    "editorial": "Editorial Medica Panamericana",
+    "lugar": "Buenos Aires",
+    "anio": "1973",
+    "isbn": "",
+    "descripcion": "382 p.",
+    "temas": [
+      "CARDIOLOGIA",
+      "DIAGNOSTICO MEDICO",
+      "ENFERMEDADES CARDIOVASCULARES",
+      "FONDO ANTIGUO",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006593",
+      "006593"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4381,
+    "titulo": "Medicina",
+    "subtitulo": "Semiología, Clinica, Tratamiento",
+    "autor": "Cossio, Pedro",
+    "autores_secundarios": [
+      "Berconsky, Isaac",
+      "Fongi, Enrique G.",
+      "Fustinoni, Osvaldo",
+      "Martinez, Francisco",
+      "Miatello, Victor R.",
+      "Rospide, Pedro C."
+    ],
+    "editorial": "Editor Medicina",
+    "lugar": "Buenos Aires",
+    "anio": "1973",
+    "isbn": "",
+    "descripcion": "1443 p.",
+    "temas": [
+      "DIAGNOSTICO MEDICO",
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006586",
+      "006586"
+    ],
+    "disponible": true
+  },
+  {
     "id": 4382,
     "titulo": "Malvinas",
     "subtitulo": "la trama secreta",
@@ -118817,6 +119097,90 @@
     "inventarios": [
       "006464",
       "006464"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4383,
+    "titulo": "Medicina Interna. Tomo ll",
+    "subtitulo": "",
+    "autor": "Domarus, A. V.",
+    "autores_secundarios": [
+      "Domarus, A. V.",
+      "Ferreras Valentí, P.",
+      "Mazzei, Egidio S.",
+      "Rozman, Ciril"
+    ],
+    "editorial": "Marin",
+    "lugar": "Buenos Aires",
+    "anio": "1976",
+    "isbn": "",
+    "descripcion": "1154 p.",
+    "temas": [
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA",
+      "TRATAMIENTO MEDICO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006588",
+      "006588"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4384,
+    "titulo": "Tratado de Numología",
+    "subtitulo": "",
+    "autor": "Fishman, Alfred P.",
+    "autores_secundarios": [
+      "Agustí Vidal, Alberto"
+    ],
+    "editorial": "Ediciones Doyma",
+    "lugar": "Barcelona",
+    "anio": "1983",
+    "isbn": "847592347X",
+    "descripcion": "ca. 900 p.",
+    "temas": [
+      "ENFERMEDADES RESPIRATORIAS",
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "NEUMOLOGIA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006590",
+      "006590"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4385,
+    "titulo": "Tratado de Numología",
+    "subtitulo": "",
+    "autor": "Fishman, Alfred P.",
+    "autores_secundarios": [
+      "Agustí Vidal, Alberto"
+    ],
+    "editorial": "Ediciones Doyma",
+    "lugar": "Barcelona",
+    "anio": "1983",
+    "isbn": "8475923488",
+    "descripcion": "2374 p.",
+    "temas": [
+      "ENFERMEDADES RESPIRATORIAS",
+      "FONDO ANTIGUO",
+      "MEDICINA",
+      "MEDICINA Y SALUD",
+      "NEUMOLOGIA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006591",
+      "006591"
     ],
     "disponible": true
   }
