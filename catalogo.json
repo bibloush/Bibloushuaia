@@ -573,8 +573,8 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000624",
-      "000624"
+      "000924",
+      "000924"
     ],
     "disponible": true
   },
@@ -809,23 +809,29 @@
   },
   {
     "id": 27,
-    "titulo": "Aspectos históricos sobre organismos y planes nacionales en Argentina",
-    "subtitulo": "Período 1810 - 1980",
-    "autor": "Donolo, Dante",
-    "autores_secundarios": [],
-    "editorial": "CIPEAP",
-    "lugar": "Córdoba",
-    "anio": "1980",
-    "isbn": "",
-    "descripcion": "121 p.",
+    "titulo": "Marketing",
+    "subtitulo": "versión para Latinoamérica",
+    "autor": "Kotler, Philip",
+    "autores_secundarios": [
+      "Armstrong, Gary",
+      "Benassini Felix, Marcela",
+      "Pineda Ayala, Leticia Esther"
+    ],
+    "editorial": "Pearson Educación",
+    "lugar": "México",
+    "anio": "2007",
+    "isbn": "9789702607700",
+    "descripcion": "655 p.",
     "temas": [
-      "ADMINISTRACION",
-      "ADMINISTRACION Y ORGANIZACION"
+      "ADMINISTRACION Y ORGANIZACION",
+      "ESTUDIOS DE MERCADO",
+      "GESTION DE EMPRESAS",
+      "MARKETING"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000433",
-      "000433"
+      "006596",
+      "006596"
     ],
     "disponible": true
   },
@@ -33694,7 +33700,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-07-3148-5",
+    "isbn": "9789500731485",
     "descripcion": "286 p.",
     "temas": [
       "BEBIDAS",
@@ -33727,7 +33733,7 @@
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001949",
       "001949"
@@ -33743,10 +33749,12 @@
     "editorial": "Longman",
     "lugar": "Harlow",
     "anio": "1983",
-    "isbn": "0-582-55632-5",
+    "isbn": "0582556325",
     "descripcion": "710 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-INGLES",
+      "INGLES-ESPANOL",
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
@@ -33766,10 +33774,12 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-28-0300-0",
+    "isbn": "9502803000",
     "descripcion": "484 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-INGLES",
+      "INGLES-ESPANOL",
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
@@ -33789,7 +33799,7 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "950-28-0301-9",
+    "isbn": "9502803019",
     "descripcion": "xviii, 502 p.",
     "temas": [
       "DICCIONARIOS",
@@ -33812,7 +33822,7 @@
     "editorial": "Larousse",
     "lugar": "Barcelona",
     "anio": "1994",
-    "isbn": "970-22-0995-1",
+    "isbn": "9702209951",
     "descripcion": "727 p.",
     "temas": [
       "DICCIONARIOS",
@@ -33844,7 +33854,7 @@
       "LENGUA ESPANOLA",
       "REFERENCIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001952",
       "001952"
@@ -33869,7 +33879,7 @@
       "REFERENCIA",
       "TURISMO"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001494",
       "001494"
@@ -33892,7 +33902,7 @@
       "LENGUA ESPANOLA",
       "REFERENCIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001152",
       "001152"
@@ -33908,7 +33918,7 @@
     "editorial": "Grupo Anaya",
     "lugar": "Madrid",
     "anio": "1993",
-    "isbn": "84-207-5002-6",
+    "isbn": "8420750026",
     "descripcion": "1199 p.",
     "temas": [
       "DICCIONARIOS",
@@ -33938,7 +33948,7 @@
       "LENGUA ESPANOLA",
       "REFERENCIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001153",
       "001153"
@@ -33956,7 +33966,7 @@
     "editorial": "Larousse",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "970-22-0027-X",
+    "isbn": "970220027X",
     "descripcion": "559 p.",
     "temas": [
       "ANTONIMOS",
@@ -33989,7 +33999,7 @@
       "ANUARIOS",
       "REFERENCIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001286",
       "001286"
@@ -34005,7 +34015,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1975",
-    "isbn": "84-206-2139-0",
+    "isbn": "8420621390",
     "descripcion": "382 p.",
     "temas": [
       "ECONOMIA",
@@ -34031,7 +34041,7 @@
     "editorial": "Manantial",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "987-500-076-0",
+    "isbn": "9875000760",
     "descripcion": "189 p.",
     "temas": [
       "DESARROLLO ECONOMICO Y SOCIAL",
@@ -34060,7 +34070,7 @@
     "editorial": "Prometeo Libros",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-9217-68-9",
+    "isbn": "9509217689",
     "descripcion": "238 p.",
     "temas": [
       "DEUDA EXTERNA",
@@ -34086,7 +34096,7 @@
     "editorial": "Prometeo Libros",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-574-063-2",
+    "isbn": "9875740632",
     "descripcion": "356 p.",
     "temas": [
       "DESARROLLO ECONOMICO Y SOCIAL",
@@ -34110,7 +34120,7 @@
     "editorial": "EUDEBA",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-23-0561-2",
+    "isbn": "9502305612",
     "descripcion": "174 p.",
     "temas": [
       "CAPITALISMO",
@@ -34136,7 +34146,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1975",
-    "isbn": "84-206-2146-3",
+    "isbn": "8420621463",
     "descripcion": "140 p.",
     "temas": [
       "CONCENTRACION INDUSTRIAL",
@@ -34161,7 +34171,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1975",
-    "isbn": "84-206-2143-9",
+    "isbn": "8420621439",
     "descripcion": "407 p.",
     "temas": [
       "ECONOMIA",
@@ -73963,7 +73973,7 @@
       "SOCIEDAD",
       "SOCIOLOGIA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "002661",
       "002661"
@@ -104412,7 +104422,7 @@
     "editorial": "Lala",
     "lugar": "Barcelona",
     "anio": "1973",
-    "isbn": "84-7222-462-7",
+    "isbn": "8472224627",
     "descripcion": "388 p.",
     "temas": [
       "CIENCIAS SOCIALES",
@@ -104437,7 +104447,7 @@
     "editorial": "Ariel",
     "lugar": "Barcelona",
     "anio": "1981",
-    "isbn": "84-344-1755-3",
+    "isbn": "8434417553",
     "descripcion": "593 p.",
     "temas": [
       "ANALISIS SITEMATICO",
@@ -104856,7 +104866,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1973",
-    "isbn": "84-206-2052-1",
+    "isbn": "8420620521",
     "descripcion": "352 p.",
     "temas": [
       "SOCIOLOGIA",
@@ -116810,7 +116820,7 @@
   },
   {
     "id": 4294,
-    "titulo": "\".que sepa abrir la puerta para ir a jugar\"",
+    "titulo": "Que sepa abrir la puerta para ir a jugar",
     "subtitulo": "Taller Literario para el ciclo elemental sobre base de poesia folklorica infantil",
     "autor": "Morel, Elba",
     "autores_secundarios": [
