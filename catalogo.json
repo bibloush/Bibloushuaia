@@ -1066,29 +1066,30 @@
   },
   {
     "id": 37,
-    "titulo": "Código del trabajo",
-    "subtitulo": "anotado",
-    "autor": "Krotoschin, Ernesto",
-    "autores_secundarios": [
-      "Ratti, Jorge"
-    ],
-    "editorial": "Depalma",
+    "titulo": "Actualizaciones en broncoespasmo",
+    "subtitulo": "",
+    "autor": "Cuello, Alfredo",
+    "autores_secundarios": [],
+    "editorial": "Silka",
     "lugar": "Buenos Aires",
-    "anio": "1967",
+    "anio": "1979",
     "isbn": "",
-    "descripcion": "1145 p.",
+    "descripcion": "36 p.",
     "temas": [
-      "ACCIDENTE LABORAL",
-      "ADMINISTRACION Y ORGANIZACION",
-      "CODIGO CIVIL",
-      "CODIGO DE COMERCIO",
-      "LEGISLACION",
-      "SALARIO"
+      "ASISTENCIA RESPIRATORIA",
+      "ENFERMEDADES",
+      "ESPIROMETRIA",
+      "FONDO ANTIGUO",
+      "MEDICINA Y SALUD",
+      "PATOLOGIA",
+      "SISTEMA PULMONAR",
+      "SISTEMA RESPIRATORIO",
+      "TERAPIA NEBULIZADORA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000653",
-      "000653"
+      "006497",
+      "006497"
     ],
     "disponible": true
   },
@@ -1235,104 +1236,112 @@
   },
   {
     "id": 43,
-    "titulo": "Tecnología",
-    "subtitulo": "estrategia didáctica",
-    "autor": "Doval, Luis",
+    "titulo": "Sindromes clinicos",
+    "subtitulo": "en esquema",
+    "autor": "Padilla, Tiburcio",
     "autores_secundarios": [],
-    "editorial": "CONICET",
+    "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
-    "anio": "1998",
-    "isbn": "950-687-042-X",
-    "descripcion": "224 p.",
+    "anio": "1956",
+    "isbn": "",
+    "descripcion": "90 p.",
     "temas": [
-      "DIDACTICA",
-      "EDUCACION TECNOLOGIA",
-      "TECNOLOGIA"
+      "DIAGNOSTICO CLINICO",
+      "FONDO ANTIGUO",
+      "HISTORIA DE LA MEDICINA",
+      "MEDICINA Y SALUD",
+      "PATOLOGIA",
+      "SEMIOLOGIA MEDICA",
+      "SINDROMES CLINICOS"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001238",
-      "001238"
+      "006598",
+      "006598"
     ],
     "disponible": true
   },
   {
     "id": 44,
-    "titulo": "Materiales",
-    "subtitulo": "introducción a su estudio desde el punto de vista funcional",
-    "autor": "Ferré, Omar",
+    "titulo": "Semiologia del gastroduodeno y recto",
+    "subtitulo": "",
+    "autor": "Purriel, Pablo",
     "autores_secundarios": [
-      "Vinué, Ricardo L."
+      "Bossano Bozzo, M.",
+      "Perdomo, R."
     ],
-    "editorial": "CONICET",
-    "lugar": "Buenos Aires",
-    "anio": "1996",
-    "isbn": "950-687-028-4",
-    "descripcion": "151 p.",
+    "editorial": "Oficina del Libro- AEM",
+    "lugar": "Montevideo",
+    "anio": "1968",
+    "isbn": "",
+    "descripcion": "96 p.",
     "temas": [
-      "ALEACIONES",
-      "EDUCACION",
-      "MATERIALES",
-      "MATERIALES CALCAREOS",
-      "MATERIALES SILICICOS",
-      "METALES",
-      "POLIMEROS SINTETICOS"
+      "APARATO DIGESTIVO",
+      "ENFERMEDADES",
+      "FONDO ANTIGUO",
+      "GASTROENTEROLOGIA",
+      "MEDICINA Y SALUD",
+      "SEMIOLOGIA MEDICA",
+      "SISTEMA DIGESTIVO"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001228",
-      "001228"
+      "006599",
+      "006599"
     ],
     "disponible": true
   },
   {
     "id": 45,
-    "titulo": "Tecnología",
+    "titulo": "Otorrinolaringologia",
     "subtitulo": "",
-    "autor": "Doval, Luis",
+    "autor": "Diaz, Carlos A.",
     "autores_secundarios": [
-      "Gay, Aquiles"
+      "Viale, S. Jorge"
     ],
-    "editorial": "CONICET",
+    "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
-    "anio": "1995",
-    "isbn": "950-687-018-7",
-    "descripcion": "256 p.",
+    "anio": "1971",
+    "isbn": "",
+    "descripcion": "242 p.",
     "temas": [
-      "DIDACTICA",
-      "EDUCACION TECNOLOGICA",
-      "TECNOLOGIA",
-      "TECNOLOGIAS ESPECIFICAS"
+      "FONDO ANTIGUO",
+      "GARGANTA",
+      "HISTORIA DE LA MEDICINA",
+      "MEDICINA Y SALUD",
+      "NARIZ",
+      "OIDO",
+      "OTORRINOLARINGOLOGIA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001237",
-      "001237"
+      "006600",
+      "006600"
     ],
     "disponible": true
   },
   {
     "id": 46,
-    "titulo": "Tecnología: procesos productivos",
-    "subtitulo": "un eje temático para organizar contenidos en el área de tecnología",
-    "autor": "Cwi, Mario Eduardo",
-    "autores_secundarios": [
-      "Serafini, Gabriel David"
-    ],
-    "editorial": "PROCIENCIA",
+    "titulo": "Hisotria economica del Rio de la Plata",
+    "subtitulo": "",
+    "autor": "Puiggros, Rodolfo",
+    "autores_secundarios": [],
+    "editorial": "A. Peña Lillo Editor",
     "lugar": "Buenos Aires",
-    "anio": "2000",
-    "isbn": "987-97798-2-7",
-    "descripcion": "184 p.",
+    "anio": "1973",
+    "isbn": "",
+    "descripcion": "269 p.",
     "temas": [
-      "ENFOQUE SISTEMICO",
-      "PROCESOS PRODUCTIVOS",
-      "TECNOLOGIA"
+      "FONDO ANTIGUO",
+      "HISTORIA",
+      "HISTORIA ARGENTINA",
+      "HISTORIA ECONOMICA ARGENTINA",
+      "RIO DE LA PLATA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001236",
-      "001236"
+      "006601",
+      "006601"
     ],
     "disponible": true
   },
@@ -34244,12 +34253,12 @@
     "editorial": "Könemann",
     "lugar": "Barcelona",
     "anio": "2006",
-    "isbn": "978-3-8331-2376-4",
+    "isbn": "9783833123764",
     "descripcion": "1055 p.",
     "temas": [
       "ALIMENTOS",
-      "CULTURA",
       "GASTRONOMIA",
+      "HOTELERIA",
       "RECETAS"
     ],
     "sede": "CENT 11",
@@ -34268,7 +34277,7 @@
     "editorial": "Ministerio de Desarrollo Social",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-21360-3-3",
+    "isbn": "9872136033",
     "descripcion": "271 p.",
     "temas": [
       "DESARROLLO LOCAL",
@@ -34297,10 +34306,12 @@
     "editorial": "Larousse",
     "lugar": "México",
     "anio": "2005",
-    "isbn": "970-22-1217-0",
+    "isbn": "9702212170",
     "descripcion": "366 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-FRANCES",
+      "FRANCES-ESPANOL",
       "LENGUA FRANCESA",
       "REFERENCIA"
     ],
@@ -34324,7 +34335,7 @@
     "editorial": "Ministerio de Desarrollo Social",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-35-0002-8",
+    "isbn": "9503500028",
     "descripcion": "116 p.",
     "temas": [
       "DESARROLLO LOCAL",
@@ -34352,10 +34363,12 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-28-0301-9",
+    "isbn": "9502803019",
     "descripcion": "502 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-FRANCES",
+      "FRANCES-ESPANOL",
       "LENGUA FRANCESA",
       "REFERENCIA"
     ],
@@ -34379,10 +34392,12 @@
     "editorial": "Larousse",
     "lugar": "México",
     "anio": "2004",
-    "isbn": "970-22-0656-1",
+    "isbn": "9702206561",
     "descripcion": "745 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-INGLES",
+      "INGLES-ESPANOL",
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
@@ -34402,10 +34417,12 @@
     "editorial": "Oxford University",
     "lugar": "Oxford",
     "anio": "2003",
-    "isbn": "978-0-19-860730-4",
+    "isbn": "9780198607304",
     "descripcion": "1977 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-INGLES",
+      "INGLES-ESPANOL",
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
@@ -34428,7 +34445,7 @@
     "editorial": "Ministerio de Cultura y Educación de La Nación",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-687-030-6",
+    "isbn": "9506870306",
     "descripcion": "221 p.",
     "temas": [
       "DIDACTICA",
@@ -34506,10 +34523,9 @@
     "editorial": "Reverté",
     "lugar": "Barcelona",
     "anio": "1978",
-    "isbn": "84-291-7340-4",
+    "isbn": "8429173404",
     "descripcion": "149 p.",
     "temas": [
-      "4",
       "EQUILIBRIOS QUIMICOS",
       "QUIMICA",
       "TERMODINAMICA"
@@ -34530,10 +34546,9 @@
     "editorial": "Organizacion Panamericana de la Salud",
     "lugar": "Washington, D.C.",
     "anio": "1999",
-    "isbn": "92-75-33041-7",
+    "isbn": "9275330417",
     "descripcion": "70 p.",
     "temas": [
-      "4",
       "ENFERMEDADES INFECCIOSAS",
       "EPIDEMIOLOGIA",
       "MEDICINA Y SALUD",
@@ -34564,7 +34579,7 @@
     "editorial": "Paidós",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-12-3124-0",
+    "isbn": "9501231240",
     "descripcion": "255 p.",
     "temas": [
       "ENFERMEDADES DE TRANSMISION SEXUAL",
@@ -34598,10 +34613,8 @@
       "EDUCACION SECUNDARIA",
       "POLITICA EDUCATIVA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
-      "003294",
-      "003294",
       "003295",
       "003295",
       "003296",
@@ -34627,7 +34640,7 @@
       "CURRICULO",
       "EDUCACION"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001080",
       "001080"
@@ -34654,7 +34667,7 @@
       "PEDAGOGIA",
       "POLITICA EDUCATIVA"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001421",
       "001421"
@@ -34697,7 +34710,7 @@
     "editorial": "Organización Mundial de la Salud",
     "lugar": "Ginebra",
     "anio": "1985",
-    "isbn": "92-4-330081-4",
+    "isbn": "9243300814",
     "descripcion": "74 p.",
     "temas": [
       "4",
@@ -34724,7 +34737,7 @@
     "editorial": "Plus Ultra",
     "lugar": "Buenos Aires",
     "anio": "1997",
-    "isbn": "950-21-1073-0",
+    "isbn": "9502110730",
     "descripcion": "158 p.",
     "temas": [
       "COMUNICACION",
@@ -34751,7 +34764,7 @@
     "editorial": "Grupo Guía",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "987-1113-01-3",
+    "isbn": "9871113013",
     "descripcion": "540 p.",
     "temas": [
       "ANTARTIDA ARGENTINA",
@@ -34781,7 +34794,7 @@
     "editorial": "Síntesis",
     "lugar": "Madrid",
     "anio": "2000",
-    "isbn": "84-7738-724-9",
+    "isbn": "8477387249",
     "descripcion": "207 p.",
     "temas": [
       "ACTIVIDAD ECONOMICA",
@@ -34807,7 +34820,7 @@
     "editorial": "Unión de Chefs Argentinos",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "987-43-6018-6",
+    "isbn": "9874360186",
     "descripcion": "369 p.",
     "temas": [
       "ALIMENTOS",
@@ -34815,8 +34828,8 @@
       "COCCION DE ALIMENTOS",
       "GASTRONOMIA",
       "HIGIENE DE LOS ALIMENTOS",
+      "HOTELERIA",
       "RESTAURACION",
-      "TURISMO",
       "VINO"
     ],
     "sede": "CENT 11",
@@ -34835,7 +34848,7 @@
     "editorial": "Universidad Libros",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9465-60-8",
+    "isbn": "9789879465608",
     "descripcion": "100 p.",
     "temas": [
       "ADMINISTRACION DE PERSONAL",
@@ -34859,7 +34872,7 @@
     "editorial": "Taurus",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-04-0232-1",
+    "isbn": "9870402321",
     "descripcion": "346 p.",
     "temas": [
       "CONFLICTOS SOCIALES",
@@ -34895,7 +34908,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1980",
-    "isbn": "84-206-2267-2",
+    "isbn": "8420622672",
     "descripcion": "414 p.",
     "temas": [
       "PARTIDOS POLITICOS",
@@ -34946,7 +34959,7 @@
     "editorial": "Universidad Nacional de Quilmes",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-9173-55-4",
+    "isbn": "9879173554",
     "descripcion": "269 p.",
     "temas": [
       "ESTADO",
@@ -34973,7 +34986,7 @@
     "editorial": "Fondo de Cultura Económica",
     "lugar": "México",
     "anio": "1982",
-    "isbn": "968-16-1185-3",
+    "isbn": "9681611853",
     "descripcion": "216 p.",
     "temas": [
       "POLITICA",
@@ -35026,7 +35039,7 @@
       "POLITICA",
       "RELACIONES INTERNACIONALES"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "003303",
       "003303"
@@ -35044,7 +35057,7 @@
     "editorial": "Depalma",
     "lugar": "Buenos Aires",
     "anio": "1983",
-    "isbn": "950-14-0124-3",
+    "isbn": "9501401243",
     "descripcion": "565 p.",
     "temas": [
       "POLITICA",
@@ -35066,7 +35079,7 @@
     "editorial": "Unión",
     "lugar": "Madrid",
     "anio": "1977",
-    "isbn": "84-7209-068-X",
+    "isbn": "847209068X",
     "descripcion": "163 p.",
     "temas": [
       "ECONOMIA",
@@ -35092,7 +35105,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1982",
-    "isbn": "84-206-8046-X",
+    "isbn": "842068046X",
     "descripcion": "389 p.",
     "temas": [
       "CIENCIA",
@@ -35118,10 +35131,9 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1982",
-    "isbn": "84-206-8056-7",
+    "isbn": "8420680567",
     "descripcion": "603 p.",
     "temas": [
-      "4",
       "DERECHOS HUMANOS",
       "ETICA",
       "FILOSOFIA",
@@ -35179,7 +35191,7 @@
       "SALARIO",
       "TRABAJO"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "001565",
       "001565"
@@ -35195,7 +35207,7 @@
     "editorial": "Ediciones de La Lenga",
     "lugar": "Ushuaia",
     "anio": "2005",
-    "isbn": "987-22137-0-4",
+    "isbn": "9872213704",
     "descripcion": "615 p.",
     "temas": [
       "CODIGO CIVIL",
@@ -35210,20 +35222,12 @@
     "inventarios": [
       "001989",
       "001989",
-      "001990",
-      "001990",
-      "001991",
-      "001991",
       "001992",
       "001992",
-      "001993",
-      "001993",
       "001994",
       "001994",
       "003777",
-      "003777",
-      "001995",
-      "001995"
+      "003777"
     ],
     "disponible": true
   },
@@ -35236,7 +35240,7 @@
     "editorial": "Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2009",
-    "isbn": "978-987-25503-1-8",
+    "isbn": "9789872550318",
     "descripcion": "255 p.",
     "temas": [
       "HISTORIA",
@@ -35244,8 +35248,6 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "003305",
-      "003305",
       "003321",
       "003321"
     ],
@@ -35297,18 +35299,8 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001272",
-      "001272",
-      "001273",
-      "001273",
-      "001274",
-      "001274",
-      "001275",
-      "001275",
       "001175",
       "001175",
-      "004612",
-      "004612",
       "004607",
       "004607",
       "004608",
@@ -35319,8 +35311,6 @@
       "004605",
       "004604",
       "004604",
-      "004604",
-      "004604",
       "004603",
       "004603",
       "004609",
@@ -35328,13 +35318,7 @@
       "004610",
       "004610",
       "004611",
-      "004611",
-      "005239",
-      "005239",
-      "005238",
-      "005238",
-      "005237",
-      "005237"
+      "004611"
     ],
     "disponible": true
   },
@@ -35375,7 +35359,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1991",
-    "isbn": "84-206-0099-7",
+    "isbn": "8420600997",
     "descripcion": "239 p.",
     "temas": [
       "DICCIONARIOS",
@@ -35400,15 +35384,17 @@
     "editorial": "Miño y Dávila",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-84-92613-38-0",
+    "isbn": "9788492613380",
     "descripcion": "191 p.",
     "temas": [
+      "DEMOCRACIA",
       "ESTADO",
       "PODER EJECUTIVO",
       "PODER JUDICIAL",
       "PODER LEGISLATIVO",
       "POLITICA",
-      "REPRESENTACION POLITICA"
+      "REPRESENTACION POLITICA",
+      "SISTEMAS ELECTORALES"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -35423,7 +35409,11 @@
       "003318",
       "003318",
       "003319",
-      "003319"
+      "003319",
+      "003320",
+      "003320",
+      "003476",
+      "003476"
     ],
     "disponible": true
   },
@@ -35438,7 +35428,7 @@
     "editorial": "Losada",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-03-0678-6",
+    "isbn": "9500306786",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -35461,7 +35451,7 @@
     "editorial": "Ministerio de Educación de La Nación. Insituto Nacional de Educación Tecnológica",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-00-0713-9",
+    "isbn": "9789500007139",
     "descripcion": "272 p.",
     "temas": [
       "ESTADISTICA",
@@ -35524,7 +35514,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2007",
-    "isbn": "978-987-23221-6-8",
+    "isbn": "9789872322168",
     "descripcion": "303 p.",
     "temas": [
       "HISTORIA FUEGUINA",
@@ -35555,112 +35545,6 @@
     "disponible": true
   },
   {
-    "id": 1309,
-    "titulo": "Gerencia de servicio total",
-    "subtitulo": "una metodología para la excelencia",
-    "autor": "Sancci, Julio Roberto",
-    "autores_secundarios": [
-      "Cousté, María Elisa",
-      "Sancci, Julio Roberto"
-    ],
-    "editorial": "American Express",
-    "lugar": "Buenos Aires",
-    "anio": "2005",
-    "isbn": "",
-    "descripcion": "28 p.",
-    "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "BENCHMARKING",
-      "COMPETENCIA",
-      "COMPETITIVIDAD",
-      "GESTION",
-      "TURISMO"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "001495",
-      "001495",
-      "001496",
-      "001496",
-      "001497",
-      "001497",
-      "001498",
-      "001498",
-      "001499",
-      "001499",
-      "001500",
-      "001500",
-      "001501",
-      "001501",
-      "001502",
-      "001502",
-      "001503",
-      "001503",
-      "001504",
-      "001504",
-      "001505",
-      "001505",
-      "003349",
-      "003349"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 1310,
-    "titulo": "Servicio total",
-    "subtitulo": "una metodología para la excelencia",
-    "autor": "Sancci, Julio Roberto",
-    "autores_secundarios": [
-      "1",
-      "Cousté, María Elisa"
-    ],
-    "editorial": "American Express",
-    "lugar": "Buenos Aires",
-    "anio": "2003",
-    "isbn": "",
-    "descripcion": "36 p.",
-    "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "COMPETENCIA",
-      "COMPETITIVIDAD",
-      "GESTION",
-      "HOTELES",
-      "RESTAURANTES",
-      "TURISMO",
-      "VENTAS"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "001506",
-      "001506",
-      "001507",
-      "001507",
-      "001508",
-      "001508",
-      "001509",
-      "001509",
-      "001510",
-      "001510",
-      "001511",
-      "001511",
-      "001512",
-      "001512",
-      "001513",
-      "001513",
-      "001514",
-      "001514",
-      "001515",
-      "001515",
-      "001516",
-      "001516",
-      "001517",
-      "001517",
-      "001518",
-      "001518"
-    ],
-    "disponible": true
-  },
-  {
     "id": 1311,
     "titulo": "Análisis 2",
     "subtitulo": "",
@@ -35672,10 +35556,9 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2001",
-    "isbn": "987-550-044-3",
+    "isbn": "9875500443",
     "descripcion": "113 p.",
     "temas": [
-      "4",
       "ANALISIS MATEMATICO",
       "ECUACIONES INTEGRALES",
       "FUNCIONES",
@@ -35684,12 +35567,8 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "003339",
-      "003339",
       "003396",
-      "003396",
-      "003397",
-      "003397"
+      "003396"
     ],
     "disponible": true
   },
@@ -35704,7 +35583,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "1993",
-    "isbn": "950-02-5754-8",
+    "isbn": "9500257548",
     "descripcion": "223 p.",
     "temas": [
       "CIENCIA",
@@ -35781,30 +35660,6 @@
     "disponible": true
   },
   {
-    "id": 1315,
-    "titulo": "Constitución de la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
-    "subtitulo": "",
-    "autor": "",
-    "autores_secundarios": [],
-    "editorial": "Don Bosco",
-    "lugar": "Río Grande",
-    "anio": "1991",
-    "isbn": "",
-    "descripcion": "57 p.",
-    "temas": [
-      "CONSTITUCION PROVINCIAL",
-      "DERECHO"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "001083",
-      "001083",
-      "001160",
-      "001160"
-    ],
-    "disponible": true
-  },
-  {
     "id": 1316,
     "titulo": "Ley provincial 48",
     "subtitulo": "",
@@ -35836,7 +35691,7 @@
     "editorial": "Norma",
     "lugar": "Bogotá",
     "anio": "1993",
-    "isbn": "958-04-2515-9",
+    "isbn": "9580425159",
     "descripcion": "182 p.",
     "temas": [
       "LITERATURA",
@@ -35862,7 +35717,7 @@
     "editorial": "CONICET",
     "lugar": "Buenos Aires",
     "anio": "1997",
-    "isbn": "950-687-039-X",
+    "isbn": "950687039X",
     "descripcion": "311 p.",
     "temas": [
       "BIOLOGIA",
@@ -35894,7 +35749,7 @@
     "editorial": "Puerto de Palos",
     "lugar": "Buenos Aires",
     "anio": "2001",
-    "isbn": "987-547-048-1",
+    "isbn": "9875470481",
     "descripcion": "237 p.",
     "temas": [
       "DETERMINANTES",
@@ -35950,7 +35805,7 @@
     "editorial": "Kapelusz",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-13-2431-1",
+    "isbn": "9501324311",
     "descripcion": "207 p.",
     "temas": [
       "DERIVADAS",
@@ -65636,32 +65491,6 @@
       "005234",
       "005233",
       "005233"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2395,
-    "titulo": "Nos los representantes",
-    "subtitulo": "critica a los fundamentos del sistema representativo",
-    "autor": "Gargarella, Roberto",
-    "autores_secundarios": [],
-    "editorial": "Miño y Davila",
-    "lugar": "Buenos Aires",
-    "anio": "2010",
-    "isbn": "978-84-92613-38-0",
-    "descripcion": "192 p.",
-    "temas": [
-      "DEMOCRACIA",
-      "DERECHO",
-      "REPRESENTACION POLITICA",
-      "REPUBLICA",
-      "SISTEMA REPRESENTATIVO",
-      "SISTEMAS ELECTORALES"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003476",
-      "003476"
     ],
     "disponible": true
   },
