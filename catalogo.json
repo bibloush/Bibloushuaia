@@ -37722,7 +37722,9 @@
       "005427",
       "005427",
       "005351",
-      "005351"
+      "005351",
+      "003414",
+      "003414"
     ],
     "disponible": true
   },
@@ -45467,7 +45469,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-544",
+    "isbn": "9789871529544",
     "descripcion": "176 p.",
     "temas": [
       "ALMEJAS",
@@ -45493,7 +45495,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-58-2",
+    "isbn": "9789871529582",
     "descripcion": "333 p.",
     "temas": [
       "EDUCACION",
@@ -45516,7 +45518,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-56-8",
+    "isbn": "9789871529568",
     "descripcion": "120 p.",
     "temas": [
       "LITERATURA",
@@ -45544,7 +45546,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-52503-6-3",
+    "isbn": "9789875250363",
     "descripcion": "68 p.",
     "temas": [
       "ANTOLOGIA",
@@ -45568,7 +45570,7 @@
     "editorial": "Booket",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-580-324-4",
+    "isbn": "9789875803244",
     "descripcion": "328 p.",
     "temas": [
       "4",
@@ -45599,7 +45601,7 @@
     "editorial": "Losada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-03-0605-8",
+    "isbn": "9789500306058",
     "descripcion": "192 p.",
     "temas": [
       "LITERATURA",
@@ -45627,7 +45629,7 @@
     "editorial": "Bouquet Editores",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-1585-02-1",
+    "isbn": "9789871585021",
     "descripcion": "368 p.",
     "temas": [
       "ABORIGENES ARGENTINOS",
@@ -45662,7 +45664,7 @@
     "editorial": "Reverté",
     "lugar": "Barcelona",
     "anio": "2008",
-    "isbn": "978-84-291-2633-4",
+    "isbn": "9788429126334",
     "descripcion": "XXX, 473 p.",
     "temas": [
       "BANCOS CENTRALES",
@@ -45698,7 +45700,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-24387-5-3",
+    "isbn": "9789872438753",
     "descripcion": "96 p.",
     "temas": [
       "CUENTOS",
@@ -45724,7 +45726,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0498-4",
+    "isbn": "9500004984",
     "descripcion": "128 p.",
     "temas": [
       "BIOMASA",
@@ -45755,7 +45757,7 @@
     "editorial": "Amauta",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-23810-5-9",
+    "isbn": "9789872381059",
     "descripcion": "112 p.",
     "temas": [
       "LITERATURA",
@@ -45782,10 +45784,10 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-78-0",
+    "isbn": "9789871529780",
     "descripcion": "64 p.",
     "temas": [
-      "LITERATURA - POESIA",
+      "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA DE TIERRA DEL FUEGO",
       "POESIA",
@@ -45794,9 +45796,7 @@
     "sede": "CENT 11",
     "inventarios": [
       "003773",
-      "003773",
-      "003909",
-      "003909"
+      "003773"
     ],
     "disponible": true
   },
@@ -45832,7 +45832,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-72-8",
+    "isbn": "9789871529728",
     "descripcion": "216 p.",
     "temas": [
       "LITERATURA",
@@ -45858,7 +45858,7 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-550688-6",
+    "isbn": "9789875506886",
     "descripcion": "208 p.",
     "temas": [
       "COSTUMBRES Y TRADICIONES",
@@ -45886,7 +45886,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0501-8",
+    "isbn": "9500005018",
     "descripcion": "116 p.",
     "temas": [
       "AGUA",
@@ -45912,7 +45912,7 @@
     "editorial": "FCE",
     "lugar": "México",
     "anio": "1960",
-    "isbn": "978-968-16-0320--5",
+    "isbn": "9789681603205",
     "descripcion": "143 p.",
     "temas": [
       "LITERATURA",
@@ -45937,7 +45937,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-641-475-4",
+    "isbn": "9506414754",
     "descripcion": "176 p.",
     "temas": [
       "4",
@@ -46006,7 +46006,7 @@
       "MARCAS",
       "TEORIA DE LA COMUNICACION"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "003749",
       "003749"
@@ -46022,7 +46022,7 @@
     "editorial": "Larousse",
     "lugar": "México",
     "anio": "2001",
-    "isbn": "970-22-0216-7",
+    "isbn": "9702202167",
     "descripcion": "569 p.",
     "temas": [
       "DICCIONARIOS",
@@ -46046,7 +46046,7 @@
     "editorial": "Polemos",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-987-9165-98-0",
+    "isbn": "9789879165980",
     "descripcion": "LXXVIII, 578p.",
     "temas": [
       "ANSIEDAD",
@@ -46090,7 +46090,7 @@
     "editorial": "Ediciones Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-9385-50-6",
+    "isbn": "9509385506",
     "descripcion": "371 p.",
     "temas": [
       "DECRETO 1420/92",
@@ -46167,7 +46167,7 @@
     "editorial": "Polemos",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-987-649-002-3",
+    "isbn": "9789876490023",
     "descripcion": "821p., LIV",
     "temas": [
       "DELIRIO",
@@ -46202,7 +46202,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-74-2",
+    "isbn": "9789871529742",
     "descripcion": "64 p.",
     "temas": [
       "CUENTOS",
@@ -46235,7 +46235,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2020",
-    "isbn": "978-987-1529-68-1",
+    "isbn": "9789871529681",
     "descripcion": "336 p.",
     "temas": [
       "AREAS NATURALES PROTEGIDAS",
@@ -46264,7 +46264,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-641-567-9",
+    "isbn": "9789506415679",
     "descripcion": "208 p.",
     "temas": [
       "ACTOS LINGUISTICOS",
@@ -46307,7 +46307,7 @@
       "PLANIFICACION",
       "SISTEMAS"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "003795",
       "003795"
@@ -46335,7 +46335,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-641-175-6",
+    "isbn": "9789506411756",
     "descripcion": "504 p.",
     "temas": [
       "ADMINISTRACION",
@@ -46364,7 +46364,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-641-485-6",
+    "isbn": "9789506414856",
     "descripcion": "306 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -46396,7 +46396,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-641-484-9",
+    "isbn": "9789506414849",
     "descripcion": "368 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -46425,7 +46425,7 @@
     "editorial": "Fondo de Cultura Económica",
     "lugar": "México",
     "anio": "1976",
-    "isbn": "950-557-096-1",
+    "isbn": "9505570961",
     "descripcion": "311 p.",
     "temas": [
       "BIOLOGIA",
@@ -46468,7 +46468,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "950-876-243-9",
+    "isbn": "9508762439",
     "descripcion": "407 p.",
     "temas": [
       "CIENCIA",
@@ -46496,7 +46496,7 @@
     "editorial": "Universidad Nacional Tres de Febrero",
     "lugar": "Caseros",
     "anio": "2000",
-    "isbn": "978-987-1172-65-8",
+    "isbn": "9789871172658",
     "descripcion": "275 p.",
     "temas": [
       "ARTE",
@@ -46532,7 +46532,7 @@
     "editorial": "Docencia",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "950-9293-60-1",
+    "isbn": "9509293601",
     "descripcion": "220 p.",
     "temas": [
       "ADMINISTRACION",
@@ -46562,7 +46562,7 @@
     "editorial": "Crítica",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-9317-25-9",
+    "isbn": "9789879317259",
     "descripcion": "304 p.",
     "temas": [
       "COMUNISMO",
@@ -46594,7 +46594,7 @@
     "editorial": "Crítica",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9317-16-7",
+    "isbn": "9789879317167",
     "descripcion": "360 p.",
     "temas": [
       "4",
@@ -46624,7 +46624,7 @@
     "editorial": "Emecé Editores",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-04-2888-0",
+    "isbn": "9789500428880",
     "descripcion": "328 p.",
     "temas": [
       "ANARQUISMO",
@@ -46659,7 +46659,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-02-0518-4",
+    "isbn": "9789500205184",
     "descripcion": "352 p.",
     "temas": [
       "ATLAS",
@@ -46685,7 +46685,7 @@
     "editorial": "La ley",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-03-1230-7",
+    "isbn": "9789870312307",
     "descripcion": "816 p.",
     "temas": [
       "ARGENTINA",
@@ -46739,7 +46739,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-25503-8-7",
+    "isbn": "9789872550387",
     "descripcion": "210 p.",
     "temas": [
       "ARTE",
@@ -46793,7 +46793,7 @@
     "editorial": "del autor",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-43-7759-9",
+    "isbn": "9504377599",
     "descripcion": "315 p.",
     "temas": [
       "ENFERMERIA",
@@ -46820,7 +46820,7 @@
     "editorial": "Ministerio de Eduación",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-00-0688-0",
+    "isbn": "9789500006880",
     "descripcion": "102 p.",
     "temas": [
       "EDUCACION",
@@ -46848,7 +46848,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-01-1293-2",
+    "isbn": "9789500112932",
     "descripcion": "280 p.",
     "temas": [
       "APARATO RESPIRATORIO",
@@ -46885,7 +46885,7 @@
     "editorial": "INET",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-00-0775-7",
+    "isbn": "9789500007757",
     "descripcion": "216 p.",
     "temas": [
       "ARITMETICA",
@@ -46914,7 +46914,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2011",
-    "isbn": "978-987-1529-82-7",
+    "isbn": "9789871529827",
     "descripcion": "252 p.",
     "temas": [
       "DIARIO DE VIAJE",
@@ -46943,7 +46943,7 @@
     "editorial": "INET",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-00-0796-2",
+    "isbn": "9789500007962",
     "descripcion": "312 p.",
     "temas": [
       "ESTATICA",
@@ -46970,7 +46970,7 @@
     "editorial": "INET",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-00-706-1",
+    "isbn": "978950007061",
     "descripcion": "244 p.",
     "temas": [
       "DINAMICA",
@@ -47000,7 +47000,7 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "950-28-0300-0",
+    "isbn": "9502803000",
     "descripcion": "512 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47023,7 +47023,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-641-533-4",
+    "isbn": "9789506415334",
     "descripcion": "288 p.",
     "temas": [
       "ADMINISTRACION",
@@ -47051,7 +47051,7 @@
     "editorial": "Paidós",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-12-7537-X",
+    "isbn": "950127537X",
     "descripcion": "200 p.",
     "temas": [
       "ACTIVIDADES DE APRENDIZAJE",
@@ -47085,7 +47085,7 @@
     "editorial": "Puerto de Palos",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-547-386-7",
+    "isbn": "9789875473867",
     "descripcion": "208 p.",
     "temas": [
       "ADN",
@@ -47114,7 +47114,7 @@
     "editorial": "Editorial Estudio",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-897-369-26",
+    "isbn": "97895089736926",
     "descripcion": "304 p.",
     "temas": [
       "ACTOS ADMINISTRATIVOS",
@@ -47143,7 +47143,7 @@
     "editorial": "Monte Olivia",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978--950-754-291--6",
+    "isbn": "9789507542916",
     "descripcion": "192 p.",
     "temas": [
       "HISTORIA",
@@ -47170,7 +47170,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-07-3200-0",
+    "isbn": "9789500732000",
     "descripcion": "288 p.",
     "temas": [
       "ADMINISTRACION PUBLICA",
@@ -47197,10 +47197,10 @@
     "editorial": "Ediciones Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1995",
-    "isbn": "950-9385-26-3",
+    "isbn": "9509385263",
     "descripcion": "343 p.",
     "temas": [
-      "CONSTITUCIONES",
+      "CONSTITUCION",
       "DEMOCRACIA",
       "DERECHO",
       "EDUCACION CIVICA",
@@ -47230,7 +47230,7 @@
     "editorial": "Fundación Patagonia Natural",
     "lugar": "Puerto Madryn",
     "anio": "2009",
-    "isbn": "978-987-1590-01-8",
+    "isbn": "9789871590018",
     "descripcion": "90 p.",
     "temas": [
       "PRODUCTOS TURISTICOS",
@@ -47264,7 +47264,7 @@
     "editorial": "El ateneo",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-02-8676-3",
+    "isbn": "9789500286763",
     "descripcion": "208 p.",
     "temas": [
       "CIENCIA POLITICA",
@@ -47300,7 +47300,7 @@
     "editorial": "Larousse",
     "lugar": "México",
     "anio": "2006",
-    "isbn": "978-970-22-1617-9",
+    "isbn": "9789702216179",
     "descripcion": "234 p.",
     "temas": [
       "DICCIONARIO",
@@ -47326,7 +47326,7 @@
     "editorial": "Boabad",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-552-101-8",
+    "isbn": "9789875521018",
     "descripcion": "208 p.",
     "temas": [
       "AREAS NATURALES",
@@ -47368,7 +47368,7 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "950-28-03019-1",
+    "isbn": "95028030191",
     "descripcion": "448 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47391,7 +47391,7 @@
     "editorial": "Macchi",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-537303-1",
+    "isbn": "9505373031",
     "descripcion": "119 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -47417,7 +47417,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-641-574-7",
+    "isbn": "9789506415747",
     "descripcion": "224 p.",
     "temas": [
       "ADMINISTRACION",
@@ -47445,7 +47445,7 @@
     "editorial": "Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "987-507-045-9",
+    "isbn": "9875070459",
     "descripcion": "236 p.",
     "temas": [
       "4",
@@ -47475,7 +47475,7 @@
     "editorial": "Amorrortu",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-518-708-9",
+    "isbn": "9789505187089",
     "descripcion": "368 p.",
     "temas": [
       "4",
@@ -47504,7 +47504,7 @@
     "editorial": "Booket",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-580-364-0",
+    "isbn": "9789875803640",
     "descripcion": "416 p.",
     "temas": [
       "GUERRA DEL PARAGUAY",
@@ -47531,7 +47531,7 @@
     "editorial": "Aliana",
     "lugar": "Barcelona",
     "anio": "1982",
-    "isbn": "84-206-5101-X",
+    "isbn": "842065101X",
     "descripcion": "882 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47554,7 +47554,7 @@
     "editorial": "Larousse",
     "lugar": "México",
     "anio": "2003",
-    "isbn": "978-970-22-0482-4",
+    "isbn": "9789702204824",
     "descripcion": "389 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47579,7 +47579,7 @@
     "editorial": "Aliana",
     "lugar": "Barcelona",
     "anio": "1982",
-    "isbn": "84-206-5102-8",
+    "isbn": "8420651028",
     "descripcion": "1836 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47599,10 +47599,10 @@
     "subtitulo": "Informe de la Comisión de Salud y Medio Ambiente de la OMS",
     "autor": "Organización Panamericana de la Salud",
     "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "2020",
-    "isbn": "",
+    "editorial": "Organización Panamericana de la Salud",
+    "lugar": "Washington D.C.",
+    "anio": "1993",
+    "isbn": "9275315447",
     "descripcion": "XXXVII, 302 p.",
     "temas": [
       "ALIMENTACION",
@@ -47633,7 +47633,7 @@
     "editorial": "Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-9385-89-1",
+    "isbn": "9509385891",
     "descripcion": "895 p.",
     "temas": [
       "DERECHO",
@@ -47659,7 +47659,7 @@
     "editorial": "Aliana",
     "lugar": "Barcelona",
     "anio": "1982",
-    "isbn": "84-206-5102-8",
+    "isbn": "8420651028",
     "descripcion": "2747 p.",
     "temas": [
       "DICCIONARIOS",
@@ -47674,29 +47674,6 @@
     "disponible": true
   },
   {
-    "id": 1739,
-    "titulo": "Diccionario de filosofía",
-    "subtitulo": "Q/Z",
-    "autor": "Ferrater Mora. José",
-    "autores_secundarios": [],
-    "editorial": "Aliana",
-    "lugar": "Barcelona",
-    "anio": "2020",
-    "isbn": "84-206-5104-4",
-    "descripcion": "1836 p.",
-    "temas": [
-      "DICCIONARIOS",
-      "FILOSOFIA",
-      "REFERENCIA"
-    ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
-    "inventarios": [
-      "000827",
-      "000827"
-    ],
-    "disponible": true
-  },
-  {
     "id": 1740,
     "titulo": "Argentina, Brasil, Mercosur",
     "subtitulo": "Una decisión estratégica",
@@ -47705,7 +47682,7 @@
     "editorial": "Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "978-507-099-8",
+    "isbn": "9785070998",
     "descripcion": "419 p.",
     "temas": [
       "ACUERDOS INTERNACIONALES",
@@ -47732,7 +47709,7 @@
     "editorial": "Booket",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-580-366-4",
+    "isbn": "9789875803664",
     "descripcion": "300 p.",
     "temas": [
       "4",
@@ -47765,7 +47742,7 @@
     "editorial": "Booket",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-580-366-6",
+    "isbn": "9789875803666",
     "descripcion": "270 p.",
     "temas": [
       "4",
@@ -47795,7 +47772,7 @@
     "editorial": "Monsa",
     "lugar": "Barcelona",
     "anio": "2006",
-    "isbn": "84-95275-36-8",
+    "isbn": "8495275368",
     "descripcion": "207 p.",
     "temas": [
       "ANOREXIA",
@@ -47826,7 +47803,7 @@
     "editorial": "Monsa",
     "lugar": "Barcelona",
     "anio": "2006",
-    "isbn": "84-95275-37-6",
+    "isbn": "8495275376",
     "descripcion": "207 p.",
     "temas": [
       "CONDUCTA",
@@ -47863,7 +47840,7 @@
     "editorial": "Fundación Patagonia Natural",
     "lugar": "Puerto Madryn",
     "anio": "2008",
-    "isbn": "978-987-24414-0-1",
+    "isbn": "9789872441401",
     "descripcion": "152 p.",
     "temas": [
       "AVES",
@@ -47895,7 +47872,7 @@
     "editorial": "CONICET",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "950-687-041-1",
+    "isbn": "9506870411",
     "descripcion": "160 p.",
     "temas": [
       "ALGEBRA VECTORIAL",
@@ -47919,7 +47896,7 @@
     "editorial": "Inst. Superior Dr. Arturo Jauretche",
     "lugar": "Merlo",
     "anio": "2009",
-    "isbn": "978-987-24193-7-0",
+    "isbn": "9789872419370",
     "descripcion": "156 p.",
     "temas": [
       "AMERICA LATINA",
@@ -47979,7 +47956,7 @@
     "editorial": "Troquel",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-16-2059-X",
+    "isbn": "950162059X",
     "descripcion": "281 p.",
     "temas": [
       "DESARROLLO URBANO",
@@ -48076,7 +48053,7 @@
     "editorial": "A-Z",
     "lugar": "Buenos Aires",
     "anio": "2001",
-    "isbn": "950-534-150-4",
+    "isbn": "9505341504",
     "descripcion": "574 p.",
     "temas": [
       "DERECHO",
@@ -48099,7 +48076,7 @@
     "editorial": "Rubí ediciones",
     "lugar": "Ushuaia",
     "anio": "2007",
-    "isbn": "987-21676-5-6",
+    "isbn": "9872167656",
     "descripcion": "128 p.",
     "temas": [
       "ENSAYO",
@@ -48126,7 +48103,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0519-0",
+    "isbn": "9500005190",
     "descripcion": "152 p.",
     "temas": [
       "COMBUSTIBLES",
@@ -48151,7 +48128,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-1529-89-6",
+    "isbn": "9789871529896",
     "descripcion": "100 p.",
     "temas": [
       "ANTOLOGIA",
@@ -48167,21 +48144,7 @@
       "003882",
       "003882",
       "003883",
-      "003883",
-      "003884",
-      "003884",
-      "003885",
-      "003885",
-      "003886",
-      "003886",
-      "003887",
-      "003887",
-      "003888",
-      "003888",
-      "003889",
-      "003889",
-      "003890",
-      "003890"
+      "003883"
     ],
     "disponible": true
   },
@@ -48194,7 +48157,7 @@
     "editorial": "Monte Olivia",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978--950-754-273--2",
+    "isbn": "9789507542732",
     "descripcion": "160 p.",
     "temas": [
       "HISTORIA",
@@ -48221,7 +48184,7 @@
     "editorial": "Monte Olivia",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978--950-754-273--2",
+    "isbn": "9789507542732",
     "descripcion": "160 p.",
     "temas": [
       "HISTORIA",
@@ -48248,7 +48211,7 @@
     "editorial": "Monte Olivia",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978--950-754-271-8",
+    "isbn": "9789507542718",
     "descripcion": "160 p.",
     "temas": [
       "HISTORIA",
@@ -48275,7 +48238,7 @@
     "editorial": "Eudeba",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-23-1641-3",
+    "isbn": "9789502316413",
     "descripcion": "152 p.",
     "temas": [
       "ABORIGENES AMERICANOS",
@@ -48330,7 +48293,7 @@
     "editorial": "Macchi",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-537-349-X",
+    "isbn": "950537349X",
     "descripcion": "421 p.",
     "temas": [
       "DESARROLLO ECONOMICO",
@@ -48355,7 +48318,7 @@
     "editorial": "Macmillan",
     "lugar": "Oxford",
     "anio": "2006",
-    "isbn": "978-1-40506527-3",
+    "isbn": "9781405065273",
     "descripcion": "751 p.",
     "temas": [
       "DICCIONARIOS",
@@ -48387,7 +48350,7 @@
       "LENGUA INGLESA",
       "REFERENCIA"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "003864",
       "003864"
@@ -48403,7 +48366,7 @@
     "editorial": "Monte Olivia",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978--950-754-272-5",
+    "isbn": "9789507542725",
     "descripcion": "208 p.",
     "temas": [
       "HISTORIA",
@@ -48431,7 +48394,7 @@
     "editorial": "Fondo de Cultura Económica",
     "lugar": "México",
     "anio": "1976",
-    "isbn": "968-16- 0627- 2",
+    "isbn": "9681606272",
     "descripcion": "311 p.",
     "temas": [
       "BIOLOGIA",
@@ -48463,7 +48426,7 @@
     "editorial": "Librería de la Paz",
     "lugar": "Resistencia",
     "anio": "2009",
-    "isbn": "978-987-1224-78-4",
+    "isbn": "9789871224784",
     "descripcion": "232 p.",
     "temas": [
       "ENSAYO LITERARIO",
@@ -48490,11 +48453,12 @@
     "editorial": "Librería de la Paz",
     "lugar": "Resistencia",
     "anio": "2010",
-    "isbn": "978-987-1671-11-3",
+    "isbn": "9789871671113",
     "descripcion": "208 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA HOMOEROTICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -48523,7 +48487,7 @@
       "HISTORIA ARGENTINA",
       "MARINOS"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "003880",
       "003880"
@@ -48539,7 +48503,7 @@
     "editorial": "Librería de la Paz",
     "lugar": "Resistencia",
     "anio": "2009",
-    "isbn": "978-987-1224-77-7",
+    "isbn": "9789871224777",
     "descripcion": "444 p.",
     "temas": [
       "LITERATURA",
@@ -48567,7 +48531,7 @@
     "editorial": "Ediciones B",
     "lugar": "España",
     "anio": "2009",
-    "isbn": "978-84-666-420-6",
+    "isbn": "978846664206",
     "descripcion": "248 p.",
     "temas": [
       "LITERATURA",
@@ -48593,7 +48557,7 @@
     "editorial": "CICCUS",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9355-42-8",
+    "isbn": "9789879355428",
     "descripcion": "224 p.",
     "temas": [
       "DESARROLLO ECONOMICO",
@@ -48619,7 +48583,7 @@
     "editorial": "Cántaro",
     "lugar": "Boulogne",
     "anio": "2010",
-    "isbn": "987-950-753-063-0",
+    "isbn": "9879507530630",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -48644,7 +48608,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-1174-1",
+    "isbn": "9789870411741",
     "descripcion": "208 p.",
     "temas": [
       "LITERATURA",
@@ -48670,7 +48634,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0502-6",
+    "isbn": "9500005026",
     "descripcion": "132 p.",
     "temas": [
       "FISICA",
@@ -48695,9 +48659,9 @@
       "Bianco, José"
     ],
     "editorial": "Cántaro",
-    "lugar": "Boulogne",
+    "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-753-258-0",
+    "isbn": "9789507532580",
     "descripcion": "160 p",
     "temas": [
       "LITERATURA",
@@ -48723,9 +48687,9 @@
       "Seoane, Silvia"
     ],
     "editorial": "Estrada",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-01-1036-5",
+    "isbn": "9789500110365",
     "descripcion": "88 p.",
     "temas": [
       "ANTOLOGIA",
@@ -48750,9 +48714,9 @@
       "Purdía, Manuel"
     ],
     "editorial": "Estrada",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-01-1051-8",
+    "isbn": "9789500110518",
     "descripcion": "112 p.",
     "temas": [
       "LITERATURA",
@@ -48778,7 +48742,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0523-9",
+    "isbn": "9500005239",
     "descripcion": "124 p.",
     "temas": [
       "AGUA",
@@ -48810,7 +48774,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0505-0",
+    "isbn": "9500005050",
     "descripcion": "140 p.",
     "temas": [
       "CAPACITACION DOCENTE",
@@ -48838,7 +48802,7 @@
     "editorial": "Ministerio de Educación, Ciencia y Tecnología de la Nación.",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-00-0520-4",
+    "isbn": "9500005204",
     "descripcion": "212 p.",
     "temas": [
       "CAPACITACION DOCENTE",
@@ -48897,7 +48861,7 @@
     "temas": [
       "SOCIOLOGIA"
     ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "000808",
       "000808"
@@ -48916,7 +48880,7 @@
     "editorial": "Paidós",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7722",
+    "isbn": "978950127722",
     "descripcion": "384 p.",
     "temas": [
       "COLONIALISMO",
@@ -48942,7 +48906,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-02-5004-3",
+    "isbn": "9789870250043",
     "descripcion": "184 p.",
     "temas": [
       "CLIMATOLOGIA",
@@ -48969,7 +48933,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-614-123-9",
+    "isbn": "9789876141239",
     "descripcion": "104 p.",
     "temas": [
       "DESARROLLO REGIONAL",
@@ -49018,7 +48982,7 @@
     "editorial": "Alfaomega",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "987-23113-1-5",
+    "isbn": "9872311315",
     "descripcion": "560 p.",
     "temas": [
       "AGRICULTURA",
@@ -49050,7 +49014,7 @@
     "editorial": "Siglo Veintiuno Editores",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-629-113-2",
+    "isbn": "9789876291132",
     "descripcion": "384 p.",
     "temas": [
       "ENSAYO",
@@ -49075,7 +49039,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-641-592-1",
+    "isbn": "9789506415921",
     "descripcion": "176 p.",
     "temas": [
       "DESCUENTOS",
@@ -49122,7 +49086,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-545-547-4",
+    "isbn": "9789875455474",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
@@ -49148,7 +49112,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-07-2643-06",
+    "isbn": "97895007264306",
     "descripcion": "64 p.",
     "temas": [
       "CUENTOS",
@@ -49173,7 +49137,7 @@
     "editorial": "Ariel",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-9122-43-7",
+    "isbn": "9789509122437",
     "descripcion": "144 p.",
     "temas": [
       "ETICA",
@@ -49198,7 +49162,7 @@
     "editorial": "Cantaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-735-252-8",
+    "isbn": "9789507352528",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -49222,7 +49186,7 @@
     "editorial": "Grupo Imaginador de Ediciones",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-768-499-9",
+    "isbn": "9507684999",
     "descripcion": "96 p.",
     "temas": [
       "BEBIDAS",
@@ -49249,7 +49213,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-641-127-5",
+    "isbn": "9789506411275",
     "descripcion": "416 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -49278,7 +49242,7 @@
     "editorial": "Siruela",
     "lugar": "Madrid",
     "anio": "2009",
-    "isbn": "978-84-7844-815-9",
+    "isbn": "9788478448159",
     "descripcion": "638 p.",
     "temas": [
       "FILOSOFIA",
@@ -49333,7 +49297,7 @@
     "editorial": "McGraw Hill",
     "lugar": "México",
     "anio": "2008",
-    "isbn": "970-10-6524-7",
+    "isbn": "9701065247",
     "descripcion": "667 p.",
     "temas": [
       "ADMINISTRACION",
@@ -49360,7 +49324,7 @@
     "editorial": "GZ Editores",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-1258-05-4",
+    "isbn": "9871258054",
     "descripcion": "159 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -49386,7 +49350,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-786-713-2",
+    "isbn": "9789507867132",
     "descripcion": "156 p.",
     "temas": [
       "ESCRITURA",
@@ -49413,7 +49377,7 @@
     "editorial": "Debolsillo",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "987-566-128-7",
+    "isbn": "9875661287",
     "descripcion": "320 p.",
     "temas": [
       "AUTOAYUDA",
@@ -49462,7 +49426,7 @@
     "editorial": "Medica Panamericana",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-950-06-0167-2",
+    "isbn": "9789500601672",
     "descripcion": "996 p.",
     "temas": [
       "4",
@@ -49498,7 +49462,7 @@
     "editorial": "Oceano",
     "lugar": "Madrid",
     "anio": "2009",
-    "isbn": "978-84-494-3905-6",
+    "isbn": "9788449439056",
     "descripcion": "307 p.",
     "temas": [
       "ANIMACION A LA LECTURA",
@@ -49524,7 +49488,7 @@
     "editorial": "Libros del Zorzal",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "987-599-020-5",
+    "isbn": "9875990205",
     "descripcion": "224 p.",
     "temas": [
       "FORMACION DE DOCENTES",
@@ -49549,7 +49513,7 @@
     "editorial": "Libros del Zorzal",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-1081-73-1",
+    "isbn": "9871081731",
     "descripcion": "128 p.",
     "temas": [
       "APRENDIZAJE",
@@ -49575,7 +49539,7 @@
     "editorial": "Siglo Veintiuno",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-98478-0-6",
+    "isbn": "9879847806",
     "descripcion": "247 p.",
     "temas": [
       "CIENCIA",
@@ -49600,7 +49564,7 @@
     "editorial": "Libros del Zorzal",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-1081-88-X",
+    "isbn": "987108188X",
     "descripcion": "176 p.",
     "temas": [
       "CAMBIO CLIMATICO",
@@ -49627,7 +49591,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-892-171-0",
+    "isbn": "9789508921710",
     "descripcion": "64 p.",
     "temas": [
       "CIENCIAS SOCIALES",
@@ -49652,7 +49616,7 @@
     "editorial": "Maipue",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-9493-11-7",
+    "isbn": "9879493117",
     "descripcion": "224 p.",
     "temas": [
       "ECOLOGIA",
@@ -49682,7 +49646,7 @@
     "editorial": "Cengace Learning argentina",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-1486-71-7",
+    "isbn": "9789871486717",
     "descripcion": "232 p.",
     "temas": [
       "CONTAMINACION AMBIENTAL",
@@ -49708,7 +49672,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-545-422-4",
+    "isbn": "9789875454224",
     "descripcion": "250 p.",
     "temas": [
       "CONTAMINACION AMBIENTAL",
@@ -49735,7 +49699,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-545-466-8",
+    "isbn": "9789875454668",
     "descripcion": "144 p.",
     "temas": [
       "ENSENANZA DE LA MATEMATICA",
@@ -49760,7 +49724,7 @@
     "editorial": "Adriana Hidalgo Editora",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-9396-38-4",
+    "isbn": "9789879396384",
     "descripcion": "272 p.",
     "temas": [
       "ENSAYO",
@@ -49788,7 +49752,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-9065-24-2",
+    "isbn": "9789879065242",
     "descripcion": "176 p.",
     "temas": [
       "ASTRONOMIA",
@@ -49813,7 +49777,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-545-467-5",
+    "isbn": "9789875454675",
     "descripcion": "152 p.",
     "temas": [
       "ASTRONOMIA",
@@ -49839,7 +49803,7 @@
     "editorial": "Alianza",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-40-0268-0",
+    "isbn": "9789504002680",
     "descripcion": "160 p.",
     "temas": [
       "FISICA",
@@ -49863,7 +49827,7 @@
     "editorial": "Comunic-arte",
     "lugar": "Córdoba",
     "anio": "2005",
-    "isbn": "987-1151-82-9",
+    "isbn": "9871151829",
     "descripcion": "144 p.",
     "temas": [
       "EINSTEIN",
@@ -49892,7 +49856,7 @@
     "editorial": "Pearson Educación",
     "lugar": "México",
     "anio": "2006",
-    "isbn": "970-26-0670-5",
+    "isbn": "9702606705",
     "descripcion": "736 p.",
     "temas": [
       "ADITIVOS PARA ALIMENTOS",
@@ -49930,7 +49894,7 @@
     "editorial": "Homo Sapiens Editores",
     "lugar": "Rosario",
     "anio": "2012",
-    "isbn": "978-950-808-584-9",
+    "isbn": "9789508085849",
     "descripcion": "303 p.",
     "temas": [
       "CENSURA",
@@ -49963,7 +49927,7 @@
     "editorial": "Pearson Educación",
     "lugar": "Madrid",
     "anio": "2004",
-    "isbn": "978-842-053-905-8",
+    "isbn": "9788420539058",
     "descripcion": "520 p.",
     "temas": [
       "AGRICULTURA",
@@ -50067,7 +50031,7 @@
     "editorial": "Estrada",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-01-1148-5",
+    "isbn": "9789500111485",
     "descripcion": "208 p.",
     "temas": [
       "AMERICA PRECOLOMBINA",
@@ -50162,7 +50126,7 @@
     "editorial": "Cátedra",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-06-0399-3",
+    "isbn": "9789870603993",
     "descripcion": "v. 1, 440 p.",
     "temas": [
       "EPOCA COLONIAL",
@@ -50188,7 +50152,7 @@
     "editorial": "Cátedra",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-06-0399-3",
+    "isbn": "9789870603993",
     "descripcion": "v. 3, 1040 p.",
     "temas": [
       "HISTORIA DE LA LITERATURA",
@@ -50214,7 +50178,7 @@
     "editorial": "Cátedra",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-06-0401-3",
+    "isbn": "9789870604013",
     "descripcion": "v. 2, 748 p.",
     "temas": [
       "HISTORIA DE LA LITERATURA",
@@ -50239,7 +50203,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-545-373-9",
+    "isbn": "9789875453739",
     "descripcion": "300 p.",
     "temas": [
       "ENSAYO",
@@ -50262,9 +50226,9 @@
     "autor": "Eggers Brass, Teresa",
     "autores_secundarios": [],
     "editorial": "Maipue",
-    "lugar": "Ituzaingó",
+    "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "987-9493-20-1",
+    "isbn": "9879493201",
     "descripcion": "768 p.",
     "temas": [
       "GUERRA DE MALVINAS",
@@ -50293,7 +50257,7 @@
     "editorial": "Marea",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1307-19-7",
+    "isbn": "9789871307197",
     "descripcion": "240 p.",
     "temas": [
       "CONTAMINACION",
@@ -50319,7 +50283,7 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-550-698-5",
+    "isbn": "9789875506985",
     "descripcion": "2725 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -50343,7 +50307,7 @@
     "editorial": "Marea",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1307-17-3",
+    "isbn": "9789871307173",
     "descripcion": "256 p.",
     "temas": [
       "DERECHOS HUMANOS",
@@ -50364,17 +50328,18 @@
     "subtitulo": "Un diálogo entre Einstein, Newton, Bohr, Heisenberg, Hawking y Baruch Spinoza",
     "autor": "Sverdlik, Sami",
     "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "2020",
-    "isbn": "",
-    "descripcion": "",
+    "editorial": "Lugar",
+    "lugar": "Buenos Aires",
+    "anio": "2012",
+    "isbn": "9789508922052",
+    "descripcion": "80 p.",
     "temas": [
       "CIENCIA",
       "CIENTIFICOS",
       "FISION NUCLEAR",
       "MECANICA CUANTICA",
-      "RELATIVIDAD"
+      "RELATIVIDAD",
+      "SOCIOLOGIA DE LA CULTURA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -50450,14 +50415,14 @@
     "editorial": "Retina",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-21815-0-0",
+    "isbn": "9872181500",
     "descripcion": "72 p.",
     "temas": [
-      "4",
       "ARTE",
       "FOLKLORE",
       "FOTOGRAFIA",
       "INSTRUMENTOS MUSICALES",
+      "MUSICA",
       "MUSICA POPULAR",
       "VIAJES"
     ],
@@ -50477,7 +50442,7 @@
     "editorial": "Conicet",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-692-003-6",
+    "isbn": "9506920036",
     "descripcion": "212 p.",
     "temas": [
       "ARISTOTELES",
@@ -50515,7 +50480,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "978-950-786-498-8",
+    "isbn": "9789507864988",
     "descripcion": "159 p.",
     "temas": [
       "ALUVIONES",
@@ -50548,7 +50513,7 @@
     "editorial": "Oceano Travesia",
     "lugar": "Barcelona",
     "anio": "2008",
-    "isbn": "978-84-494-3882-0",
+    "isbn": "9788449438820",
     "descripcion": "491 p.",
     "temas": [
       "BIBLIOTECA ESCOLAR",
@@ -50580,7 +50545,7 @@
     "editorial": "Lumen",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-00-0761-6",
+    "isbn": "9789870007616",
     "descripcion": "128 p.",
     "temas": [
       "DESARROLLO ECONOMICO Y SOCIAL",
@@ -50629,7 +50594,7 @@
     "editorial": "Aique",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-06-0214-9",
+    "isbn": "9789870602149",
     "descripcion": "272 p.",
     "temas": [
       "GRAMATICA",
@@ -50655,8 +50620,8 @@
     "editorial": "Homo Sapiens",
     "lugar": "Rosario",
     "anio": "2012",
-    "isbn": "950-808-361-1",
-    "descripcion": "1801 p.",
+    "isbn": "9508083611",
+    "descripcion": "180 p.",
     "temas": [
       "DISCURSOS",
       "ENSAYO",
@@ -50680,7 +50645,7 @@
     "editorial": "Dialektik",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-22769-3-5",
+    "isbn": "9789872276935",
     "descripcion": "512 p.",
     "temas": [
       "AFIANZAMIENTO",
@@ -50720,7 +50685,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7725-8",
+    "isbn": "9789501277258",
     "descripcion": "248 p.",
     "temas": [
       "ARGENTINA 1874-1886",
@@ -50754,7 +50719,7 @@
     "editorial": "Homo Sapiens",
     "lugar": "Rosario",
     "anio": "2012",
-    "isbn": "978-950-808-561-0",
+    "isbn": "9789508085610",
     "descripcion": "198 p.",
     "temas": [
       "AMERICA LATINA",
@@ -50785,7 +50750,7 @@
     "editorial": "Leviatan",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-514-210-7",
+    "isbn": "9789875142107",
     "descripcion": "320 p.",
     "temas": [
       "EPISTOLAS",
@@ -50838,7 +50803,7 @@
     "editorial": "Ariel",
     "lugar": "Buenos aires",
     "anio": "2004",
-    "isbn": "950-9122-86-6",
+    "isbn": "9509122866",
     "descripcion": "776 p.",
     "temas": [
       "CIENCIAS POLITICAS",
@@ -50859,11 +50824,11 @@
     "subtitulo": "Una guía práctica para maestros",
     "autor": "Salm, Randall",
     "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "2020",
-    "isbn": "",
-    "descripcion": "",
+    "editorial": "Alfaomega",
+    "lugar": "Bogota",
+    "anio": "1998",
+    "isbn": "9789582004569",
+    "descripcion": "174 p.",
     "temas": [
       "CONFLICTOS",
       "CONFLICTOS SOCIALES",
@@ -50890,7 +50855,7 @@
     "editorial": "Paidós",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "950-12-7709-7",
+    "isbn": "9501277097",
     "descripcion": "567 p.",
     "temas": [
       "DEMOCRACIA",
@@ -50915,7 +50880,7 @@
     "editorial": "Macchi",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "950-537-599-9",
+    "isbn": "9505375999",
     "descripcion": "159 p.",
     "temas": [
       "GLOBALIZACION NEOLIBERAL",
@@ -50942,7 +50907,7 @@
     "editorial": "Taurus",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-511-903-5",
+    "isbn": "9789505119035",
     "descripcion": "416 p.",
     "temas": [
       "CONTABILIDAD CREATIVA",
@@ -50971,7 +50936,7 @@
     "editorial": "Homo Sapiens",
     "lugar": "Rosario",
     "anio": "2012",
-    "isbn": "978-950-808-542-9",
+    "isbn": "9789508085429",
     "descripcion": "360 p.",
     "temas": [
       "CIENCIAS POLITICAS",
@@ -51003,7 +50968,7 @@
     "editorial": "Homo Sapiens",
     "lugar": "Rosario",
     "anio": "2012",
-    "isbn": "950-808-441-3",
+    "isbn": "9508084413",
     "descripcion": "168 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -51029,7 +50994,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7721-0",
+    "isbn": "9789501277210",
     "descripcion": "176 p.",
     "temas": [
       "ABORIGENES ARGENTINOS",
@@ -51054,7 +51019,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7727-2",
+    "isbn": "9789501277272",
     "descripcion": "176 p.",
     "temas": [
       "ARGENTINA 1943",
@@ -51083,7 +51048,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-892-228-1",
+    "isbn": "9789508922281",
     "descripcion": "136 p.",
     "temas": [
       "EDUCACION",
@@ -51108,7 +51073,7 @@
     "editorial": "Dialektik",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-22769-2-8",
+    "isbn": "9789872276928",
     "descripcion": "320 p.",
     "temas": [
       "CAPITALISMO",
@@ -51137,7 +51102,7 @@
     "editorial": "Seix Barrial",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-731-722-4",
+    "isbn": "9789507317224",
     "descripcion": "184 p.",
     "temas": [
       "ENSAYO",
@@ -51163,7 +51128,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-9065-56-3",
+    "isbn": "9789879065563",
     "descripcion": "176 p.",
     "temas": [
       "FISICA",
@@ -51187,7 +51152,7 @@
     "editorial": "Lumen",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-00-0986-3",
+    "isbn": "9789870009863",
     "descripcion": "288 p.",
     "temas": [
       "AMERICA LATINA",
@@ -51219,7 +51184,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7726-5",
+    "isbn": "9789501277265",
     "descripcion": "224 p.",
     "temas": [
       "COMERCIO EXTERIOR",
@@ -51250,7 +51215,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7724-1",
+    "isbn": "9789501277241",
     "descripcion": "144 p.",
     "temas": [
       "COLONIZACION",
@@ -51285,7 +51250,7 @@
     "editorial": "Maipue",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-9493-16-8",
+    "isbn": "9879493168",
     "descripcion": "220 p.",
     "temas": [
       "ENSENANZA DE LA FILOSOFIA",
@@ -51313,7 +51278,7 @@
     "editorial": "Pearson Educacion",
     "lugar": "Madrid",
     "anio": "2007",
-    "isbn": "978-84-7829-084-0",
+    "isbn": "9788478290840",
     "descripcion": "776 p.",
     "temas": [
       "AMBIENTE FISICO",
@@ -51346,7 +51311,7 @@
     "editorial": "Vincens Vivens",
     "lugar": "Barcelona",
     "anio": "2012",
-    "isbn": "978-84-316-7092-4",
+    "isbn": "9788431670924",
     "descripcion": "289 p.",
     "temas": [
       "ELECTROTASTICA",
@@ -51375,7 +51340,7 @@
     "editorial": "Continente",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-754-110-0",
+    "isbn": "9789507541100",
     "descripcion": "208 p.",
     "temas": [
       "CONFLICTOS SOCIALES",
@@ -51396,11 +51361,11 @@
     "subtitulo": "Cazadores de identidad",
     "autor": "Caffarelli, Constanza",
     "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "2020",
-    "isbn": "",
-    "descripcion": "",
+    "editorial": "Lumen",
+    "lugar": "Buenos Aires",
+    "anio": "2008",
+    "isbn": "9789870008316",
+    "descripcion": "208 p.",
     "temas": [
       "ADOLESCENCIA",
       "ESTETICA",
@@ -51429,7 +51394,7 @@
     "editorial": "Comunic-arte",
     "lugar": "Córdoba",
     "anio": "2004",
-    "isbn": "987-1151-38-1",
+    "isbn": "9871151381",
     "descripcion": "162 p.",
     "temas": [
       "ARTE",
@@ -51455,7 +51420,7 @@
     "editorial": "Troquel",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-16-0351-4",
+    "isbn": "9789501603514",
     "descripcion": "160 p.",
     "temas": [
       "ARQUITECTURA",
@@ -51479,7 +51444,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-892-305-9",
+    "isbn": "9789508923059",
     "descripcion": "344 p.",
     "temas": [
       "ECOLOGIA",
@@ -51506,7 +51471,7 @@
     "editorial": "Pluma y papel",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1021-60-4",
+    "isbn": "9789871021604",
     "descripcion": "240 p.",
     "temas": [
       "MATEMATICA",
@@ -51529,7 +51494,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "978-950-786-260-1",
+    "isbn": "9789507862601",
     "descripcion": "378 p.",
     "temas": [
       "ARGENTINA 1955-1972",
@@ -51582,7 +51547,7 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-550-827-9",
+    "isbn": "9789875508279",
     "descripcion": "160 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -51611,7 +51576,7 @@
     "editorial": "Vicens Vives",
     "lugar": "Barcelona",
     "anio": "2012",
-    "isbn": "978-84-316-7094-8",
+    "isbn": "9788431670948",
     "descripcion": "337 p.",
     "temas": [
       "ATOMOS",
@@ -51702,7 +51667,7 @@
     "editorial": "Astrea",
     "lugar": "Buenos Aires",
     "anio": "1977",
-    "isbn": "950-508-17-3",
+    "isbn": "950508173",
     "descripcion": "704 p.",
     "temas": [
       "CULTURA",
@@ -51739,7 +51704,7 @@
     "editorial": "Cathedra Jurídica",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1419-62-3",
+    "isbn": "9789871419623",
     "descripcion": "213 p.",
     "temas": [
       "ADMINISTRACION PUBLICA",
@@ -51765,7 +51730,7 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-550-781-4",
+    "isbn": "9789875507814",
     "descripcion": "224 p.",
     "temas": [
       "HISTOGRAFIA",
@@ -51788,7 +51753,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-892-207-6",
+    "isbn": "9789508922076",
     "descripcion": "128 p.",
     "temas": [
       "DERECHO",
@@ -51815,7 +51780,7 @@
     "editorial": "AZ",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-534-520-5",
+    "isbn": "9789505345205",
     "descripcion": "270 p.",
     "temas": [
       "AMERICA LATINA",
@@ -51878,7 +51843,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-9065-97-6",
+    "isbn": "9789879065976",
     "descripcion": "208 p.",
     "temas": [
       "ECONOMETRIA",
@@ -51908,7 +51873,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-4-1659-3",
+    "isbn": "978987416593",
     "descripcion": "v. 3., 320 p.",
     "temas": [
       "ENCICLOPEDIAS",
@@ -51976,7 +51941,7 @@
     "editorial": "Albatros",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-24-1101-9",
+    "isbn": "9789502411019",
     "descripcion": "192 p.",
     "temas": [
       "FOSILES",
@@ -52003,7 +51968,7 @@
     "editorial": "AZ",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-534-495-6",
+    "isbn": "9789505344956",
     "descripcion": "281 p.",
     "temas": [
       "CIENCIAS SOCIALES",
@@ -52031,7 +51996,7 @@
     "editorial": "Alianza",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-4-0267-3",
+    "isbn": "978950402673",
     "descripcion": "269 p.",
     "temas": [
       "ASTRONOMIA",
@@ -52057,7 +52022,7 @@
     "editorial": "Grupo Editor Universitario",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "987-96182-9-7",
+    "isbn": "9879618297",
     "descripcion": "142 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -52082,7 +52047,7 @@
     "editorial": "Ruy Diaz",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-9023-81-9",
+    "isbn": "9789509023819",
     "descripcion": "223 p.",
     "temas": [
       "CONSTITUCION NACIONAL",
@@ -52107,7 +52072,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-02-0575-7",
+    "isbn": "9789500205757",
     "descripcion": "714 p.",
     "temas": [
       "BIOLOGIA",
@@ -52138,7 +52103,7 @@
     "editorial": "Pearson Educación",
     "lugar": "México",
     "anio": "2008",
-    "isbn": "978-970-26-1194-3",
+    "isbn": "9789702611943",
     "descripcion": "1024 p.",
     "temas": [
       "ANIMALES",
@@ -52170,7 +52135,7 @@
     "editorial": "Pearson Educación",
     "lugar": "Madrir",
     "anio": "2004",
-    "isbn": "978-84-8322-336-9",
+    "isbn": "9788483223369",
     "descripcion": "422 p.",
     "temas": [
       "CAMBIO CLIMATICO",
@@ -52198,7 +52163,7 @@
     "editorial": "Estrada",
     "lugar": "San Isidro",
     "anio": "2009",
-    "isbn": "978-950-01-1190-4",
+    "isbn": "9789500111904",
     "descripcion": "127 p.",
     "temas": [
       "LITERATURA",
@@ -52223,7 +52188,7 @@
     "editorial": "Santillana",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-46-2435-6",
+    "isbn": "9789504624356",
     "descripcion": "280 p.",
     "temas": [
       "ARISTOTELES",
@@ -52256,7 +52221,7 @@
     "editorial": "Taurus",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-04-0232-9",
+    "isbn": "9789870402329",
     "descripcion": "348 p.",
     "temas": [
       "ARGENTINA",
@@ -52312,7 +52277,7 @@
     "editorial": "Libros del Quirquincho",
     "lugar": "Buenos Aires",
     "anio": "1988",
-    "isbn": "950-9732-76-1",
+    "isbn": "9509732761",
     "descripcion": "47 p.",
     "temas": [
       "INTERNACION",
@@ -52335,7 +52300,7 @@
     "editorial": "El francotirador",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-850-050-6",
+    "isbn": "9508500506",
     "descripcion": "156 p.",
     "temas": [
       "CULTURA",
@@ -52362,7 +52327,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-02-1261-1",
+    "isbn": "9870212611",
     "descripcion": "280 p.",
     "temas": [
       "CULTURA",
@@ -52387,7 +52352,7 @@
     "editorial": "CEADUC",
     "lugar": "Asuncion",
     "anio": "2010",
-    "isbn": "798-99953-76-28-4",
+    "isbn": "7989995376284",
     "descripcion": "441 p.",
     "temas": [
       "ANTROPOLOGIA CULTURAL",
@@ -52413,7 +52378,7 @@
     "editorial": "Alción",
     "lugar": "Córdoba",
     "anio": "2004",
-    "isbn": "950-9402-276-1",
+    "isbn": "95094022761",
     "descripcion": "224 p.",
     "temas": [
       "LITERATURA",
@@ -52462,7 +52427,7 @@
     "editorial": "Centro de investigaciones Ambientales",
     "lugar": "Mar del Plata",
     "anio": "2009",
-    "isbn": "978-987-544-314-3",
+    "isbn": "9789875443143",
     "descripcion": "161 p.",
     "temas": [
       "AMBIENTE",
@@ -52565,7 +52530,7 @@
     "editorial": "Consejo Federal de Inversiones",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-510-208-8",
+    "isbn": "9789875102088",
     "descripcion": "65 p.",
     "temas": [
       "CONSTRUCCION DE LA MEMORIA",
@@ -52590,7 +52555,7 @@
     "editorial": "Consejo Federal de Inversiones",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-510-194-4",
+    "isbn": "9789875101944",
     "descripcion": "60 p.",
     "temas": [
       "ENSAYO",
@@ -52613,7 +52578,7 @@
     "editorial": "Consejo Federal de Inversiones",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-510-195-1",
+    "isbn": "9789875101951",
     "descripcion": "52 p.",
     "temas": [
       "CULTURA",
@@ -52637,7 +52602,7 @@
     "editorial": "Consejo Federal de Inversiones",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-510-193-7",
+    "isbn": "9789875101937",
     "descripcion": "76 p.",
     "temas": [
       "CULTURA",
@@ -52653,46 +52618,24 @@
     "disponible": true
   },
   {
-    "id": 1918,
-    "titulo": "Investigación más acción",
-    "subtitulo": "",
-    "autor": "",
-    "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "",
-    "temas": [
-      "ARQUITECTURA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "004110",
-      "004110"
-    ],
-    "disponible": true
-  },
-  {
     "id": 1919,
     "titulo": "1º Jornada Nacional de Responsables del Patrimonio Cultural de Organismos Públicos",
     "subtitulo": "",
-    "autor": "",
+    "autor": "Mnisterio de Economia y Finanzas",
     "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
+    "editorial": "Ministerio de Economía y Finanzas",
+    "lugar": "Buenos Aires",
+    "anio": "2009",
     "isbn": "",
-    "descripcion": "",
-    "temas": [],
+    "descripcion": "57 p.",
+    "temas": [
+      "CULTURA",
+      "PATRIMONIO CULTURAL"
+    ],
     "sede": "CENT 11",
     "inventarios": [
       "004105",
-      "004105",
-      "004104",
-      "004104",
-      "004106",
-      "004106"
+      "004105"
     ],
     "disponible": true
   },
@@ -52705,7 +52648,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-581-275-2",
+    "isbn": "9789505812752",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -52731,7 +52674,7 @@
     "editorial": "Paidós",
     "lugar": "Buenos Aires",
     "anio": "1993",
-    "isbn": "84-7509-957-2",
+    "isbn": "8475099572",
     "descripcion": "265 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -52762,31 +52705,14 @@
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA HISTORICA",
+      "NOVELA ROMANTICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
     "inventarios": [
       "004487",
       "004487"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 1923,
-    "titulo": "2º Jornada Nacional de Responsables del Patrimonio Cultural de Organismos Públicos",
-    "subtitulo": "",
-    "autor": "",
-    "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "",
-    "temas": [],
-    "sede": "CENT 11",
-    "inventarios": [
-      "004107",
-      "004107"
     ],
     "disponible": true
   },
@@ -52799,7 +52725,7 @@
     "editorial": "Maipue",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9493-38-0",
+    "isbn": "9789879493380",
     "descripcion": "144 p.",
     "temas": [
       "ACTIVIDADES DE APRENDIZAJE",
@@ -52832,7 +52758,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-786-710-1",
+    "isbn": "9789507867101",
     "descripcion": "229 p.",
     "temas": [
       "CAPITALISMO",
@@ -52865,7 +52791,7 @@
     "editorial": "Maipue",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-9493-27-3",
+    "isbn": "9789493273",
     "descripcion": "336 p.",
     "temas": [
       "AGRICULTURA",
@@ -52925,7 +52851,7 @@
     "editorial": "Katz",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-987-1283-18-7",
+    "isbn": "9789871283187",
     "descripcion": "202 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -52974,12 +52900,16 @@
     "id": 1930,
     "titulo": "Contaminación y ambiente",
     "subtitulo": "De eso no se habla",
-    "autor": "",
-    "autores_secundarios": [],
+    "autor": "Rodriguez, M. C.",
+    "autores_secundarios": [
+      "Ambas, A.",
+      "Busch, M.",
+      "Dadon, J. R."
+    ],
     "editorial": "Del Aula Taller",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "987-1086-20-2",
+    "isbn": "9871086202",
     "descripcion": "84 p.",
     "temas": [
       "AMBIENTE",
@@ -53004,11 +52934,11 @@
       "Foucault, Michel",
       "Livchits, Leonel"
     ],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "",
+    "editorial": "katz",
+    "lugar": "Buenos Aires",
+    "anio": "2006",
+    "isbn": "9789871283248",
+    "descripcion": "93 p.",
     "temas": [
       "ENTREVISTAS",
       "FILOSOFIA",
@@ -53029,10 +52959,10 @@
     "autores_secundarios": [
       "Goldstein, Víctor"
     ],
-    "editorial": "Katz Editores",
+    "editorial": "Katz",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-1283-49-1",
+    "isbn": "9789871283491",
     "descripcion": "130 p.",
     "temas": [
       "CAMBIO TECNOLOGICO",
@@ -53060,7 +52990,7 @@
     "editorial": "Cantaro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-753-305-1",
+    "isbn": "9789507533051",
     "descripcion": "144 p.",
     "temas": [
       "ASTRONOMIA",
@@ -53086,7 +53016,7 @@
     "editorial": "Comunic-Art",
     "lugar": "Cordoba",
     "anio": "2008",
-    "isbn": "978-987-602-025-1",
+    "isbn": "9789876020251",
     "descripcion": "240 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -53113,7 +53043,7 @@
     "editorial": "Fondo de Cultura Economica",
     "lugar": "Mexico",
     "anio": "2010",
-    "isbn": "978-607-16-0240-4",
+    "isbn": "9786071602404",
     "descripcion": "119 p.",
     "temas": [
       "LITERATURA",
@@ -53198,7 +53128,7 @@
     "editorial": "Cantaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-073-9",
+    "isbn": "9789507530739",
     "descripcion": "272 p.",
     "temas": [
       "LITERATURA",
@@ -53221,7 +53151,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-07-1088-6",
+    "isbn": "9789500710886",
     "descripcion": "152 p.",
     "temas": [
       "CUENTOS",
@@ -53247,7 +53177,7 @@
     "editorial": "Vicens Vives",
     "lugar": "Barcelona",
     "anio": "2012",
-    "isbn": "978-84-316-6485-5",
+    "isbn": "9788431664855",
     "descripcion": "430 p.",
     "temas": [
       "BIOLOGIA",
@@ -53277,7 +53207,7 @@
     "editorial": "Troquel",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-16-5030-3",
+    "isbn": "9789501650303",
     "descripcion": "238 p.",
     "temas": [
       "ARTE",
@@ -53303,7 +53233,7 @@
     "editorial": "Troquel",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-16-5031-0",
+    "isbn": "9789501650310",
     "descripcion": "200 p.",
     "temas": [
       "ACERTIJOS",
@@ -53330,7 +53260,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-632-981-1",
+    "isbn": "9789876329811",
     "descripcion": "348 p.",
     "temas": [
       "CULTURA",
@@ -53355,7 +53285,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-632-982-8",
+    "isbn": "9789876329828",
     "descripcion": "301 p.",
     "temas": [
       "CULTURA",
@@ -53383,7 +53313,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "950-511-595-4",
+    "isbn": "9505115954",
     "descripcion": "96 p.",
     "temas": [
       "CUENTOS",
@@ -53409,7 +53339,7 @@
     "editorial": "Grupo Editorial Norma",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-987-545-364-7",
+    "isbn": "9789875453647",
     "descripcion": "88 p.",
     "temas": [
       "CUENTOS",
@@ -53461,7 +53391,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-563-474-3",
+    "isbn": "9789505634743",
     "descripcion": "320 p.",
     "temas": [
       "CALCHAQUI",
@@ -53513,7 +53443,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-28284-4-8",
+    "isbn": "9789872828448",
     "descripcion": "60 p.",
     "temas": [
       "ANTOLOGIA",
@@ -53540,7 +53470,7 @@
     "editorial": "Del sol",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-9413-40-2",
+    "isbn": "9509413402",
     "descripcion": "272 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -53568,7 +53498,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-9413-35-6",
+    "isbn": "9509413356",
     "descripcion": "144 p.",
     "temas": [
       "ANTROPOLOGIA SOCIAL",
@@ -53600,7 +53530,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "1993",
-    "isbn": "950-9413-52-6",
+    "isbn": "9509413526",
     "descripcion": "309 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -53629,9 +53559,11 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-9413-28-3",
+    "isbn": "9509413283",
     "descripcion": "176 p.",
     "temas": [
+      "CONTEMPORANEA",
+      "FICCION",
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "NOVELAS"
@@ -53652,7 +53584,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-9413-52-6",
+    "isbn": "9509413526",
     "descripcion": "309 p.",
     "temas": [
       "ACULTURACION",
@@ -53682,7 +53614,7 @@
     "editorial": "Del Sol",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-9413-07-0",
+    "isbn": "9509413070",
     "descripcion": "343 p.",
     "temas": [
       "ANTROPOLOGIA",
@@ -53710,7 +53642,7 @@
     "editorial": "Aguafuerte",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-286330-0-5",
+    "isbn": "97898728633005",
     "descripcion": "68 p.",
     "temas": [
       "LITERATURA",
@@ -53760,7 +53692,7 @@
     "editorial": "Paraviento",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-28284-0-0",
+    "isbn": "9789872828400",
     "descripcion": "128 p.",
     "temas": [
       "LITERATURA",
@@ -53788,7 +53720,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-641-500-6",
+    "isbn": "9789506415006",
     "descripcion": "448 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -53817,7 +53749,7 @@
     "editorial": "Cántaro",
     "lugar": "Boulogne",
     "anio": "2010",
-    "isbn": "987-950-753-236-8",
+    "isbn": "9879507532368",
     "descripcion": "96 p.",
     "temas": [
       "LITERATURA",
@@ -53841,7 +53773,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-753-242-9",
+    "isbn": "9789507532429",
     "descripcion": "192 p.",
     "temas": [
       "ANTOLOGIA",
@@ -53866,7 +53798,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-1293-9",
+    "isbn": "9789870412939",
     "descripcion": "188 p.",
     "temas": [
       "LITERATURA",
@@ -53893,7 +53825,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-0431-6",
+    "isbn": "9789870404316",
     "descripcion": "420 p.",
     "temas": [
       "LITERATURA",
@@ -53919,7 +53851,7 @@
     "editorial": "Cengage Learning",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-22665-7-8",
+    "isbn": "9789872266578",
     "descripcion": "168 p.",
     "temas": [
       "BUSQUEDA DE INFORMACION",
@@ -53946,7 +53878,7 @@
     "editorial": "Libros del Zorzal",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-599-059-3",
+    "isbn": "9789875990593",
     "descripcion": "312 p.",
     "temas": [
       "DISCRIMINACION SEXUAL",
@@ -53972,7 +53904,7 @@
     "editorial": "A-Z",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-534-973-9",
+    "isbn": "9789505349739",
     "descripcion": "424 p.",
     "temas": [
       "CIENCIA",
@@ -54002,7 +53934,7 @@
     "editorial": "Comunic-Arte",
     "lugar": "Córdoba",
     "anio": "2008",
-    "isbn": "978-987-602-056-5",
+    "isbn": "9789876020565",
     "descripcion": "440 p.",
     "temas": [
       "ASTRONOMIA",
@@ -54030,9 +53962,10 @@
     "editorial": "Katz Editores",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-1283-43-9",
+    "isbn": "9789871283439",
     "descripcion": "277 p.",
     "temas": [
+      "ENSAYO",
       "ENSAYO EPISTEMOLOGICO",
       "FISICA",
       "LITERATURA",
@@ -54054,7 +53987,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-04-0591-7",
+    "isbn": "9789870405917",
     "descripcion": "440 p.",
     "temas": [
       "DESARROLLO SUSTENTABLE",
@@ -54083,7 +54016,7 @@
     "editorial": "AZ Editora",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-534-884-8",
+    "isbn": "9789505348848",
     "descripcion": "192 p.",
     "temas": [
       "EDUCACION SECUNDARIA",
@@ -54107,7 +54040,7 @@
     "editorial": "Páidos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-12-7723-4",
+    "isbn": "9789501277234",
     "descripcion": "432 p.",
     "temas": [
       "ANARQIA",
@@ -54139,7 +54072,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "978-950-786-224-3",
+    "isbn": "9789507862243",
     "descripcion": "331 p.",
     "temas": [
       "DISCRIMINACION",
@@ -54168,7 +54101,7 @@
     "editorial": "Comunic-Arte",
     "lugar": "Córdoba",
     "anio": "2005",
-    "isbn": "987-1151-64-0",
+    "isbn": "9871151640",
     "descripcion": "272 p.",
     "temas": [
       "ACTIVIDADES DE APRENDIZAJE",
@@ -54222,12 +54155,14 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "950-1534-26-5",
+    "isbn": "9501534265",
     "descripcion": "96 p.",
     "temas": [
+      "INMIGRACION",
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA INFANTIL Y JUVENIL",
+      "NOVELA REALISTA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -54248,7 +54183,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-0318-0",
+    "isbn": "9789870403180",
     "descripcion": "88 p.",
     "temas": [
       "LITERATURA",
@@ -54272,9 +54207,10 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-511-462-7",
+    "isbn": "9789505114627",
     "descripcion": "120 p.",
     "temas": [
+      "CIENCIA FICCION",
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA INFANTIL Y JUVENIL",
@@ -54296,7 +54232,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-753-254-2",
+    "isbn": "9789507532542",
     "descripcion": "272 p.",
     "temas": [
       "LITERATURA",
@@ -54322,7 +54258,7 @@
     "editorial": "Debolsillo",
     "lugar": "Barcelona",
     "anio": "2005",
-    "isbn": "84-9793-946-8",
+    "isbn": "8497939468",
     "descripcion": "563 p.",
     "temas": [
       "LITERATURA",
@@ -54349,7 +54285,7 @@
     "editorial": "Estrada",
     "lugar": "San Isidro",
     "anio": "2009",
-    "isbn": "978-950-01-1191-1",
+    "isbn": "9789500111911",
     "descripcion": "128 p.",
     "temas": [
       "CUENTOS",
@@ -54375,7 +54311,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-786-587-9",
+    "isbn": "9789507865879",
     "descripcion": "206 p.",
     "temas": [
       "DIDACTICA DE LA GEOGRAFIA",
@@ -54401,7 +54337,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-24387-3-9",
+    "isbn": "9789872438739",
     "descripcion": "96 p.",
     "temas": [
       "LITERATURA",
@@ -54424,7 +54360,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-24387-7-7",
+    "isbn": "9789872438777",
     "descripcion": "128 p.",
     "temas": [
       "CUENTOS",
@@ -54450,7 +54386,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-1534-10-4",
+    "isbn": "9789871534104",
     "descripcion": "96 p.",
     "temas": [
       "CUENTOS",
@@ -54477,7 +54413,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-786-542-X",
+    "isbn": "950786542X",
     "descripcion": "230 p.",
     "temas": [
       "CULTURA",
@@ -54536,7 +54472,7 @@
     "editorial": "Astrea",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-508-766-2",
+    "isbn": "9789505087662",
     "descripcion": "638 p.",
     "temas": [
       "ABANDONO",
@@ -54568,7 +54504,7 @@
     "editorial": "Astrea",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-508-766-2",
+    "isbn": "9789505087662",
     "descripcion": "572 p.",
     "temas": [
       "ABUSO DE AUTORIDAD",
@@ -54599,7 +54535,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "978-987-9334-96-6",
+    "isbn": "9789879334966",
     "descripcion": "136 p.",
     "temas": [
       "LITERATURA ARGENTINA",
@@ -54623,7 +54559,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-231-3",
+    "isbn": "9789507532313",
     "descripcion": "160 p.",
     "temas": [
       "ANTOLOGIA",
@@ -54649,7 +54585,7 @@
     "editorial": "Cántaro",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-753-058",
+    "isbn": "978950753058",
     "descripcion": "128 p.",
     "temas": [
       "LITERATURA",
@@ -54676,7 +54612,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-04-1270-0",
+    "isbn": "9789870412700",
     "descripcion": "240 p.",
     "temas": [
       "LITERATURA",
@@ -54703,10 +54639,9 @@
     "editorial": "AZ",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-534-812-1",
+    "isbn": "9789505348121",
     "descripcion": "392 p.",
     "temas": [
-      "4",
       "ANTROPOLOGIA FILOSOFICA",
       "CONOCIMIENTO",
       "DINAMICA DE GRUPOS",
@@ -54734,7 +54669,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-511-853-3",
+    "isbn": "9789505118533",
     "descripcion": "176 p.",
     "temas": [
       "LITERATURA - NOVELAS",
@@ -54762,7 +54697,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-1534-27-2",
+    "isbn": "9789871534272",
     "descripcion": "256 p.",
     "temas": [
       "LITERATURA",
@@ -54787,7 +54722,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-24387-6-0",
+    "isbn": "9789872438760",
     "descripcion": "128 p.",
     "temas": [
       "CUENTOS",
@@ -54813,7 +54748,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-0217-6",
+    "isbn": "9789870402176",
     "descripcion": "192 p.",
     "temas": [
       "ANTOLOGIA",
@@ -54838,7 +54773,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-04-1329-5",
+    "isbn": "9789870413295",
     "descripcion": "96 p.",
     "temas": [
       "LITERATURA",
@@ -54862,9 +54797,9 @@
       "Castelló-Joubert, Valeria"
     ],
     "editorial": "Cántaro",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-131-6",
+    "isbn": "9789507531316",
     "descripcion": "176 p.",
     "temas": [
       "LITERATURA",
@@ -54888,7 +54823,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-04-0975-5",
+    "isbn": "9789870409755",
     "descripcion": "112 p.",
     "temas": [
       "LITERATURA",
@@ -54914,9 +54849,9 @@
       "Obermeier, Alejandra"
     ],
     "editorial": "Cántaro",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-102-6",
+    "isbn": "9789507531026",
     "descripcion": "192 p.",
     "temas": [
       "LITERATURA",
@@ -54942,7 +54877,7 @@
     "editorial": "Cántaro",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-753-079-1",
+    "isbn": "9789507530791",
     "descripcion": "96 p.",
     "temas": [
       "LITERATURA",
@@ -54968,7 +54903,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-1534-14-2",
+    "isbn": "9789871534142",
     "descripcion": "208 p.",
     "temas": [
       "COMEDIA",
@@ -54994,7 +54929,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "978-987-04-0094-3",
+    "isbn": "9789870400943",
     "descripcion": "144",
     "temas": [
       "ANTOLOGIA",
@@ -55022,7 +54957,7 @@
     "editorial": "Quipu",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-504-024-3",
+    "isbn": "9789875040243",
     "descripcion": "80 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55051,7 +54986,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-04-0095-7",
+    "isbn": "9870400957",
     "descripcion": "136 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55078,7 +55013,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-01-0975-8",
+    "isbn": "9789500109758",
     "descripcion": "128 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55105,7 +55040,7 @@
     "editorial": "Leviatán",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-514-208-4",
+    "isbn": "9789875142084",
     "descripcion": "320 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -55131,7 +55066,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-511-840-3",
+    "isbn": "9789505118403",
     "descripcion": "136 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55155,7 +55090,7 @@
     "editorial": "Del sol",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-632-400-7",
+    "isbn": "9789876324007",
     "descripcion": "208 p.",
     "temas": [
       "ANTROPOLOGIA",
