@@ -15208,28 +15208,27 @@
   },
   {
     "id": 547,
-    "titulo": "Turismo popular",
-    "subtitulo": "inversiones rentables",
-    "autor": "Ripoll, Graciela",
+    "titulo": "Eva Peron",
+    "subtitulo": "",
+    "autor": "Demitropulos, Libertad",
     "autores_secundarios": [],
-    "editorial": "Trillas",
-    "lugar": "México",
-    "anio": "1986",
-    "isbn": "968-24-1835-6",
-    "descripcion": "243 p.",
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1984",
+    "isbn": "9502500466",
+    "descripcion": "157 p.",
     "temas": [
-      "INVERSION TURISTICA",
-      "INVESTIGACION TURISTICA",
-      "PRESUPUESTO",
-      "PROYECTO TURISTICO",
-      "TURISMO"
+      "BIOGRAFIAS",
+      "FEMINISMO",
+      "HISTORIA POLITICA ARGENTINA",
+      "MUJERES EN LA POLITICA",
+      "PERONISMO",
+      "POLITICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001695",
-      "001695",
-      "001879",
-      "001879"
+      "006416",
+      "006416"
     ],
     "disponible": true
   },
@@ -16888,26 +16887,30 @@
   },
   {
     "id": 608,
-    "titulo": "Lettres de mon moulin",
-    "subtitulo": "",
-    "autor": "Daudet, Alphonse",
-    "autores_secundarios": [
-      "Sarolea, Charles"
-    ],
-    "editorial": "Nelson",
-    "lugar": "París",
-    "anio": "1869",
-    "isbn": "",
-    "descripcion": "273 p.",
+    "titulo": "Uriburu y Justo",
+    "subtitulo": "el auge conservador (1930-1935)",
+    "autor": "Bejar, Maria Dolores",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500326",
+    "descripcion": "177 p.",
     "temas": [
-      "LENGUA FRANCESA",
-      "LITERATURA",
-      "NOVELAS"
+      "CONSERVADURISMO",
+      "CORPORATIVISMO",
+      "DECADA INFAME",
+      "FRAUDE ELECTORAL",
+      "FUERZAS ARMADAS",
+      "GOLPES DE ESTADO",
+      "HISTORIA POLITICA ARGENTINA",
+      "POLITICA",
+      "PRESIDENCIAS ARGENTINAS"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000945",
-      "000945"
+      "006410",
+      "006410"
     ],
     "disponible": true
   },
@@ -18898,25 +18901,31 @@
   },
   {
     "id": 683,
-    "titulo": "Régimen legal de la contabilidad de cooperativas",
-    "subtitulo": "",
-    "autor": "Balay, Esteban",
+    "titulo": "El proceso de reorganización nacional. 1",
+    "subtitulo": "de marzo de 1976 a marzo de 1977",
+    "autor": "Troncoso, Oscar",
     "autores_secundarios": [],
-    "editorial": "Intercoop",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1967",
-    "isbn": "",
-    "descripcion": "167 p.",
+    "anio": "1984",
+    "isbn": "950250066X",
+    "descripcion": "146 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "CONTABILIDAD",
-      "COOPERATIVAS",
-      "LEGISLACION"
+      "CRONOLOGIAS",
+      "DECRETOS-LEYES",
+      "DICTADURA MILITAR",
+      "DOCUMENTOS HISTORICOS",
+      "GOBIERNO DE FACTO",
+      "HISTORIA POLITICA ARGENTINA",
+      "JUNTA MILITAR",
+      "POLITICA",
+      "PROCESO DE REORGANIZACION NACIONAL",
+      "TERRORISMO DE ESTADO"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
-      "000033",
-      "000033"
+      "006421",
+      "006421"
     ],
     "disponible": true
   },
@@ -19777,30 +19786,26 @@
   },
   {
     "id": 716,
-    "titulo": "Introducción a los negocios empresarios",
-    "subtitulo": "",
-    "autor": "Withers, William",
+    "titulo": "De Frondizi a Alfonsín",
+    "subtitulo": "la tradición política del radicalismo 2",
+    "autor": "Acuña, Marcelo Luis",
     "autores_secundarios": [],
-    "editorial": "TEA",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1974",
-    "isbn": "",
-    "descripcion": "513 p.",
+    "anio": "1984",
+    "isbn": "9502500482",
+    "descripcion": "149 p.",
     "temas": [
-      "ADMINISTRACION DE EMPRESAS",
-      "ADMINISTRACION Y ORGANIZACION",
-      "CONTROL",
-      "DIRECCION",
-      "EMPRESAS",
-      "POLITICA DE \"LAISSEZ-FAIRE\"",
-      "RECURSOS HUMANOS",
-      "RELACIONES LABORALES",
-      "SOCIEDADES"
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDOS POLITICOS",
+      "POLITICA",
+      "RADICALISMO",
+      "UNION CIVICA RADICAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "CENT 11",
-      "CENT 11"
+      "006418",
+      "006418"
     ],
     "disponible": true
   },
@@ -21278,27 +21283,29 @@
   },
   {
     "id": 770,
-    "titulo": "¿Sobrevivirán las grandes empresas?",
+    "titulo": "Los orígenes del movimiento obrero (1857-1899)",
     "subtitulo": "",
-    "autor": "Paluszek, John L.",
-    "autores_secundarios": [
-      "Richardson, Elliot L."
-    ],
-    "editorial": "Fraterna",
+    "autor": "Falcon, Ricardo",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1978",
-    "isbn": "",
-    "descripcion": "315 p.",
+    "anio": "1984",
+    "isbn": "9502500520",
+    "descripcion": "130 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "EMPRESAS",
-      "INCERTIDUMBRE",
-      "PRODUCTIVIDAD"
+      "ANARQUISMO",
+      "ASPECTOS SOCIALES",
+      "HISTORIA POLITICA ARGENTINA",
+      "INMIGRACION EN ARGENTINA",
+      "MOVIMIENTO OBRERO",
+      "POLITICA",
+      "SINDICALISMO",
+      "SOCIALISMO"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
-      "000116",
-      "000116"
+      "006419",
+      "006419"
     ],
     "disponible": true
   },
@@ -22327,27 +22334,31 @@
   },
   {
     "id": 809,
-    "titulo": "Ley de contabilidad pública",
-    "subtitulo": "los contratos de la hacienda pública",
-    "autor": "Ale, Miguel Angel",
-    "autores_secundarios": [
-      "Gomez, Faustino M."
-    ],
-    "editorial": "Macchi",
+    "titulo": "De Pellegrini a Martínez de Hoz",
+    "subtitulo": "el modelo Liberal",
+    "autor": "Rapoport, Mario",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1975",
-    "isbn": "",
-    "descripcion": "778 p.",
+    "anio": "1984",
+    "isbn": "9502500601",
+    "descripcion": "199 p.",
     "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "CONTABILIDAD PUBLICA",
-      "CONTRATOS PUBLICOS",
-      "PRESUPUESTO"
+      "DEPENDENCIA ECONOMICA",
+      "HISTORIA ECONOMICA",
+      "HISTORIA POLITICA ARGENTINA",
+      "INDUSTRIALIZACION",
+      "LIBERALISMO",
+      "MODELO AGROEXPORTADOR",
+      "MODELOS ECONOMICOS",
+      "POLITICA",
+      "POLITICA ECONOMICA",
+      "PROCESO DE REORGANIZACION NACIONAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000345",
-      "000345"
+      "006420",
+      "006420"
     ],
     "disponible": true
   },
@@ -37752,22 +37763,30 @@
   },
   {
     "id": 1390,
-    "titulo": "Elementos de economía política",
-    "subtitulo": "",
-    "autor": "Schop Santos, Ernesto",
+    "titulo": "Partido laborista",
+    "subtitulo": "Estado y sindicatos",
+    "autor": "Pont, Elena Susana",
     "autores_secundarios": [],
-    "editorial": "Bosch",
-    "lugar": "Barcelona",
-    "anio": "1963",
-    "isbn": "",
-    "descripcion": "463 p.",
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1984",
+    "isbn": "9502500431",
+    "descripcion": "157 p.",
     "temas": [
-      "ECONOMIA POLITICA"
+      "CONFEDERACION GENERAL DEL TRABAJO",
+      "DERECHO DEL TRABAJADOR",
+      "ESTADO",
+      "HISTORIA POLITICA ARGENTINA",
+      "LEGISLACION ARGENTINA",
+      "MOVIMIENTO OBRERO",
+      "PARTIDO LABORISTA",
+      "POLITICA",
+      "SINDICATOS"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000767",
-      "000767"
+      "006415",
+      "006415"
     ],
     "disponible": true
   },
@@ -47674,6 +47693,33 @@
     "disponible": true
   },
   {
+    "id": 1739,
+    "titulo": "El desarrollismo",
+    "subtitulo": "",
+    "autor": "Nosiglia, Julio E.",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500024",
+    "descripcion": "195 p.",
+    "temas": [
+      "DESARROLLISMO",
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDOS POLITICOS",
+      "POLITICA",
+      "POLITICA ECONOMICA ARGENTINA",
+      "PRESIDENCIAS ARGENTINAS",
+      "RADICALISMO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006399",
+      "006399"
+    ],
+    "disponible": true
+  },
+  {
     "id": 1740,
     "titulo": "Argentina, Brasil, Mercosur",
     "subtitulo": "Una decisión estratégica",
@@ -48847,24 +48893,26 @@
   },
   {
     "id": 1782,
-    "titulo": "Tratado de Sociología",
-    "subtitulo": "",
-    "autor": "Gurvitch, Georges",
-    "autores_secundarios": [
-      "Gurvitch, Georges"
-    ],
-    "editorial": "Kapelusz",
+    "titulo": "De Frondizi a Alfonsín",
+    "subtitulo": "la tradición política del radicalismo 1",
+    "autor": "Acuña, Marcelo Luis",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1963",
-    "isbn": "",
-    "descripcion": "543 p.",
+    "anio": "1984",
+    "isbn": "9502500474",
+    "descripcion": "126 p.",
     "temas": [
-      "SOCIOLOGIA"
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDOS POLITICOS",
+      "POLITICA",
+      "RADICALISMO",
+      "UNION CIVICA RADICAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000808",
-      "000808"
+      "006417",
+      "006417"
     ],
     "disponible": true
   },
@@ -49392,26 +49440,33 @@
   },
   {
     "id": 1803,
-    "titulo": "Guía de las Reservas Naturales de la Argentina",
-    "subtitulo": "Patagonia Norte",
-    "autor": "Chebez, Juan Carlos",
-    "autores_secundarios": [],
-    "editorial": "Albatros",
+    "titulo": "La reforma universitaria",
+    "subtitulo": "1918-1983 (Tomo 2)",
+    "autor": "Ciria, Alberto",
+    "autores_secundarios": [
+      "Sanguinetti, Horacio"
+    ],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2005",
-    "isbn": "950-24-1056-4",
-    "descripcion": "192 p.",
+    "anio": "1983",
+    "isbn": "9502500385",
+    "descripcion": "158 p.",
     "temas": [
-      "ARGENTINA",
-      "GEOGRAFIA",
-      "GUIA",
-      "REFERENCIA",
-      "RESERVAS NATURALES"
+      "AUTONOMIA UNIVERSITARIA",
+      "DICTADURA MILITAR",
+      "EDUCACION SUPERIOR",
+      "HISTORIA POLITICA ARGENTINA",
+      "MOVIMIENTOS ESTUDIANTILES",
+      "PERONISMO",
+      "POLITICA",
+      "REFORMA UNIVERSITARIA",
+      "RESISTENCIA ESTUDIANTIL",
+      "UNIVERSIDADES PUBLICAS"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004279",
-      "004279"
+      "006413",
+      "006413"
     ],
     "disponible": true
   },
@@ -52618,6 +52673,33 @@
     "disponible": true
   },
   {
+    "id": 1918,
+    "titulo": "La democracia cristiana",
+    "subtitulo": "",
+    "autor": "Ghirardi, Enrique",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500040",
+    "descripcion": "161 p.",
+    "temas": [
+      "CATOLICISMO Y POLITICA",
+      "DEMOCRACIA CRISTIANA",
+      "DOCTRINA SOCIAL DE LA IGLESIA",
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDO DEMOCRATA CRISTIANO",
+      "PARTIDOS POLITICOS",
+      "POLITICA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006401",
+      "006401"
+    ],
+    "disponible": true
+  },
+  {
     "id": 1919,
     "titulo": "1º Jornada Nacional de Responsables del Patrimonio Cultural de Organismos Públicos",
     "subtitulo": "",
@@ -52713,6 +52795,35 @@
     "inventarios": [
       "004487",
       "004487"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 1923,
+    "titulo": "El partido Comunista",
+    "subtitulo": "",
+    "autor": "Arevalo, oscar",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500059",
+    "descripcion": "159 p.",
+    "temas": [
+      "ACTIVIDAD POLITICA",
+      "COMUNISMO",
+      "HISTORIA POLITICA ARGENTINA",
+      "IZQUIERDA POLITICA",
+      "MOVIMIENTO OBRERO",
+      "NAZIFACISMO",
+      "PARTIDO COMUNISTA ARGENTINO",
+      "PARTIDOS POLITICOS",
+      "POLITICA"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006402",
+      "006402"
     ],
     "disponible": true
   },
@@ -55121,7 +55232,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-04-0675",
+    "isbn": "978987040675",
     "descripcion": "328 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55145,7 +55256,7 @@
     "editorial": "Del sol",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-9413-00-9",
+    "isbn": "9789509413009",
     "descripcion": "208 p.",
     "temas": [
       "ANTROPOLOGIA FILOSOFICA",
@@ -55201,7 +55312,7 @@
     "editorial": "Cántaro",
     "lugar": "San isidro",
     "anio": "2009",
-    "isbn": "978-950-753-243-6",
+    "isbn": "9789507532436",
     "descripcion": "172 p.",
     "temas": [
       "LITERATURA",
@@ -55225,7 +55336,7 @@
     "editorial": "Cántaro",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-753-251-1",
+    "isbn": "9789507532511",
     "descripcion": "112 p.",
     "temas": [
       "LITERATURA",
@@ -55250,7 +55361,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-232-0",
+    "isbn": "9789507532320",
     "descripcion": "304 p.",
     "temas": [
       "LITERATURA",
@@ -55275,7 +55386,7 @@
     "editorial": "Cántaro",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-753-066-1",
+    "isbn": "9789507530661",
     "descripcion": "192 p.",
     "temas": [
       "COMEDIA",
@@ -55301,7 +55412,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "987-555-026-4",
+    "isbn": "9875550264",
     "descripcion": "176 p.",
     "temas": [
       "BUROCRACIA",
@@ -55354,12 +55465,14 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-07-0947-7",
+    "isbn": "9789500709477",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA CHILENA",
       "LITERATURA JUVENIL",
+      "NOVELA CORTA",
+      "NOVELA HISTORICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -55378,7 +55491,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-4-1349-3",
+    "isbn": "978987413493",
     "descripcion": "200 p.",
     "temas": [
       "LITERATURA",
@@ -55405,7 +55518,7 @@
     "editorial": "Instituto Nacional de Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-62-1",
+    "isbn": "9789879433621",
     "descripcion": "300 p.",
     "temas": [
       "ANTROPOLOGIA CULTURAL",
@@ -55432,7 +55545,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-07-1338-2",
+    "isbn": "9789500713382",
     "descripcion": "80 p.",
     "temas": [
       "CUENTOS",
@@ -55455,9 +55568,9 @@
     "autor": "Grenier, Christian",
     "autores_secundarios": [],
     "editorial": "Cántaro",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-052-4",
+    "isbn": "9789507530524",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -55483,7 +55596,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-1034-8",
+    "isbn": "9789870410348",
     "descripcion": "256 p.",
     "temas": [
       "LITERATURA",
@@ -55509,7 +55622,7 @@
     "editorial": "Leviatán",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-514-209-1",
+    "isbn": "9789875142091",
     "descripcion": "320 p.",
     "temas": [
       "EMIGRACION",
@@ -55536,7 +55649,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "978-950-99670-8-4",
+    "isbn": "9789509967084",
     "descripcion": "112 p.",
     "temas": [
       "DELITOS",
@@ -55564,7 +55677,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-892-009-6",
+    "isbn": "9789508920096",
     "descripcion": "128 p.",
     "temas": [
       "AMERICA LATINA",
@@ -55600,7 +55713,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-11-6",
+    "isbn": "9871181116",
     "descripcion": "112 p.",
     "temas": [
       "DEMOCRACIA",
@@ -55629,7 +55742,7 @@
     "editorial": "Capital Intectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "",
+    "isbn": "9871181124",
     "descripcion": "112 p.",
     "temas": [
       "CULTURA",
@@ -55645,18 +55758,31 @@
   },
   {
     "id": 2031,
-    "titulo": "¿Economistas o astrólogos?",
-    "subtitulo": "la economía de los noventa",
-    "autor": "Zaiat, Alfredo",
+    "titulo": "Historia de las Fuerzas Conservadoras",
+    "subtitulo": "",
+    "autor": "Azaretto, Roberto",
     "autores_secundarios": [],
-    "editorial": "Capital Intelectual",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2004",
-    "isbn": "987-1181-01-9",
-    "descripcion": "128 p.",
-    "temas": [],
+    "anio": "1983",
+    "isbn": "9502500067",
+    "descripcion": "159 p.",
+    "temas": [
+      "CONSERVADORISMO EN ARGENTINA",
+      "DERECHA POLITICA",
+      "FRAUDE ELECTORAL",
+      "GENERACION DEL 80",
+      "HISTORIA POLITICA ARGENTINA",
+      "INFLUENCIA POLITICA",
+      "PARTIDO AUTONOMISTA NACIONAL",
+      "PARTIDOS POLITICOS",
+      "POLITICA"
+    ],
     "sede": "CENT 11",
-    "inventarios": [],
+    "inventarios": [
+      "006403",
+      "006403"
+    ],
     "disponible": true
   },
   {
@@ -55668,7 +55794,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-05-1",
+    "isbn": "9871181051",
     "descripcion": "112 p.",
     "temas": [
       "DESEMPLEO",
@@ -55692,7 +55818,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-04-3",
+    "isbn": "9871181043",
     "descripcion": "112 p.",
     "temas": [
       "DEUDA EXTERNA",
@@ -55720,7 +55846,7 @@
     "editorial": "Instituto Nacional de Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-57-7",
+    "isbn": "9789879433577",
     "descripcion": "310 p.",
     "temas": [
       "ANTOLOGIA",
@@ -55749,7 +55875,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-82-9",
+    "isbn": "9789879433829",
     "descripcion": "396 P.",
     "temas": [
       "ANTOLOGIA",
@@ -55775,7 +55901,7 @@
     "editorial": "Instituto Nacional de Teatro",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-9433-71-3",
+    "isbn": "9789879433713",
     "descripcion": "268 p.",
     "temas": [
       "ARTE",
@@ -55825,7 +55951,7 @@
     "editorial": "el autor",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-950-43-1674-9",
+    "isbn": "9789504316749",
     "descripcion": "210 p.",
     "temas": [
       "HISTORIA",
@@ -55884,22 +56010,23 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1976",
-    "isbn": "84-206-2153-6",
+    "isbn": "8420621536",
     "descripcion": "304 p.",
     "temas": [
-      "DESARROLLO ECONOMICO",
+      "COSTES",
       "ECONOMIA",
-      "ECONOMIA DEL TRAPORTE",
-      "ECONOMIA PLANIFICACION",
-      "INDUSTRIA",
-      "INDUSTRIA DE SERVICIOS",
-      "TECNOLOGIA",
+      "ECONOMIA DEL TRANSPORTE",
+      "INDUSTRIAS DEL TRANSPORTE",
+      "INSFRAESTRUCTURA",
+      "PROBLEMAS ECONOMICOS",
+      "SISTEMAS DE TRANSPORTE",
+      "TEORIA ECONOMICA",
       "TRANSPORTE"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000302",
-      "000302"
+      "000303",
+      "000303"
     ],
     "disponible": true
   },
@@ -55912,7 +56039,7 @@
     "editorial": "Alianza",
     "lugar": "Madrid",
     "anio": "1975",
-    "isbn": "84-206-2117-X",
+    "isbn": "842062117X",
     "descripcion": "166 p.",
     "temas": [
       "ECONOMIA",
@@ -55938,7 +56065,7 @@
     "editorial": "Zagier & Urruty Publicaciones",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-1468-03-4",
+    "isbn": "9789871468034",
     "descripcion": "304 p.",
     "temas": [
       "ABORIGENES FUEGUINOS",
@@ -55993,7 +56120,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-641-471-8",
+    "isbn": "9506414718",
     "descripcion": "208 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -56052,7 +56179,7 @@
     "editorial": "Del nuevo extremo",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-987-609-274-6",
+    "isbn": "9789876092746",
     "descripcion": "816 p.",
     "temas": [
       "ABORIGENES ARGENTINOS",
@@ -56085,7 +56212,7 @@
     "editorial": "Anagrama",
     "lugar": "Barcelona",
     "anio": "1995",
-    "isbn": "978-84-339-1392",
+    "isbn": "978843391392",
     "descripcion": "260 p.",
     "temas": [
       "COMPRENSION LECTORA",
@@ -56149,7 +56276,7 @@
     "editorial": "Era naciente",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-9065-88-4",
+    "isbn": "9789879065884",
     "descripcion": "176 p.",
     "temas": [
       "ABUSO",
@@ -56166,8 +56293,6 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004318",
-      "004318",
       "006285",
       "006285"
     ],
@@ -56217,11 +56342,12 @@
     "editorial": "Era naciente",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-9065-68-6",
+    "isbn": "9789879065686",
     "descripcion": "176 p.",
     "temas": [
       "BIOGRAFIAS",
       "CRITICA LITERARIA",
+      "LITERATURA",
       "LITERATURA ARGENTINA"
     ],
     "sede": "CENT 11",
@@ -56242,11 +56368,12 @@
     "editorial": "Era naciente",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "987-9065-70-0",
+    "isbn": "9879065700",
     "descripcion": "176 p.",
     "temas": [
       "BIOGRAFIAS",
       "CRITICA LITERARIA",
+      "LITERATURA",
       "LITERATURA HISPANOAMERICANA"
     ],
     "sede": "CENT 11",
@@ -56299,7 +56426,7 @@
     "editorial": "Gorla",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-1444-12-0",
+    "isbn": "9789871444120",
     "descripcion": "144 p.",
     "temas": [
       "CULTURA",
@@ -56329,7 +56456,7 @@
     "editorial": "Era naciente",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-555-027-2",
+    "isbn": "9875550272",
     "descripcion": "176 p.",
     "temas": [
       "ALUCINOGENOS",
@@ -56358,7 +56485,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-18-3",
+    "isbn": "9871181183",
     "descripcion": "96",
     "temas": [
       "AMERICA LATINA",
@@ -56384,7 +56511,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-99670-1-7",
+    "isbn": "9509967017",
     "descripcion": "96 p.",
     "temas": [
       "CRONICAS",
@@ -56408,7 +56535,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-9967-1-7",
+    "isbn": "950996717",
     "descripcion": "96 p.",
     "temas": [
       "AMERICA LATINA",
@@ -56465,7 +56592,7 @@
     "editorial": "Nueva Libreria",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "978-950-9-088672",
+    "isbn": "9789509088672",
     "descripcion": "222 p.",
     "temas": [
       "ACCIDENTE LABORAL",
@@ -56500,7 +56627,7 @@
     "editorial": "Errepar",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-01-1416-1",
+    "isbn": "9789870114161",
     "descripcion": "192 p.",
     "temas": [
       "DECRETO 911/1996",
@@ -56527,7 +56654,7 @@
     "editorial": "Ediciones del sol",
     "lugar": "Buenos Aires",
     "anio": "2001",
-    "isbn": "950-9413-90-9",
+    "isbn": "9509413909",
     "descripcion": "352 p.",
     "temas": [
       "AMERICA",
@@ -56557,7 +56684,7 @@
     "editorial": "Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1997",
-    "isbn": "987-507-014-9",
+    "isbn": "9875070149",
     "descripcion": "88 p.",
     "temas": [
       "COMUNIDAD EUROPEA",
@@ -56585,7 +56712,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-01-9",
+    "isbn": "9871181019",
     "descripcion": "128 p.",
     "temas": [
       "ECONOMIA",
@@ -56622,8 +56749,8 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004302",
-      "004302"
+      "004301",
+      "004301"
     ],
     "disponible": true
   },
@@ -56636,7 +56763,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "978-950-99670-1-7",
+    "isbn": "9789509967017",
     "descripcion": "96 p.",
     "temas": [
       "CAMPANA ELECTORAL",
@@ -56666,7 +56793,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "978-509-967014",
+    "isbn": "978509967014",
     "descripcion": "128 p.",
     "temas": [
       "DELITOS",
@@ -56691,9 +56818,9 @@
     "autor": "London, Jack",
     "autores_secundarios": [],
     "editorial": "Cántaro",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-064-7",
+    "isbn": "9789507530647",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -56718,7 +56845,7 @@
     "editorial": "Vicens Vives",
     "lugar": "Barcelona",
     "anio": "2012",
-    "isbn": "978-84-316-6453-4",
+    "isbn": "9788431664534",
     "descripcion": "332 p.",
     "temas": [
       "ARTE",
@@ -56776,7 +56903,7 @@
     "editorial": "Cántaro",
     "lugar": "San Isidro",
     "anio": "2010",
-    "isbn": "978-950-753-006-7",
+    "isbn": "9789507530067",
     "descripcion": "192 p.",
     "temas": [
       "LITERATURA",
@@ -56800,9 +56927,9 @@
       "Nasón, Plubio Ovidio"
     ],
     "editorial": "Cántaro",
-    "lugar": "San Isidro",
+    "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-164-4",
+    "isbn": "9789507531644",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
@@ -56828,7 +56955,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-987-555-007-0",
+    "isbn": "9789875550070",
     "descripcion": "176 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -56857,7 +56984,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-987-9065-05-1",
+    "isbn": "9789879065051",
     "descripcion": "172 p.",
     "temas": [
       "BIOGRAFIA",
@@ -56873,32 +57000,27 @@
   },
   {
     "id": 2075,
-    "titulo": "Stephen Hawking para principiantes",
+    "titulo": "Los Partidos Provinciales",
     "subtitulo": "",
-    "autor": "McEvoy, Joseph",
-    "autores_secundarios": [
-      "Zárate, Oscar"
-    ],
-    "editorial": "Era Naciente",
+    "autor": "Mansilla, Cesar L.",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2012",
-    "isbn": "978-987-9065-24-2",
-    "descripcion": "175 p.",
+    "anio": "1983",
+    "isbn": "950250013X",
+    "descripcion": "170 p.",
     "temas": [
-      "BIG BANG",
-      "BIOGRAFIAS",
-      "COSMOLOGIA",
-      "COSMOS",
-      "FISICA",
-      "FISICA TEORICA",
-      "GRAVEDAD",
-      "PLANETAS",
-      "UNIVERSO"
+      "EL BLOQUISMO",
+      "ELECCIONES PROVINCIALES",
+      "FEDERALISMO",
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDOS POLITICOS PROVINCIALES",
+      "POLITICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "003996",
-      "003996"
+      "006404",
+      "006404"
     ],
     "disponible": true
   },
@@ -56915,7 +57037,7 @@
     "editorial": "",
     "lugar": "Buenos Aires",
     "anio": "",
-    "isbn": "978-987-9433-68-3",
+    "isbn": "9789879433683",
     "descripcion": "307 p.",
     "temas": [
       "ANTOLOGIA",
@@ -56934,26 +57056,29 @@
   },
   {
     "id": 2077,
-    "titulo": "40 años de teatro salteño (1936-1976)",
-    "subtitulo": "Antología",
-    "autor": "Balestrino, Graciela",
-    "autores_secundarios": [
-      "Sosa, Marcela"
-    ],
-    "editorial": "Insituto Nacional del Teatro",
+    "titulo": "Debate nacional",
+    "subtitulo": "Devaluaciones de la moneda (1822-1935)",
+    "autor": "Panettieri, José",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2008",
-    "isbn": "978-987-9433-57-7",
-    "descripcion": "304 p.",
+    "anio": "1983",
+    "isbn": "8502500210",
+    "descripcion": "156 p.",
     "temas": [
-      "LITERATURA - TEATRO",
-      "LITERATURA ARGENTINA",
-      "TEATRO ARGENTINO"
+      "DEVALUACION MONETARIA",
+      "HISTORIA ARGENTINA (1822-1935)",
+      "HISTORIA ECONOMICA ARGENTINA",
+      "HISTORIA POLITICA ARGENTINA",
+      "LEGISLACION ARGENTINA",
+      "POLITICA",
+      "POLITICA MONERATIA",
+      "SISTEMA MONETARIO"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "003605",
-      "003605"
+      "006407",
+      "006407"
     ],
     "disponible": true
   },
@@ -56969,11 +57094,14 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2099",
-    "isbn": "978-987-9433-75-1",
+    "isbn": "9789879433751",
     "descripcion": "341 p.",
     "temas": [
       "ARTE",
-      "TEATRO"
+      "ARTES ESCENICAS",
+      "ENSAYOS TEATRALES",
+      "SOCIOLOGIA DEL TEATRO",
+      "TEATRO ARGENTINO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -56991,7 +57119,7 @@
     "editorial": "Capital intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-99670-9-2",
+    "isbn": "9509967092",
     "descripcion": "111 p.",
     "temas": [
       "DEMOGRAFIA",
@@ -57021,7 +57149,7 @@
     "editorial": "Alfaguara",
     "lugar": "México DF",
     "anio": "2006",
-    "isbn": "978-987-04-0573-8",
+    "isbn": "9789870405738",
     "descripcion": "166 p.",
     "temas": [
       "CUENTOS",
@@ -57045,7 +57173,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "950-99670-1-7",
+    "isbn": "9509967017",
     "descripcion": "126 p.",
     "temas": [
       "ENSAYO",
@@ -57072,7 +57200,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-07-8",
+    "isbn": "9871181078",
     "descripcion": "95 p.",
     "temas": [
       "ALIMENTACION",
@@ -57101,7 +57229,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978--87-9433-48-5",
+    "isbn": "978879433485",
     "descripcion": "390 p.",
     "temas": [
       "ANTOLOGIA",
@@ -57127,7 +57255,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9433-55-3",
+    "isbn": "9789879433553",
     "descripcion": "284 p.",
     "temas": [
       "ANTOLOGIA",
@@ -57151,12 +57279,11 @@
     "editorial": "Noveduc",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-538-295-4",
+    "isbn": "9789875382954",
     "descripcion": "168 p.",
     "temas": [
       "CIENCIA",
       "ETNOGRAFIA",
-      "INVESTIGACION",
       "INVESTIGACION CIENTIFICA",
       "INVESTIGACION CULTURAL",
       "INVESTIGACION SOCIAL",
@@ -57212,7 +57339,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-9065-00-6",
+    "isbn": "9789879065006",
     "descripcion": "176 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -57243,7 +57370,7 @@
     "editorial": "Insituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-67-6",
+    "isbn": "9789879433676",
     "descripcion": "v. V, 298 p.",
     "temas": [
       "ANTOLOGIA",
@@ -57269,7 +57396,7 @@
     "editorial": "Ediciones del CCC Centro Cultural de Cooperación Floreal Gorini Bernal",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-987-1650-45-3",
+    "isbn": "9789871650453",
     "descripcion": "320 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -57296,7 +57423,7 @@
     "editorial": "Continente",
     "lugar": "Buenos Aires",
     "anio": "2014",
-    "isbn": "978-950-754-438-5",
+    "isbn": "9789507544385",
     "descripcion": "368",
     "temas": [
       "HISTORIA",
@@ -57323,7 +57450,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-786-790-3",
+    "isbn": "9789507867903",
     "descripcion": "251 p.",
     "temas": [
       "COMUNICACION",
@@ -57350,7 +57477,7 @@
     "editorial": "Estudio",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "987-950-897-369-6",
+    "isbn": "9879508973696",
     "descripcion": "304 p.",
     "temas": [
       "ADMINISTRACION",
@@ -57380,7 +57507,7 @@
     "editorial": "Magisterio del Rio de la Plata",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "950-550-194-3",
+    "isbn": "9505501943",
     "descripcion": "270 p.",
     "temas": [
       "APRENDIZAJE",
@@ -57409,7 +57536,7 @@
     "editorial": "Prometeo",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-574-166-9",
+    "isbn": "9789875741669",
     "descripcion": "356 p.",
     "temas": [
       "APRENDIZAJE",
@@ -57434,7 +57561,7 @@
     "editorial": "Noveduc",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-538-339-5",
+    "isbn": "9789875383395",
     "descripcion": "192 p.",
     "temas": [
       "APRENDIZAJE",
@@ -57463,8 +57590,8 @@
     ],
     "editorial": "Aique",
     "lugar": "Buenos Aires",
-    "anio": "",
-    "isbn": "978-987-06-0274-3",
+    "anio": "2010",
+    "isbn": "9789870602743",
     "descripcion": "144 p.",
     "temas": [
       "APRENDIZAJE",
@@ -57524,7 +57651,7 @@
     "editorial": "Viento de hojas",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-987-29694-7-9",
+    "isbn": "9789872969479",
     "descripcion": "436 p.",
     "temas": [
       "ABORIGENES FUEGUINOS",
@@ -57554,7 +57681,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-181-1",
+    "isbn": "9789507531811",
     "descripcion": "224 p.",
     "temas": [
       "EPOPEYAS",
@@ -57581,7 +57708,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-753-202-3",
+    "isbn": "9789507532023",
     "descripcion": "176 p.",
     "temas": [
       "LEYENDAS",
@@ -57609,7 +57736,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-101-9",
+    "isbn": "9789507531019",
     "descripcion": "128 p.",
     "temas": [
       "LEYENDAS",
@@ -57661,7 +57788,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-078-4",
+    "isbn": "9789507530784",
     "descripcion": "160 p.",
     "temas": [
       "LEYENDAS",
@@ -57686,7 +57813,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-08-6",
+    "isbn": "9871181086",
     "descripcion": "112 p.",
     "temas": [
       "ECONOMIA",
@@ -57718,7 +57845,7 @@
     "editorial": "Viento de hojas",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-987-29694-8-6",
+    "isbn": "9789872969486",
     "descripcion": "64 p.",
     "temas": [
       "CUENTOS",
@@ -57773,7 +57900,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-10-8",
+    "isbn": "9871181108",
     "descripcion": "112 p.",
     "temas": [
       "BARRIOS PRIVADOS",
@@ -57803,7 +57930,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1181-13-2",
+    "isbn": "9871181132",
     "descripcion": "96 p.",
     "temas": [
       "CATOLICISMO",
@@ -57832,7 +57959,7 @@
     "editorial": "Folio",
     "lugar": "Barcelona",
     "anio": "1994",
-    "isbn": "84-75-83-718-2",
+    "isbn": "8475837182",
     "descripcion": "356 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -57858,34 +57985,35 @@
   },
   {
     "id": 2110,
-    "titulo": "Filosofía",
-    "subtitulo": "Esa búsqueda reflexiva",
-    "autor": "Frassineti de Gallo, Martha",
+    "titulo": "La diplomacia del petróleo",
+    "subtitulo": "(1916-1930)",
+    "autor": "Mayo, Carlos Alberto",
     "autores_secundarios": [
-      "Salatino, Gabriela"
+      "Andino, Osvaldo R.",
+      "Garcia Molina, Fernando"
     ],
-    "editorial": "AZ",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2012",
-    "isbn": "978-950-534-812-1",
-    "descripcion": "408 p.",
+    "anio": "1983",
+    "isbn": "9502500237",
+    "descripcion": "200 p.",
     "temas": [
-      "ANTROPOLOGIA SOCIAL Y CULTURAL",
-      "CIENCIA",
-      "CIENCIAS FACTICAS",
-      "CIENCIAS FORMALES",
-      "CONOCIMIENTO",
-      "ETICA",
-      "FE Y RAZON",
-      "FILOSOFIA",
-      "LOGICA",
-      "METODOLOGIA DE LAS CIENCIAS",
-      "VALORES ESTETICOS"
+      "EMPRESAS MULTINACIONALES",
+      "HISTORIA ARGENTINA 1916-1930",
+      "HISTORIA POLITICA ARGENTINA",
+      "INDUSTRIA Y COMERCIO",
+      "NACIONALIZACION DEL PETROLEO",
+      "PETROLEO",
+      "POLITICA",
+      "POLITICA ENERGETICA",
+      "PRESIDENCIAS ARGENTINAS",
+      "RELACIONES INTERNACIONALES",
+      "YACIMIENTOS PETROLIFEROS FISCALES"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004126",
-      "004126"
+      "006408",
+      "006408"
     ],
     "disponible": true
   },
@@ -57900,7 +58028,7 @@
     "editorial": "Oxford",
     "lugar": "México DF",
     "anio": "2012",
-    "isbn": "970-613-830-7",
+    "isbn": "9706138307",
     "descripcion": "358 p.",
     "temas": [
       "CALCULOS ESTADISTICOS",
@@ -57929,7 +58057,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-02-4914-6",
+    "isbn": "9789870249146",
     "descripcion": "336 p.",
     "temas": [
       "4",
@@ -57961,7 +58089,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-02-4914-6",
+    "isbn": "9789870249146",
     "descripcion": "336 p.",
     "temas": [
       "DERECHO",
@@ -57982,25 +58110,27 @@
   },
   {
     "id": 2114,
-    "titulo": "Piedras de agua",
-    "subtitulo": "cuaderno de una actriz del Odin Teatret",
-    "autor": "Varley, Julia",
-    "autores_secundarios": [
-      "Woolf, Ana"
-    ],
-    "editorial": "Instituto Nacional del Teatro",
+    "titulo": "Las fuerzas del Centro",
+    "subtitulo": "",
+    "autor": "Mansilla, Cesar L.",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2010",
-    "isbn": "978-987-9433-77-5",
-    "descripcion": "242 p.",
+    "anio": "1983",
+    "isbn": "950250030X",
+    "descripcion": "169 p.",
     "temas": [
-      "CULTURA",
-      "TEATRO"
+      "CONSERVADURISMO",
+      "ELECCIONES",
+      "HISTORIA POLITICA ARGENTINA",
+      "PARTIDOS DEL CENTRO",
+      "PARTIDOS POLITICOS",
+      "POLITICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "003592",
-      "003592"
+      "006409",
+      "006409"
     ],
     "disponible": true
   },
@@ -58013,7 +58143,7 @@
     "editorial": "Academia Nacional de Derecho y Ciencia Sociales de Córdoba",
     "lugar": "Córdoba",
     "anio": "2010",
-    "isbn": "978-987-1123-66-7",
+    "isbn": "9789871123667",
     "descripcion": "665 p.",
     "temas": [
       "DERECHO",
@@ -58038,7 +58168,7 @@
     "editorial": "Fundación Konrad Adenauer",
     "lugar": "Montevideo",
     "anio": "2005",
-    "isbn": "9974-7942-0-X",
+    "isbn": "997479420X",
     "descripcion": "615 p.",
     "temas": [
       "POLITICA",
@@ -58062,7 +58192,7 @@
     "editorial": "Biblos",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-786-225-0",
+    "isbn": "9507862250",
     "descripcion": "125 p.",
     "temas": [
       "LINGUISTICA",
@@ -58084,7 +58214,7 @@
     "editorial": "Ediciones Macchi",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-537-472-0",
+    "isbn": "9505374720",
     "descripcion": "310 p.",
     "temas": [
       "BATALLA DE CASEROS",
@@ -58118,7 +58248,7 @@
     "editorial": "Corte Suprema de Justicia de la Nación",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-1625-07-9",
+    "isbn": "9789871625079",
     "descripcion": "256 p.",
     "temas": [
       "DERECHO",
@@ -58141,7 +58271,7 @@
     "editorial": "Corregidor ; Puerto de Palos",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "950-753-034-7",
+    "isbn": "9507530347",
     "descripcion": "96 p.",
     "temas": [
       "CUENTOS",
@@ -58165,13 +58295,16 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-04-1222-9",
+    "isbn": "9789870412229",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA INFANTIL Y JUVENIL",
-      "NOVELA"
+      "NOVELA",
+      "NOVELA DE AVENTURA MORAL",
+      "NOVELA FANTASTICA",
+      "NOVELA REALISTA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -58191,13 +58324,14 @@
     "editorial": "Gradifco",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-1093-68-3",
+    "isbn": "9871093683",
     "descripcion": "96 p.",
     "temas": [
       "LITERATURA",
-      "LITERATURA - NOVELAS",
-      "NOVELA",
-      "NOVELA CORTA"
+      "LITERATURA CHECA",
+      "NOVELA AUTOBIOGRAFICA",
+      "NOVELA CORTA",
+      "NOVELA EPISTOLAR"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -58219,7 +58353,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-01-1055-6",
+    "isbn": "9789500110556",
     "descripcion": "80 p.",
     "temas": [
       "CUENTOS",
@@ -58242,7 +58376,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-02-2938-4",
+    "isbn": "9789870229384",
     "descripcion": "128 p.",
     "temas": [
       "HISTORIETAS",
@@ -58269,7 +58403,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-02-2799-1",
+    "isbn": "9789870227991",
     "descripcion": "112p.",
     "temas": [
       "DERECHO",
@@ -58296,7 +58430,7 @@
     "editorial": "Avina",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-25230-1-5",
+    "isbn": "9789872523015",
     "descripcion": "304 p.",
     "temas": [
       "DERECHO",
@@ -58320,7 +58454,7 @@
     "editorial": "Avina",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-02-3030-4",
+    "isbn": "9789870230304",
     "descripcion": "320 p.",
     "temas": [
       "CORRUPCION",
@@ -58347,7 +58481,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-02-5494-2",
+    "isbn": "9789870254942",
     "descripcion": "112 p.",
     "temas": [
       "ADAPTACION",
@@ -58378,7 +58512,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-025-8",
+    "isbn": "9789507530258",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
@@ -58426,7 +58560,7 @@
     "editorial": "Marea",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-1307-20-3",
+    "isbn": "9789871307203",
     "descripcion": "240 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -58454,7 +58588,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-01-1034-1",
+    "isbn": "9789500110341",
     "descripcion": "200 p.",
     "temas": [
       "LITERATURA",
@@ -58481,11 +58615,10 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-01-1127-0",
+    "isbn": "9789500111270",
     "descripcion": "368 p.",
     "temas": [
       "LITERATURA",
-      "LITERATURA - NOVELAS",
       "NARRATIVA INGLESA",
       "NOVELAS"
     ],
@@ -58507,7 +58640,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-0528-3",
+    "isbn": "9789870405283",
     "descripcion": "88 p.",
     "temas": [
       "LITERATURA",
@@ -58531,7 +58664,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-02-6071-4",
+    "isbn": "9789870260714",
     "descripcion": "112 p.",
     "temas": [
       "CUENTO",
@@ -58587,7 +58720,7 @@
     "editorial": "Fondo de Cultura Económica",
     "lugar": "México",
     "anio": "2005",
-    "isbn": "968-16-4031-4",
+    "isbn": "9681640314",
     "descripcion": "106 p.",
     "temas": [
       "LITERATURA",
@@ -58613,7 +58746,7 @@
     "editorial": "Losada",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-950-03-0769-7",
+    "isbn": "9789500307697",
     "descripcion": "88 p.",
     "temas": [
       "LITERATURA",
@@ -58636,7 +58769,7 @@
     "editorial": "Colihué",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-950-581-973-7",
+    "isbn": "9789505819737",
     "descripcion": "128 p.",
     "temas": [
       "HISTORIETAS",
@@ -58660,7 +58793,7 @@
     "editorial": "Zagier & Urruty",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-9878-33-4125-0",
+    "isbn": "97898783341250",
     "descripcion": "152 p.",
     "temas": [
       "AUTOBIOGRAFIAS",
@@ -58686,7 +58819,7 @@
     "editorial": "Triñares",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "2013978-9878-33-3302-6",
+    "isbn": "9789873333026",
     "descripcion": "80 p.",
     "temas": [
       "BIOLOGIA",
@@ -58713,7 +58846,7 @@
     "editorial": "Cle International",
     "lugar": "Madrid",
     "anio": "2008",
-    "isbn": "978-2-09-031368-0",
+    "isbn": "9782090313680",
     "descripcion": "64 p.",
     "temas": [
       "LITERATURA",
@@ -58739,7 +58872,7 @@
     "editorial": "Cle International",
     "lugar": "Madrid",
     "anio": "2009",
-    "isbn": "978-2-09-031839-5",
+    "isbn": "9782090318395",
     "descripcion": "64 p.",
     "temas": [
       "LITERATURA",
@@ -58766,7 +58899,7 @@
     "editorial": "Editora Cutural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-3642-00-5",
+    "isbn": "9789873642005",
     "descripcion": "160 p.",
     "temas": [
       "CUENTOS CORTOS",
@@ -58792,7 +58925,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-987-29694-4-8",
+    "isbn": "9789872969448",
     "descripcion": "168 p.",
     "temas": [
       "ABORIGENES ARGENTINOS",
@@ -58823,7 +58956,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-511-898-4",
+    "isbn": "9789505118984",
     "descripcion": "248 p.",
     "temas": [
       "CUENTOS",
@@ -58852,7 +58985,7 @@
     "editorial": "Alfaomega",
     "lugar": "México DF",
     "anio": "2013",
-    "isbn": "970-15-0296-5",
+    "isbn": "9701502965",
     "descripcion": "210 p.",
     "temas": [
       "AMBIENTE TERMICO",
@@ -58886,7 +59019,7 @@
     "editorial": "Alfaomega",
     "lugar": "México DF",
     "anio": "2013",
-    "isbn": "970-15-0298-1",
+    "isbn": "9701502981",
     "descripcion": "270 p.",
     "temas": [
       "ANTROPOMETRIA",
@@ -58914,13 +59047,13 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-28284-3-1",
+    "isbn": "9789872828431",
     "descripcion": "76 p.",
     "temas": [
       "CUENTOS",
       "CUENTOS CORTOS",
       "LITERATURA",
-      "LITERATURA FUEGUINA"
+      "LITERATURA DE TIERRA DEL FUEGO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -58938,7 +59071,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-987-29694-5-5",
+    "isbn": "9789872969455",
     "descripcion": "71 p.",
     "temas": [
       "COSTUMBRES",
@@ -58965,7 +59098,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-29694-1-7",
+    "isbn": "9789872969417",
     "descripcion": "294 p.",
     "temas": [
       "LITERATURA",
@@ -58974,10 +59107,6 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004404",
-      "004404",
-      "004405",
-      "004405",
       "005743",
       "005743",
       "005744",
@@ -58989,26 +59118,28 @@
   },
   {
     "id": 2152,
-    "titulo": "CUENTOS brutales",
-    "subtitulo": "",
-    "autor": "",
+    "titulo": "Debate nacional",
+    "subtitulo": "el Servicio Militar Obligatorio",
+    "autor": "Rodriguez Molas, Ricardo",
     "autores_secundarios": [],
-    "editorial": "Cántaro",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2008",
-    "isbn": "950-753-030-4",
-    "descripcion": "96 p.",
+    "anio": "1983",
+    "isbn": "9502500172",
+    "descripcion": "192 p.",
     "temas": [
-      "ANTOLOGIA",
-      "CUENTOS",
-      "LITERATURA",
-      "LITERATURA - CUENTOS",
-      "LITERATURA ARGENTINA"
+      "DEBATE NACIONAL",
+      "FUERZAS ARMADAS",
+      "HISTORIA POLITICA ARGENTINA",
+      "LEGISLACION ARGENTINA",
+      "POLITICA",
+      "RECLUTAMIENTO MILITAR",
+      "SERVICIO MILITAR OBLIGATORIO"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004203",
-      "004203"
+      "006406",
+      "006406"
     ],
     "disponible": true
   },
@@ -59024,7 +59155,7 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "950-28-0268-3",
+    "isbn": "9502802683",
     "descripcion": "229 p.",
     "temas": [
       "DICCIONARIO DE CORRUPCION",
@@ -59048,7 +59179,7 @@
     "editorial": "Pictus",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-1534--07-4",
+    "isbn": "9789871534074",
     "descripcion": "192 p.",
     "temas": [
       "LITERATURA",
@@ -59071,7 +59202,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-117-0",
+    "isbn": "9789507531170",
     "descripcion": "160 p.",
     "temas": [
       "CUENTOS",
@@ -59099,7 +59230,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-01-0970-3",
+    "isbn": "9789500109703",
     "descripcion": "128 p.",
     "temas": [
       "ANTOLOGIA",
@@ -59124,7 +59255,7 @@
     "editorial": "Asociación gente de letras Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "1988",
-    "isbn": "950-99372-0-7",
+    "isbn": "9509937207",
     "descripcion": "144 p.",
     "temas": [
       "CUENTOS CORTOS",
@@ -59152,7 +59283,7 @@
     "editorial": "Leviatán",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-514-211-4",
+    "isbn": "9789875142114",
     "descripcion": "184 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -59176,7 +59307,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "950-511-187-8",
+    "isbn": "9505111878",
     "descripcion": "602 p.",
     "temas": [
       "LITERATURA - NOVELAS",
@@ -59202,7 +59333,7 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-01-1173-7",
+    "isbn": "9789500111737",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
@@ -59231,7 +59362,7 @@
     "editorial": "Cántaro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-753-130-9",
+    "isbn": "9789507531309",
     "descripcion": "224 p.",
     "temas": [
       "LITERATURA",
@@ -59255,13 +59386,16 @@
     "editorial": "Estrada",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-01-1169-0",
+    "isbn": "9789500111690",
     "descripcion": "288 p.",
     "temas": [
+      "LEYENDAS",
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA JUVENIL",
-      "NOVELAS"
+      "NOVELAS",
+      "NOVELAS DE MISTERIOS",
+      "NOVELAS DE SUSPENSO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -59281,7 +59415,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-04-0680-8",
+    "isbn": "9789870406808",
     "descripcion": "104 p.",
     "temas": [
       "ANTOLOGIA",
@@ -59299,48 +59433,59 @@
   },
   {
     "id": 2164,
-    "titulo": "Lettres de mon Moulin",
+    "titulo": "Argentina y Brasil en la integración continental",
     "subtitulo": "",
-    "autor": "Daudet, Alphonse",
+    "autor": "Justo, Liborio",
     "autores_secundarios": [],
-    "editorial": "Collection Nelson",
-    "lugar": "Paris",
-    "anio": "1930",
-    "isbn": "",
-    "descripcion": "276 p.",
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500369",
+    "descripcion": "184 p.",
     "temas": [
-      "LITERATURA - NOVELAS",
-      "LITERATURA FRANCESA",
-      "NOVELA",
-      "NOVELA FRANCESA"
+      "ANTIIMPERIALISMO",
+      "GEOPOLITICA SUDAMERICANA",
+      "HISTORIA ECONOMICA",
+      "HISTORIA POLITICA ARGENTINA",
+      "INTEGRACION REGIONAL",
+      "MARXISMO",
+      "POLITICA",
+      "RELACIONES BILATERALES",
+      "RELACIONES INTERNACIONALES"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000945",
-      "000945"
+      "006411",
+      "006411"
     ],
     "disponible": true
   },
   {
     "id": 2165,
-    "titulo": "Río de lanzas",
-    "subtitulo": "Novela romántica de la época de Artigas y Ramirez",
-    "autor": "Meleiros, Paulina",
-    "autores_secundarios": [],
-    "editorial": "Claridad",
+    "titulo": "La reforma universitaria",
+    "subtitulo": "1918-1983 (Tomo 1)",
+    "autor": "Ciria, Alberto",
+    "autores_secundarios": [
+      "Sanguinetti, Horacio"
+    ],
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "1946",
-    "isbn": "",
-    "descripcion": "",
+    "anio": "1983",
+    "isbn": "9502500377",
+    "descripcion": "190 p.",
     "temas": [
-      "LITERATURA - NOVELAS",
-      "NARRATIVA URUGUAYA",
-      "NOVELA"
+      "AUTONOMIA UNIVERSITARIA",
+      "COGOBIERNO ESTUDIANTIL",
+      "EDUCACION SUPERIOR",
+      "HISTORIA POLITICA ARGENTINA",
+      "MOVIMIENTOS ESTUDIANTILES",
+      "POLITICA",
+      "REFORMA UNIVERSITARIA"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000955",
-      "000955"
+      "006412",
+      "006412"
     ],
     "disponible": true
   },
@@ -59353,7 +59498,7 @@
     "editorial": "Odiseas Planeta",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-742-290-0",
+    "isbn": "9507422900",
     "descripcion": "176 p.",
     "temas": [
       "AUTOBIOGRAFIAS",
@@ -59382,7 +59527,7 @@
     "editorial": "Paraviento ; Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-28284-6-2",
+    "isbn": "9789872828462",
     "descripcion": "152 p.",
     "temas": [
       "EDUCACION",
@@ -59408,7 +59553,7 @@
     "editorial": "Gobierno de la Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
     "lugar": "Ushuaia",
     "anio": "2006",
-    "isbn": "987-20182-2-7",
+    "isbn": "9872018227",
     "descripcion": "294 p.",
     "temas": [
       "ANTARTIDA",
@@ -59434,7 +59579,7 @@
     "editorial": "Aguafuerte",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-28630-5-0",
+    "isbn": "9789872863050",
     "descripcion": "360 p.",
     "temas": [
       "ANTARTIDA",
@@ -59460,7 +59605,7 @@
     "editorial": "Aguafuerte ; Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "",
-    "isbn": "978-987-28630-6-7",
+    "isbn": "9789872863067",
     "descripcion": "64 p.",
     "temas": [
       "GEOGRAFIA",
@@ -59487,7 +59632,7 @@
     "editorial": "Aguafuerte ; Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-28630-3-6",
+    "isbn": "9789872863036",
     "descripcion": "136 p.",
     "temas": [
       "ANECDOTAS",
@@ -59515,7 +59660,7 @@
     "editorial": "Aguafuerte ; Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2012",
-    "isbn": "978-987-28630-2-9",
+    "isbn": "9789872863029",
     "descripcion": "80 p.",
     "temas": [
       "LITERATURA",
@@ -59540,7 +59685,7 @@
     "editorial": "Zagier & Urruty",
     "lugar": "Ushuaia",
     "anio": "1997",
-    "isbn": "1-879568-41-1",
+    "isbn": "1879568411",
     "descripcion": "127 p.",
     "temas": [
       "CETACEOS",
@@ -59565,7 +59710,7 @@
     "editorial": "Utopías",
     "lugar": "Ushuaia",
     "anio": "2006",
-    "isbn": "987-98614-7-7",
+    "isbn": "9879861477",
     "descripcion": "128 p.",
     "temas": [
       "ARTE",
@@ -59590,7 +59735,7 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2001",
-    "isbn": "84-95594-65-X",
+    "isbn": "849559465X",
     "descripcion": "251 p.",
     "temas": [
       "LITERATURA",
@@ -59615,7 +59760,7 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2001",
-    "isbn": "84-95594-74-9",
+    "isbn": "8495594749",
     "descripcion": "71 p.",
     "temas": [
       "LITERATURA",
@@ -59642,7 +59787,7 @@
     "editorial": "AGEA",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-95594-67-6",
+    "isbn": "8495594676",
     "descripcion": "151 p.",
     "temas": [
       "LITERATURA",
@@ -59665,7 +59810,7 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-95594-19-6",
+    "isbn": "8495594196",
     "descripcion": "159 p.",
     "temas": [
       "LITERATURA",
@@ -59689,12 +59834,14 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-95594-15-3",
+    "isbn": "8495594153",
     "descripcion": "111 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA INGLESA",
-      "NOVELAS"
+      "NOVELAS",
+      "NOVELAS DE ESPIONAJE",
+      "NOVELAS DE SUSPENSO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -59714,7 +59861,7 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "1972",
-    "isbn": "950-04-1628-X",
+    "isbn": "950041628X",
     "descripcion": "339 p.",
     "temas": [
       "LITERATURA",
@@ -59737,7 +59884,7 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-955594-03-X",
+    "isbn": "8495559403X",
     "descripcion": "512 p.",
     "temas": [
       "LITERATURA",
@@ -59764,7 +59911,7 @@
     "editorial": "Sol 90",
     "lugar": "Barcelona",
     "anio": "2001",
-    "isbn": "84-95594-75-7",
+    "isbn": "8495594757",
     "descripcion": "151 p.",
     "temas": [
       "LITERATURA",
@@ -59811,7 +59958,7 @@
     "editorial": "Macchi",
     "lugar": "Buenos Aires",
     "anio": "1995",
-    "isbn": "950-537-235-3",
+    "isbn": "9505372353",
     "descripcion": "1203 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -59823,8 +59970,6 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004422",
-      "004422",
       "004423",
       "004423"
     ],
@@ -59839,7 +59984,7 @@
     "editorial": "Pearson Educatión limited",
     "lugar": "Harlow",
     "anio": "2010",
-    "isbn": "978-1-40823234-7",
+    "isbn": "9781408232347",
     "descripcion": "818 p.",
     "temas": [
       "DICCIONARIOS",
@@ -59900,7 +60045,7 @@
     "editorial": "Tinta Libre",
     "lugar": "Cordoba",
     "anio": "2013",
-    "isbn": "978-987-708-028-5",
+    "isbn": "9789877080285",
     "descripcion": "120 p.",
     "temas": [
       "LITERATURA",
@@ -59927,7 +60072,7 @@
     "editorial": "Era Naciente",
     "lugar": "Buenos Aires",
     "anio": "1995",
-    "isbn": "987-9065-17-4",
+    "isbn": "9879065174",
     "descripcion": "175 p.",
     "temas": [
       "INFORMATICA",
@@ -59954,7 +60099,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "950-07-1665-8",
+    "isbn": "9500716658",
     "descripcion": "64 p.",
     "temas": [
       "CUENTOS",
@@ -59972,29 +60117,30 @@
   },
   {
     "id": 2190,
-    "titulo": "La casa encantada",
-    "subtitulo": "Esa cosa al final de la escalera",
-    "autor": "",
+    "titulo": "Las primeras leyes obreras",
+    "subtitulo": "",
+    "autor": "Panettieri, Jose",
     "autores_secundarios": [],
-    "editorial": "Cántaro",
+    "editorial": "Centro Editor de America Latina",
     "lugar": "Buenos Aires",
-    "anio": "2006",
-    "isbn": "950-753-180-7",
-    "descripcion": "160 p.",
+    "anio": "1983",
+    "isbn": "9502500423",
+    "descripcion": "143 p.",
     "temas": [
-      "CUENTOS",
-      "CUENTOS CORTOS",
-      "CUENTOS DE MIEDO",
-      "CUENTOS DE SUSPENSO",
-      "CUENTOS FANTASTICOS",
-      "LITERATURA",
-      "LITERATURA - CUENTOS",
-      "NARRATIVA"
+      "CONDICIONES DE TRABAJO",
+      "DERECHO DEL TRABAJADOR",
+      "HISTORIA DEL TRABAJO",
+      "HISTORIA POLITICA ARGENTINA",
+      "LEGISLACION ARGENTINA",
+      "MOVIMIENTO OBRERO",
+      "POLITICA",
+      "PROTECCION DEL TRABAJADOR",
+      "RELACIONES LABORALES"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "004180",
-      "004180"
+      "006414",
+      "006414"
     ],
     "disponible": true
   },
@@ -60009,7 +60155,7 @@
     "editorial": "Siruela",
     "lugar": "México DF",
     "anio": "2008",
-    "isbn": "978-968-16-8537-9",
+    "isbn": "9789681685379",
     "descripcion": "606 p.",
     "temas": [
       "LITERATURA",
@@ -60036,7 +60182,7 @@
     "editorial": "Universidad de Palermo",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-1716-31-9",
+    "isbn": "9789871716319",
     "descripcion": "328 p.",
     "temas": [
       "EDUCACION",
@@ -106311,31 +106457,31 @@
   },
   {
     "id": 3909,
-    "titulo": "Teoria economica del transporte",
-    "subtitulo": "",
-    "autor": "Thomson, J. M.",
-    "autores_secundarios": [
-      "Escribano, Fernando"
-    ],
-    "editorial": "Alianza",
-    "lugar": "Madrid",
-    "anio": "1976",
-    "isbn": "84-206-2153-6",
-    "descripcion": "303 p.",
+    "titulo": "Ley Saenz Peña",
+    "subtitulo": "pro y contra",
+    "autor": "Diaz, Honorio A.",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500164",
+    "descripcion": "157 p.",
     "temas": [
-      "COSTES",
-      "ECONOMIA",
-      "INDUSTRIAS DEL TRANSPORTE",
-      "INSFRAESTRUCTURA",
-      "PROBLEMAS ECONOMICOS",
-      "SISTEMAS DE TRANSPORTE",
-      "TEORIA ECONOMICA",
-      "TRANSPORTE"
+      "HISTORIA POLITICA ARGENTINA",
+      "LEGISLACION ARGENTINA",
+      "LEY SAENZ PENA",
+      "PARTIDOS POLITICOS",
+      "POLITICA",
+      "PRESIDENCIAS ARGENTINAS",
+      "REFORMA POLITICA",
+      "SISTEMA ELECTORALES",
+      "SUFRAGIO",
+      "UNION CIVICA RADICAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "000303",
-      "000303"
+      "006405",
+      "006405"
     ],
     "disponible": true
   },
@@ -119465,6 +119611,35 @@
     "inventarios": [
       "006615",
       "006615"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 4401,
+    "titulo": "Historia del socialismo argentino. 1",
+    "subtitulo": "(1896-1911)",
+    "autor": "Oddone, Jacinto",
+    "autores_secundarios": [],
+    "editorial": "Centro Editor de America Latina",
+    "lugar": "Buenos Aires",
+    "anio": "1983",
+    "isbn": "9502500032",
+    "descripcion": "160 p.",
+    "temas": [
+      "CLASE OBRERA",
+      "HISTORIA POLITICA ARGENTINA",
+      "MOVIMIENTOS SOCIALES",
+      "PARTIDO SOCIALISTA ARGENTINO",
+      "PARTIDOS POLITICOS",
+      "POLITICA",
+      "PRESIDENCIAS ARGENTINAS",
+      "SINDICALISMO",
+      "SOCIALISMO"
+    ],
+    "sede": "CENT 11",
+    "inventarios": [
+      "006400",
+      "006400"
     ],
     "disponible": true
   }
