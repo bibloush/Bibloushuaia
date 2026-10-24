@@ -27404,8 +27404,8 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "001839",
-      "001839"
+      "001838",
+      "001838"
     ],
     "disponible": true
   },
@@ -70187,34 +70187,6 @@
     "disponible": true
   },
   {
-    "id": 2977,
-    "titulo": "Educación cívica",
-    "subtitulo": "segundo curso",
-    "autor": "",
-    "autores_secundarios": [],
-    "editorial": "A-Z",
-    "lugar": "Buenos Aires",
-    "anio": "1995",
-    "isbn": "950-534-047-8",
-    "descripcion": "159 p.",
-    "temas": [
-      "DEMOCRACIA",
-      "ESTADO",
-      "PODER EJECUTIVO",
-      "PODER JUDICIAL",
-      "PODER LEGISLATIVO",
-      "POLITICA"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "003031",
-      "003031",
-      "003032",
-      "003032"
-    ],
-    "disponible": true
-  },
-  {
     "id": 2978,
     "titulo": "Los antibióticos en el tratamiento de las infecciones respiratorias agudas en niños menores de cinco años",
     "subtitulo": "",
@@ -70233,59 +70205,10 @@
       "MEDICINA Y SALUD",
       "SALUD INFANTIL"
     ],
-    "sede": "CENT Nº 11",
+    "sede": "CENT 11",
     "inventarios": [
       "002757",
       "002757"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2979,
-    "titulo": "Imágenes de la organización",
-    "subtitulo": "",
-    "autor": "Morgan, Gareth",
-    "autores_secundarios": [],
-    "editorial": "Alfaomega",
-    "lugar": "México",
-    "anio": "1998",
-    "isbn": "970-15-0226-4",
-    "descripcion": "408 p.",
-    "temas": [
-      "ORGANIZACION",
-      "RECURSOS HUMANOS",
-      "SOCIOLOGIA",
-      "SOCIOLOGIA DEL TRABAJO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002483",
-      "002483",
-      "002484",
-      "002484"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2980,
-    "titulo": "La ética del chocolate",
-    "subtitulo": "aplicaciones del psicoanálisis en educación social",
-    "autor": "Bernfeld, Siegfried",
-    "autores_secundarios": [],
-    "editorial": "Gedisa",
-    "lugar": "Barcelona",
-    "anio": "2005",
-    "isbn": "84-9784-104-2",
-    "descripcion": "169 p.",
-    "temas": [
-      "EDUCACION",
-      "PEDAGOGIA",
-      "PSICOANALISIS"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002732",
-      "002732"
     ],
     "disponible": true
   },
@@ -70300,7 +70223,7 @@
     "editorial": "Fundacion Arturo Illia para la Democracia y la Paz",
     "lugar": "Buenos Aires",
     "anio": "1990",
-    "isbn": "950-9952-2-1",
+    "isbn": "950995221",
     "descripcion": "180 p.",
     "temas": [
       "DEBATES",
@@ -70317,34 +70240,6 @@
     "disponible": true
   },
   {
-    "id": 2982,
-    "titulo": "La nueva deuda externa explicada a todos",
-    "subtitulo": "",
-    "autor": "Calcagno, Alfredo Eric",
-    "autores_secundarios": [
-      "Calcagno, Eric"
-    ],
-    "editorial": "Catálogos",
-    "lugar": "Buenos Aires",
-    "anio": "2006",
-    "isbn": "950-895-212-1",
-    "descripcion": "157 p.",
-    "temas": [
-      "DEUDA EXTERIOR",
-      "ECONOMIA",
-      "ECONOMIA ARGENTINA",
-      "FINANZAS PUBLICAS"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002829",
-      "002829",
-      "002830",
-      "002830"
-    ],
-    "disponible": true
-  },
-  {
     "id": 2983,
     "titulo": "Calidad",
     "subtitulo": "",
@@ -70353,7 +70248,7 @@
     "editorial": "Jerez",
     "lugar": "Resistencia",
     "anio": "2017",
-    "isbn": "978-987-4424-29-7",
+    "isbn": "9789874424297",
     "descripcion": "260 p.",
     "temas": [
       "ADMINISTRACION",
@@ -70386,11 +70281,16 @@
     "editorial": "Jerez Editores",
     "lugar": "Resistencia",
     "anio": "2017",
-    "isbn": "978-987-4424-12-9",
+    "isbn": "9789874424129",
     "descripcion": "416 p.",
     "temas": [
+      "CONSTRUCCIONES METALICAS",
       "INGENIERIA",
-      "SOLDADURA"
+      "INGENIERIA MECANICA",
+      "SOLDADURA",
+      "SOLDADURA EN ATMOSFERA NATURAL",
+      "SOLDADURA EN ATMOSFERA PROTEGIDA",
+      "TECNOLOGIA METALURGICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -70402,412 +70302,6 @@
       "005384",
       "005385",
       "005385"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2985,
-    "titulo": "Aula-taller en administración de empresas",
-    "subtitulo": "",
-    "autor": "Naidenoff, Sofía",
-    "autores_secundarios": [],
-    "editorial": "GRAM",
-    "lugar": "Buenos Aires",
-    "anio": "1992",
-    "isbn": "950-530-223-1",
-    "descripcion": "109 p.",
-    "temas": [
-      "ADMINISTRACION DE RECURSOS HUMANOS",
-      "ADMINISTRACION Y ORGANIZACION",
-      "PERSONAL"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "003046",
-      "003046",
-      "003047",
-      "003047",
-      "003048",
-      "003048",
-      "003049",
-      "003049",
-      "003051",
-      "003051"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2986,
-    "titulo": "Introducción a las actividades hoteleras",
-    "subtitulo": "",
-    "autor": "Stewart Weissinger, Suzanne",
-    "autores_secundarios": [
-      "Ribagorda Serrano, Miguel"
-    ],
-    "editorial": "Paraninfo",
-    "lugar": "Madrid",
-    "anio": "2001",
-    "isbn": "84-283-2790-4",
-    "descripcion": "185 p.",
-    "temas": [
-      "4",
-      "ALOJAMIENTO",
-      "HOTELERIA",
-      "RESTAURACION HOTELERA",
-      "SERVICIO DE PISOS",
-      "SERVICIO DE RECEPCION",
-      "SERVICIO HOTELERO",
-      "TURISMO"
-    ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
-    "inventarios": [
-      "001779",
-      "001779",
-      "001818",
-      "001818"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2987,
-    "titulo": "Alimentos y bebidas",
-    "subtitulo": "compras, almacenaje, seguridad y costos",
-    "autor": "Salas, Fernando",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2005",
-    "isbn": "987-9473-52-3",
-    "descripcion": "127 p.",
-    "temas": [
-      "ALIMENTOS",
-      "BEBIDAS",
-      "BEBIDAS ALCOHOLICAS",
-      "HOTELERIA",
-      "TURISMO"
-    ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
-    "inventarios": [
-      "001657",
-      "001657",
-      "002356",
-      "002356",
-      "003972",
-      "003972"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2988,
-    "titulo": "Las mil y una historias de América",
-    "subtitulo": "",
-    "autor": "Gálvez, Lucía",
-    "autores_secundarios": [],
-    "editorial": "Kapelusz",
-    "lugar": "Buenos Aires",
-    "anio": "1996",
-    "isbn": "950-13-2568-7",
-    "descripcion": "334 p.",
-    "temas": [
-      "ABORIGENES",
-      "CONQUISTA DEL RIO DE LA PLATA",
-      "DESCUBRIMIENTO DEL RIO DE LA PLATA",
-      "EPOCA COLONIAL",
-      "EVANGELIZACION",
-      "HISTORIA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003052",
-      "003052"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2989,
-    "titulo": "El emprendedor teconológico",
-    "subtitulo": "ó el conocimiento como empresa",
-    "autor": "Fernández Cirelli, A.",
-    "autores_secundarios": [
-      "Durante, R.",
-      "Lesser, R."
-    ],
-    "editorial": "EUDEBA",
-    "lugar": "Buenos Aires",
-    "anio": "1996",
-    "isbn": "950-23-0631-7",
-    "descripcion": "123 p.",
-    "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "COMPETITIVIDAD",
-      "EMPRESAS",
-      "GESTION",
-      "TECNOLOGIA"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "003053",
-      "003053"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2990,
-    "titulo": "Gestión de alimentos y bebidas para hoteles, bares y restaurantes",
-    "subtitulo": "",
-    "autor": "Gallego, Jesús Felipe",
-    "autores_secundarios": [],
-    "editorial": "Paraninfo",
-    "lugar": "Madrid",
-    "anio": "2002",
-    "isbn": "84-283-2805-6",
-    "descripcion": "705 p.",
-    "temas": [
-      "BEBIDAS",
-      "EVENTOS Y BANQUETES",
-      "MARKETING",
-      "RECURSOS HUMANOS",
-      "RESTAURACION",
-      "RESTAURACION HOTELERA",
-      "TURISMO",
-      "VINO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001748",
-      "001748",
-      "001777",
-      "001777"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2991,
-    "titulo": "Fronteras globales",
-    "subtitulo": "cultura, política y medios de comunicación",
-    "autor": "Luchessi, Lila",
-    "autores_secundarios": [
-      "Luchessi, Lila",
-      "Rodriguez, María Graciela"
-    ],
-    "editorial": "La Crujia",
-    "lugar": "Buenos Aires",
-    "anio": "2007",
-    "isbn": "987-601-021-2",
-    "descripcion": "310 p.",
-    "temas": [
-      "COMUNICACION",
-      "CULTURA",
-      "MEDIOS DE COMUNICACION",
-      "PERIODISMO",
-      "POLITICA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "002201",
-      "002201"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2992,
-    "titulo": "Administración en enfermería",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "1993",
-    "isbn": "",
-    "descripcion": "254 p.",
-    "temas": [
-      "ADMINISTRACION",
-      "ENFERMERIA",
-      "GESTION",
-      "MEDICINA Y SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003055",
-      "003055"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2993,
-    "titulo": "Broncodilatadores y otros medicamentos para el tratamiento de las enfermedades asociadas con sibilancias en niños",
-    "subtitulo": "",
-    "autor": "Organización Panamericana de la Salud",
-    "autores_secundarios": [],
-    "editorial": "OPS",
-    "lugar": "Washington, D.C.",
-    "anio": "1993",
-    "isbn": "",
-    "descripcion": "29 p.",
-    "temas": [
-      "ENFERMEDADES INFECCIOSAS",
-      "ENFERMEDADES RESPIRATORIAS",
-      "FARMACOLOGIA",
-      "MEDICAMENTOS",
-      "MEDICINA Y SALUD",
-      "SALUD INFANTIL"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "003054",
-      "003054"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2994,
-    "titulo": "Drogas alucinógenas",
-    "subtitulo": "",
-    "autor": "Ministerio de Salud Pública y Medio Ambiente",
-    "autores_secundarios": [],
-    "editorial": "el Ministerio",
-    "lugar": "Buenos Aires",
-    "anio": "1981",
-    "isbn": "",
-    "descripcion": "47 p.",
-    "temas": [
-      "DROGADICCION",
-      "DROGAS",
-      "MEDICINA Y SALUD",
-      "SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003033",
-      "003033"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2995,
-    "titulo": "Los orígenes de la civilización y la condición primitiva del hombre",
-    "subtitulo": "(estado intelectual y social de los salvajes)",
-    "autor": "Lubbock, John",
-    "autores_secundarios": [
-      "Caso, José de"
-    ],
-    "editorial": "El Progreso",
-    "lugar": "Madrid",
-    "anio": "1889",
-    "isbn": "",
-    "descripcion": "476 p.",
-    "temas": [
-      "ARTE",
-      "DESARROLLO DEL PARENTESCO",
-      "HISTORIA",
-      "LENGUAJES",
-      "RELIGION"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "000958",
-      "000958"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2996,
-    "titulo": "Enseñanza en enfermería",
-    "subtitulo": "",
-    "autor": "Fassi de Grenat, Derma",
-    "autores_secundarios": [
-      "Chiappero, Dominga Paulina",
-      "Rojo, María Delia"
-    ],
-    "editorial": "Universidad Nacional de Córdoba",
-    "lugar": "Córdoba",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "546 p.",
-    "temas": [
-      "4",
-      "ENFERMERIA",
-      "FORMACION PROFESIONAL",
-      "MEDICINA Y SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003056",
-      "003056"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2997,
-    "titulo": "Enseñanza en enfermería",
-    "subtitulo": "",
-    "autor": "Fassi de Grenat, Derma",
-    "autores_secundarios": [
-      "Chiappero, Dominga Paulina",
-      "Rojo, María Delia"
-    ],
-    "editorial": "Universidad Nacional de Córdoba",
-    "lugar": "Córdoba",
-    "anio": "1996",
-    "isbn": "",
-    "descripcion": "266 p.",
-    "temas": [
-      "4",
-      "ENFERMERIA",
-      "FORMACION PROFESIONAL",
-      "MEDICINA Y SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003057",
-      "003057"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2998,
-    "titulo": "Enfermería comunitaria",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "1995",
-    "isbn": "",
-    "descripcion": "222 p.",
-    "temas": [
-      "ENFERMERIA",
-      "MEDICINA Y SALUD",
-      "SALUD DE LA COMUNIDAD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003058",
-      "003058"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 2999,
-    "titulo": "Enfermería comunitaria",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "222 p.",
-    "temas": [
-      "ENFERMERIA",
-      "HIPERTENSION",
-      "MEDICINA Y SALUD",
-      "SALUD DE LA COMUNIDAD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003059",
-      "003059"
     ],
     "disponible": true
   },
@@ -70951,84 +70445,6 @@
     "disponible": true
   },
   {
-    "id": 3007,
-    "titulo": "Enfermería de alto riesgo",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "1992",
-    "isbn": "",
-    "descripcion": "285 p.",
-    "temas": [
-      "ENFERMERIA",
-      "MEDICINA Y SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003062",
-      "003062"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3008,
-    "titulo": "Enfermería de alto riesgo",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "363 p.",
-    "temas": [
-      "4",
-      "ACIDOSIS",
-      "ENFERMEDADES RENALES",
-      "ENFERMERIA",
-      "FISIOLOGIA RENAL",
-      "MEDICINA Y SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003060",
-      "003060"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3009,
-    "titulo": "Enfermería de alto riesgo",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "316 p.",
-    "temas": [
-      "4",
-      "ANATOMIA",
-      "ENFERMEDADES CARDIOVASCULARES",
-      "ENFERMEDADES RESPIRATORIAS",
-      "ENFERMERIA",
-      "FISIOLOGIA",
-      "INTUBACION",
-      "MEDICINA Y SALUD",
-      "SISTEMA CIRCULATORIO",
-      "SISTEMA RESPIRATORIO"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003061",
-      "003061"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3010,
     "titulo": "",
     "subtitulo": "Teoria y ejercicios resueltos",
@@ -71039,7 +70455,7 @@
     "editorial": "Jerez Editores",
     "lugar": "Resistencia",
     "anio": "2017",
-    "isbn": "978-987-4424-15-0",
+    "isbn": "9789874424150",
     "descripcion": "422 p.",
     "temas": [
       "CALOR",
@@ -71065,36 +70481,6 @@
       "005639",
       "005640",
       "005640"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3011,
-    "titulo": "Administracion en enfermería",
-    "subtitulo": "",
-    "autor": "Universidad Nacional de Córdoba",
-    "autores_secundarios": [],
-    "editorial": "la Universidad",
-    "lugar": "Córdoba",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "646 p.",
-    "temas": [
-      "4",
-      "ADMINISTRACION",
-      "CONTROL",
-      "DIRECCION",
-      "ENFERMERIA",
-      "EVALUACION DEL PERSONAL",
-      "LIDERAZGO",
-      "MEDICINA Y SALUD",
-      "RECURSOS HUMANOS",
-      "TOMA DE DECISIONES"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003064",
-      "003064"
     ],
     "disponible": true
   },
@@ -71220,59 +70606,6 @@
     "disponible": true
   },
   {
-    "id": 3018,
-    "titulo": "Pensamiento y acción",
-    "subtitulo": "",
-    "autor": "Bourdieu, Pierre",
-    "autores_secundarios": [],
-    "editorial": "Libros del Zorzal",
-    "lugar": "Buenos Aires",
-    "anio": "2002",
-    "isbn": "987-1081-08-1",
-    "descripcion": "156 p.",
-    "temas": [
-      "CONFLICTOS SOCIALES",
-      "SOCIOLOGIA",
-      "SOCIOLOGIA POLITICA"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002794",
-      "002794",
-      "002864",
-      "002864"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3019,
-    "titulo": "Calidad total en la gestión de servicios",
-    "subtitulo": "",
-    "autor": "Zeithaml, Valarie A.",
-    "autores_secundarios": [
-      "Berry, Leonard L.",
-      "Parasuraman, A."
-    ],
-    "editorial": "Diaz de Santos",
-    "lugar": "Madrid",
-    "anio": "1993",
-    "isbn": "84-7978-061-4",
-    "descripcion": "256 p.",
-    "temas": [
-      "ADMINISTRACION Y ORGANIZACION",
-      "CALIDAD",
-      "GESTION",
-      "LIDERAZGO",
-      "ORGANIZACION"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001889",
-      "001889"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3020,
     "titulo": "Fisiologia respiratoria",
     "subtitulo": "",
@@ -71300,60 +70633,6 @@
     "disponible": true
   },
   {
-    "id": 3021,
-    "titulo": "Diccionario de política",
-    "subtitulo": "a-j",
-    "autor": "Bobbio, Norberto",
-    "autores_secundarios": [
-      "Bobbio, Norberto",
-      "Matteucci, Nicola",
-      "Pasquino, Gianfranco"
-    ],
-    "editorial": "Siglo XXI",
-    "lugar": "México",
-    "anio": "2005",
-    "isbn": "968-23-1669-3",
-    "descripcion": "2 v. (xv, 1698 p.)",
-    "temas": [
-      "DICCIONARIOS",
-      "POLITICA"
-    ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
-    "inventarios": [
-      "001954",
-      "001954"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3022,
-    "titulo": "Diez teorías que conmovieron al mundo (II)",
-    "subtitulo": "de la teoría atómica al bing bang",
-    "autor": "Moledo, Leonardo",
-    "autores_secundarios": [
-      "Magnani, Esteban"
-    ],
-    "editorial": "Capital Intelectual",
-    "lugar": "Buenos Aires",
-    "anio": "2006",
-    "isbn": "978-987-1181-52-0",
-    "descripcion": "116 p.",
-    "temas": [
-      "CIENCIA",
-      "GENETICA",
-      "TEORIA ATOMICA",
-      "TEORIA DE LA INFECCION MICROBIANA",
-      "TEORIA DE LA RELATIVIDAD",
-      "TEORIA DEL BING BANG"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "003067",
-      "003067"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3023,
     "titulo": "Todo lo que necesitas saber sobre ciencia",
     "subtitulo": "",
@@ -71362,7 +70641,7 @@
     "editorial": "paidos",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-950-12-0401-8",
+    "isbn": "9789501204018",
     "descripcion": "264 p.",
     "temas": [
       "CIENCIA",
@@ -71378,86 +70657,6 @@
     "disponible": true
   },
   {
-    "id": 3024,
-    "titulo": "Derecho y turismo",
-    "subtitulo": "",
-    "autor": "Casanova Ferro, Gonzalo",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2007",
-    "isbn": "978-987-9473-65-8",
-    "descripcion": "175 p.",
-    "temas": [
-      "ASPECTOS JURIDICOS",
-      "CONTRATOS",
-      "DERECHO CIVIL",
-      "HOTELERIA",
-      "LEGISLACION LABORAL",
-      "PATRIMONIO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002248",
-      "002248"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3025,
-    "titulo": "Turismo popular",
-    "subtitulo": "inversiones rentables",
-    "autor": "Ripoll, Graciela",
-    "autores_secundarios": [],
-    "editorial": "Trillas",
-    "lugar": "México",
-    "anio": "1986",
-    "isbn": "968-24-1835-6",
-    "descripcion": "243 p.",
-    "temas": [
-      "INVERSION TURISTICA",
-      "INVESTIGACION TURISTICA",
-      "PRESUPUESTO",
-      "PROYECTO TURISTICO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001695",
-      "001695",
-      "001879",
-      "001879"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3026,
-    "titulo": "Un nuevo tiempo libre",
-    "subtitulo": "tres enfoques teoricoprácticos",
-    "autor": "Boullón, Roberto",
-    "autores_secundarios": [
-      "Molina, Sergio E.",
-      "Rodriguez Woog, Manuel"
-    ],
-    "editorial": "Trillas",
-    "lugar": "México",
-    "anio": "1991",
-    "isbn": "968-24-4180-3",
-    "descripcion": "80 p.",
-    "temas": [
-      "DESARROLLO TURISTICO",
-      "SISTEMA TURISTICO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001741",
-      "001741"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3027,
     "titulo": "Lengua y Literatura",
     "subtitulo": "los estudios semioticos. el caso de la cronica periodistica",
@@ -71466,7 +70665,7 @@
     "editorial": "CONICET",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-687-025-X",
+    "isbn": "950687025X",
     "descripcion": "286 p.",
     "temas": [
       "CRONICA PERIODISTICA",
@@ -71480,59 +70679,6 @@
     "inventarios": [
       "006012",
       "006012"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3028,
-    "titulo": "Turismo, recreación y medio ambiente",
-    "subtitulo": "",
-    "autor": "Buchinger, María",
-    "autores_secundarios": [
-      "Gomis, Patricio"
-    ],
-    "editorial": "Universo",
-    "lugar": "Buenos Aires",
-    "anio": "1996",
-    "isbn": "987-95471-4-1",
-    "descripcion": "283 p.",
-    "temas": [
-      "ECOTURISMO",
-      "IMPACTO DEL TURISMO",
-      "OCIO AL AIRE LIBRE",
-      "PLANIFICACION TURISTICA",
-      "RECURSOS NATURALES",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001739",
-      "001739"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3029,
-    "titulo": "Calidad turística",
-    "subtitulo": "en la pequeña y mediana empresa",
-    "autor": "Boullón, Roberto",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2003",
-    "isbn": "987-9473-22-1",
-    "descripcion": "240 p.",
-    "temas": [
-      "CALIDAD",
-      "NORMAS ISO",
-      "PEQUENAS Y MEDIANAS EMPRESAS",
-      "SERVICIOS TURISTICOS",
-      "TURISMO"
-    ],
-    "sede": "CENTRO EDUCATIVO NIVEL TERCIARIO Nº 11",
-    "inventarios": [
-      "001801",
-      "001801"
     ],
     "disponible": true
   },
@@ -71562,298 +70708,6 @@
     "inventarios": [
       "006583",
       "006583"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3031,
-    "titulo": "Transporte carretero argentino",
-    "subtitulo": "",
-    "autor": "Wallingre, Noemí",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2003",
-    "isbn": "987-9473-20-5",
-    "descripcion": "175 p.",
-    "temas": [
-      "CARRETERAS",
-      "TRANSPORTE POR CARRETERA",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001875",
-      "001875"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3032,
-    "titulo": "Metodologia en el turismo",
-    "subtitulo": "",
-    "autor": "Ponterio Viale, Sergio",
-    "autores_secundarios": [],
-    "editorial": "Trillas",
-    "lugar": "México",
-    "anio": "1991",
-    "isbn": "968-24-3310-X",
-    "descripcion": "105 p.",
-    "temas": [
-      "INVESTIGACION TURISTICA",
-      "TURISMO"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "001839",
-      "001839"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3033,
-    "titulo": "Marketing práctico del turismo",
-    "subtitulo": "en hostelería, restauración, turismo comercial e institucional",
-    "autor": "Parenteau, Alain",
-    "autores_secundarios": [],
-    "editorial": "Síntesis",
-    "lugar": "Madrid",
-    "anio": "1995",
-    "isbn": "84-7738-266-2",
-    "descripcion": "263 p.",
-    "temas": [
-      "HOTELERIA",
-      "MARKETING TURISTICO",
-      "PRESUPUESTO",
-      "RESTAURACION",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001886",
-      "001886"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3034,
-    "titulo": "Turismo, derecho y economía regional",
-    "subtitulo": "",
-    "autor": "Kemelmajer de Carlucci, Aída",
-    "autores_secundarios": [
-      "Benítez, Diego",
-      "Kemelmajer de Carlucci, Aída"
-    ],
-    "editorial": "Rubinzal-Culzoni",
-    "lugar": "Buenos Aires",
-    "anio": "2003",
-    "isbn": "950-727-461-8",
-    "descripcion": "302 p.",
-    "temas": [
-      "AGENCIAS DE VIAJES",
-      "CONTRATO HOTELERO",
-      "CONTRATOS",
-      "ECONOMIA DE TURISMO",
-      "EMPRESA TURISTICA",
-      "LEGISLACION",
-      "TIEMPO COMPARTIDO",
-      "TURISMO",
-      "TURISMO ALTERNATIVO"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "002228",
-      "002228",
-      "003685",
-      "003685"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3035,
-    "titulo": "Turismo sustentable",
-    "subtitulo": "¿es posible en Argentina?",
-    "autor": "Zeballos de Sisto, Pampi",
-    "autores_secundarios": [
-      "Russak, Mario"
-    ],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2003",
-    "isbn": "987-9473-19-1",
-    "descripcion": "352 p.",
-    "temas": [
-      "DESARROLLO SUSTENTABLE",
-      "ECOTURISMO",
-      "IMPACTO DEL TURISMO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001679",
-      "001679"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3036,
-    "titulo": "Proyectos turísticos",
-    "subtitulo": "metodologías para acertar sin errores",
-    "autor": "Boullón, Roberto",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2002",
-    "isbn": "987-9473-14-0",
-    "descripcion": "125 p.",
-    "temas": [
-      "FORMULACION DEL PROBLEMA",
-      "PROYECTO TURISTICO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001677",
-      "001677"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3037,
-    "titulo": "Marketing turístico",
-    "subtitulo": "una perspectiva desde la planificación",
-    "autor": "Boullón, Roberto",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2004",
-    "isbn": "987-9473-25-6",
-    "descripcion": "191 p.",
-    "temas": [
-      "MARKETING TURISTICO",
-      "MERCADO TURISTICO",
-      "PRODUCTOS TURISTICOS",
-      "SERVICIOS TURISTICOS",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001880",
-      "001880"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3038,
-    "titulo": "El ABC del marketing de servicios turísticos",
-    "subtitulo": "",
-    "autor": "Toyos, Mónica",
-    "autores_secundarios": [],
-    "editorial": "Turísticas",
-    "lugar": "Buenos Aires",
-    "anio": "2005",
-    "isbn": "987-9473-50-7",
-    "descripcion": "125 p.",
-    "temas": [
-      "CALIDAD",
-      "MARCAS",
-      "MARKETING TURISTICO",
-      "PRECIOS DE PRODUCTOS TURISTICOS",
-      "SERVICIOS TURISTICOS",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001682",
-      "001682"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3039,
-    "titulo": "Organización y control del alojamiento",
-    "subtitulo": "",
-    "autor": "Milio Balanzá, Isabel",
-    "autores_secundarios": [],
-    "editorial": "Paraninfo",
-    "lugar": "Madrid",
-    "anio": "2000",
-    "isbn": "84-283-2677-0",
-    "descripcion": "178 p.",
-    "temas": [
-      "4",
-      "EMPRESA HOTELERA",
-      "HOTELERIA",
-      "PRECIOS DE PRODUCTOS TURISTICOS",
-      "PRESUPUESTO",
-      "SERVICIO HOTELERO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001821",
-      "001821",
-      "002784",
-      "002784",
-      "002785",
-      "002785"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3040,
-    "titulo": "Recepción y atención al cliente",
-    "subtitulo": "",
-    "autor": "López García, Socorro",
-    "autores_secundarios": [],
-    "editorial": "Thomson",
-    "lugar": "Madrid",
-    "anio": "2000",
-    "isbn": "84-9732-220-7",
-    "descripcion": "187 p.",
-    "temas": [
-      "CALIDAD DE LA RECEPCION",
-      "HOTELERIA",
-      "RECEPCIONISTA",
-      "SERVICIO DE RECEPCION",
-      "SERVICIO HOTELERO",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "002788",
-      "002788",
-      "002789",
-      "002789"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3041,
-    "titulo": "Técnicas de servicio y atención al cliente",
-    "subtitulo": "",
-    "autor": "García Ortiz, Francisco",
-    "autores_secundarios": [
-      "García Ortiz, Pedro Pablo",
-      "Gil Muela, Mario"
-    ],
-    "editorial": "Thomson",
-    "lugar": "Madrid",
-    "anio": "2000",
-    "isbn": "84-9732-222-3",
-    "descripcion": "181 p.",
-    "temas": [
-      "EVENTOS Y BANQUETES",
-      "RESTAURACION",
-      "SERVICIOS AL CLIENTE",
-      "TURISMO"
-    ],
-    "sede": "CENT Nº 11",
-    "inventarios": [
-      "001775",
-      "001775",
-      "002496",
-      "002496"
     ],
     "disponible": true
   },
@@ -71902,7 +70756,7 @@
     "editorial": "Wolters Kluwers",
     "lugar": "Barcelona",
     "anio": "2015",
-    "isbn": "978-84-16353-82-8",
+    "isbn": "9788416353828",
     "descripcion": "663 p.",
     "temas": [
       "ENFERMEDAD",
@@ -71932,7 +70786,7 @@
     "editorial": "Wolters Kluwer",
     "lugar": "Barcelona",
     "anio": "2015",
-    "isbn": "978-84-16353-80-4",
+    "isbn": "9788416353804",
     "descripcion": "736 p.",
     "temas": [
       "APARATO DIGESTIVO",
@@ -71965,7 +70819,7 @@
     "editorial": "Wolters Kluwer",
     "lugar": "Barcelona",
     "anio": "2015",
-    "isbn": "978-84-16353-83-5",
+    "isbn": "9788416353835",
     "descripcion": "609 p.",
     "temas": [
       "ATENCION PERINATAL",
@@ -71992,7 +70846,7 @@
     "editorial": "Wolters Kluwer",
     "lugar": "Mexico DF",
     "anio": "2013",
-    "isbn": "978-607-448-319-2",
+    "isbn": "9786074483192",
     "descripcion": "400 p.",
     "temas": [
       "DOSIS",
@@ -72029,7 +70883,7 @@
     "editorial": "Lugar",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "950-982-051-3",
+    "isbn": "9509820513",
     "descripcion": "122 p.",
     "temas": [
       "DIAGNOSTICO",
@@ -72042,9 +70896,7 @@
     "sede": "CENT 11",
     "inventarios": [
       "004825",
-      "004825",
-      "004824",
-      "004824"
+      "004825"
     ],
     "disponible": true
   },
@@ -72059,7 +70911,7 @@
     "editorial": "Ministerio de Educacion de la Nacion",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-00-0774-0",
+    "isbn": "9789500007740",
     "descripcion": "204 p.",
     "temas": [
       "BIOLOGIA",
@@ -72087,7 +70939,7 @@
     "editorial": "Ministerio de Educacion (INET)",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-00-0723-8",
+    "isbn": "9789500007238",
     "descripcion": "140 p.",
     "temas": [
       "ENTROPIA",
@@ -72114,7 +70966,7 @@
     "editorial": "Interamericana",
     "lugar": "Mexico DF",
     "anio": "1979",
-    "isbn": "968-25-0334-5",
+    "isbn": "9682503345",
     "descripcion": "376 p.",
     "temas": [
       "CUIDADO DE LA SALUD",
@@ -72170,7 +71022,7 @@
     "editorial": "Cantaro",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-753-253-5",
+    "isbn": "9789507532535",
     "descripcion": "160 p.",
     "temas": [
       "LITERATURA",
@@ -72195,7 +71047,7 @@
     "editorial": "Debolsillo",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-566-435-7",
+    "isbn": "9789875664357",
     "descripcion": "456 p.",
     "temas": [
       "LITERATURA",
@@ -72220,11 +71072,13 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2015",
-    "isbn": "978-950-04-3749-3",
+    "isbn": "9789500437493",
     "descripcion": "269 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA EXISTENCIALISTA",
+      "NOVELA URBANA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72243,11 +71097,13 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2015",
-    "isbn": "978-950-04-3750-9",
+    "isbn": "9789500437509",
     "descripcion": "162 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA DE INICIACION",
+      "NOVELA REALISTA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72266,12 +71122,14 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2015",
-    "isbn": "978-950-04-3748-6",
+    "isbn": "9789500437486",
     "descripcion": "251 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "LITERATURA FLUVIAL",
+      "NOVELAS",
+      "REALISMO EXISTENCIAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72289,12 +71147,15 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2015",
-    "isbn": "978-950-04-3746-2",
+    "isbn": "9789500437462",
     "descripcion": "396 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NOVELA PICARESCA",
+      "NOVELAS",
+      "POLITICO-IDEOLOGICO",
+      "REALISMO MAGICO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72312,7 +71173,7 @@
     "editorial": "Salamandra",
     "lugar": "Barcelona",
     "anio": "2008",
-    "isbn": "978-84-9838-196-2",
+    "isbn": "9788498381962",
     "descripcion": "118 p.",
     "temas": [
       "CUENTOS",
@@ -72361,7 +71222,7 @@
     "editorial": "Quipu",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-504-019-9",
+    "isbn": "9789875040199",
     "descripcion": "127 p.",
     "temas": [
       "LITERATURA",
@@ -72384,11 +71245,14 @@
     "editorial": "Planeta",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-742-237-4",
+    "isbn": "9507422374",
     "descripcion": "216 p.",
     "temas": [
+      "HUMOR IRREVERENTE",
+      "IDENTIDAD FEMENINA",
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA AUTOBIOGRAFICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72407,11 +71271,13 @@
     "editorial": "Sudamericana",
     "lugar": "Barcelona",
     "anio": "2009",
-    "isbn": "978-84-264-1744-2",
+    "isbn": "9788426417442",
     "descripcion": "320 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA INGLESA",
+      "NOVELA AUTOBIOGRAFICA",
+      "NOVELA REALISTA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72430,12 +71296,15 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-04-3278-8",
+    "isbn": "9789500432788",
     "descripcion": "319",
     "temas": [
+      "FICCION EXISTENCIAL",
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NOVELA PSICOLOGICA",
+      "NOVELAS",
+      "SATIRA POLITICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72458,7 +71327,9 @@
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NOVELA PSICOLOGICA",
+      "NOVELAS",
+      "REALISMO FANTASTICO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72474,14 +71345,15 @@
     "autor": "Stoker, Bram",
     "autores_secundarios": [],
     "editorial": "Terramar",
-    "lugar": "La Plata",
+    "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-21402-1-9",
+    "isbn": "9872140219",
     "descripcion": "380",
     "temas": [
-      "LITERATURA - NOVELAS",
+      "LITERATURA",
       "LITERATURA INGLESA",
-      "NARRATIVA INGLESA"
+      "NOVELAS",
+      "NOVELAS DE TERROR"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72496,10 +71368,10 @@
     "subtitulo": "",
     "autor": "Alarcon, Cristian",
     "autores_secundarios": [],
-    "editorial": "Grupo editorial Norma",
+    "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-545-514-6",
+    "isbn": "9789875455146",
     "descripcion": "173",
     "temas": [
       "LITERATURA",
@@ -72523,7 +71395,7 @@
     "editorial": "Adriana Hidalgo",
     "lugar": "Buenos Aires",
     "anio": "2014",
-    "isbn": "978-987-1923-81-6",
+    "isbn": "9789871923816",
     "descripcion": "476 p.",
     "temas": [
       "ANTOLOGIA",
@@ -72547,12 +71419,16 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-950-04-3326-6",
+    "isbn": "9789500433266",
     "descripcion": "223 p.",
     "temas": [
+      "GUERRA DE LA INDEPENDENCIA",
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NARRATIVA ROMANTICA",
+      "NOVELA HISTORICA",
+      "NOVELAS",
+      "ROL DE LAS MUJERES"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72570,7 +71446,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-07-2620-3",
+    "isbn": "9500726203",
     "descripcion": "472 p.",
     "temas": [
       "LITERATURA",
@@ -72594,7 +71470,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "950-644-072-7",
+    "isbn": "9506440727",
     "descripcion": "430 p.",
     "temas": [
       "LITERATURA",
@@ -72618,12 +71494,14 @@
     "editorial": "Emecé",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-04-3071-5",
+    "isbn": "9789500430715",
     "descripcion": "345 p.",
     "temas": [
+      "DRAMA ROMANTICO",
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NOVELAS",
+      "NOVELAS HISTORICAS"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72641,7 +71519,7 @@
     "editorial": "Espacio Hudson",
     "lugar": "Rada Tilly",
     "anio": "2014",
-    "isbn": "978-987-1904-08-2",
+    "isbn": "9789871904082",
     "descripcion": "204 p.",
     "temas": [
       "ANTOLOGIA",
@@ -72665,11 +71543,14 @@
     "editorial": "Punto de lectura",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-578-093-4",
+    "isbn": "9789875780934",
     "descripcion": "428 p.",
     "temas": [
+      "FICCION EXISTENCIAL",
       "LITERATURA",
       "LITERATURA INGLESA",
+      "NARRATIVA URBANA",
+      "NOVELA PSICOLOGICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72688,12 +71569,15 @@
     "editorial": "Salamandra",
     "lugar": "Barcelona",
     "anio": "2010",
-    "isbn": "978-84-9838-273-0",
+    "isbn": "9788498382730",
     "descripcion": "155 p.",
     "temas": [
+      "DRAMA POLITICO",
       "LITERATURA",
       "LITERATURA UCRANIANA",
-      "NOVELAS"
+      "NOVELA PSICOLOGICA",
+      "NOVELAS",
+      "NOVELAS HISTORICAS"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72711,11 +71595,14 @@
     "editorial": "Seix Barral",
     "lugar": "Barcelona",
     "anio": "2004",
-    "isbn": "84-322-1657-7",
+    "isbn": "8432216577",
     "descripcion": "317 p.",
     "temas": [
+      "CIENCIA FICCION EXISTENCIAL",
+      "DISTOPIA",
       "LITERATURA",
       "LITERATURA ESPANOLA",
+      "NOVELA FANTASTICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72734,8 +71621,8 @@
     "editorial": "Miraguano Ediciones",
     "lugar": "Madrid",
     "anio": "1995",
-    "isbn": "84-7813-145-0",
-    "descripcion": "191",
+    "isbn": "8478131450",
+    "descripcion": "191 p.",
     "temas": [
       "CUENTOS",
       "LITERATURA",
@@ -72758,8 +71645,8 @@
     "editorial": "Debate",
     "lugar": "Madrid",
     "anio": "1999",
-    "isbn": "84-8306-146-5",
-    "descripcion": "264",
+    "isbn": "8483061465",
+    "descripcion": "264 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ESPANOLA",
@@ -72782,8 +71669,8 @@
     "editorial": "Debate",
     "lugar": "Madrid",
     "anio": "1999",
-    "isbn": "84-8306-162-7",
-    "descripcion": "208",
+    "isbn": "8483061627",
+    "descripcion": "208 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ESPANOLA",
@@ -72806,11 +71693,14 @@
     "editorial": "Lumen",
     "lugar": "Barcelona",
     "anio": "2009",
-    "isbn": "978-84-264-1695-7",
-    "descripcion": "379",
+    "isbn": "9788426416957",
+    "descripcion": "379 p.",
     "temas": [
+      "DRAMA CONTEMPORANEO",
       "LITERATURA",
       "LITERATURA AUSTRALIANA",
+      "NOVELA PSICOLOGICA",
+      "NOVELA REALISTA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72829,12 +71719,16 @@
     "editorial": "Planeta",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-742-959-X",
-    "descripcion": "288",
+    "isbn": "950742959X",
+    "descripcion": "288 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
-      "NOVELAS"
+      "NOVELA HISTORICA",
+      "NOVELA ROMANTICA",
+      "NOVELAS",
+      "REVOLUCION DE MAYO",
+      "ROL DE LA MUJER"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72849,14 +71743,18 @@
     "subtitulo": "",
     "autor": "Bonelli, Florencia",
     "autores_secundarios": [],
-    "editorial": "Aguilar, Altea,Taurus y Alfaguara",
+    "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-04-0764-5",
+    "isbn": "9789870407645",
     "descripcion": "520",
     "temas": [
+      "DRAMA EPICO",
+      "FICCION DE AVENTURAS MARITIMAS",
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA HISTORICA",
+      "NOVELA ROMANTICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72898,11 +71796,12 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "950-644-065-4",
+    "isbn": "9506440654",
     "descripcion": "448 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
+      "NOVELA HISTORICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -72921,7 +71820,7 @@
     "editorial": "Andrés Bello",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "956-13-1082-1",
+    "isbn": "9561310821",
     "descripcion": "116",
     "temas": [
       "EPOPEYAS",
@@ -72946,7 +71845,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2017",
-    "isbn": "978-987-3642-09-8",
+    "isbn": "9789873642098",
     "descripcion": "64 p.",
     "temas": [
       "ABORIGENES FUEGUINOS",
@@ -72960,8 +71859,6 @@
     "inventarios": [
       "005163",
       "005163",
-      "005162",
-      "005162",
       "005250",
       "005250"
     ],
@@ -72976,9 +71873,12 @@
     "editorial": "Perla Bollo",
     "lugar": "Ushuaia",
     "anio": "2014",
-    "isbn": "978-987-33-5907-1",
-    "descripcion": "144",
+    "isbn": "9789873359071",
+    "descripcion": "144 p.",
     "temas": [
+      "RELATOS AUTOBIOGRAFICOS",
+      "SENDERISMO EXTREMO",
+      "SUPERVIVENCIA",
       "TIERRA DEL FUEGO",
       "VIAJES"
     ],
@@ -72986,28 +71886,6 @@
     "inventarios": [
       "004717",
       "004717"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3087,
-    "titulo": "Nuevo tratado médico",
-    "subtitulo": "",
-    "autor": "Hammerly, Marcelo",
-    "autores_secundarios": [],
-    "editorial": "Asociación casa ,editora Sudamericana",
-    "lugar": "Argentina",
-    "anio": "1969",
-    "isbn": "",
-    "descripcion": "376",
-    "temas": [
-      "ANATOMIA",
-      "MEDICINA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "005007",
-      "005007"
     ],
     "disponible": true
   },
@@ -73020,8 +71898,8 @@
     "editorial": "Punto de lectura",
     "lugar": "Madrid",
     "anio": "2006",
-    "isbn": "978-84-663-1292-5",
-    "descripcion": "221",
+    "isbn": "9788466312925",
+    "descripcion": "221 p.",
     "temas": [
       "CUENTOS CORTOS",
       "LITERATURA",
@@ -73046,8 +71924,8 @@
     "editorial": "Editora cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2017",
-    "isbn": "978-987-3642-06-7",
-    "descripcion": "239",
+    "isbn": "9789873642067",
+    "descripcion": "239 p.",
     "temas": [
       "ARQUEOLOGIA",
       "ARQUEOLOGIA REGIONAL"
@@ -73067,7 +71945,7 @@
   },
   {
     "id": 3090,
-    "titulo": "",
+    "titulo": "Nuevo tratado de medicina. Tomo 3",
     "subtitulo": "",
     "autor": "Hammerly, Marcelo A.",
     "autores_secundarios": [],
@@ -73101,7 +71979,7 @@
     "editorial": "Hydra",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-24866-2-4",
+    "isbn": "9789872486624",
     "descripcion": "124 p.",
     "temas": [
       "ESTADO",
@@ -73151,7 +72029,7 @@
     "editorial": "Planeta",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-49-1432-2",
+    "isbn": "9504914322",
     "descripcion": "501 p.",
     "temas": [
       "DICTADURA ARGENTINA",
@@ -73179,7 +72057,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "2002",
-    "isbn": "950-07-2197-X",
+    "isbn": "950072197X",
     "descripcion": "204 p.",
     "temas": [
       "BIOGRAFIAS",
@@ -73229,7 +72107,7 @@
     "editorial": "Mc Graw- Hil- Interamericana",
     "lugar": "México",
     "anio": "2004",
-    "isbn": "0-7216-8729-6",
+    "isbn": "0721687296",
     "descripcion": "728",
     "temas": [
       "MEDICINA",
@@ -73264,7 +72142,7 @@
     "editorial": "Eudeba",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-23-0345-8",
+    "isbn": "9502303458",
     "descripcion": "481 p.",
     "temas": [
       "ATOMOS",
@@ -73292,7 +72170,7 @@
     "editorial": "Eudeba",
     "lugar": "Buenos Aires",
     "anio": "1986",
-    "isbn": "950-23-0117-X",
+    "isbn": "950230117X",
     "descripcion": "212 p.",
     "temas": [
       "CIENCIA",
@@ -73345,7 +72223,7 @@
     "editorial": "Larousse",
     "lugar": "Mexico",
     "anio": "1989",
-    "isbn": "970-607-027-3",
+    "isbn": "9706070273",
     "descripcion": "287 p.",
     "temas": [
       "APRENDIZAJE",
@@ -73369,10 +72247,12 @@
     "editorial": "Minotauro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-547-143-0",
+    "isbn": "9789505471430",
     "descripcion": "243 p.",
     "temas": [
       "CUENTOS",
+      "CUENTOS DE CIENCIA FICCION",
+      "FANTASIA LIRICA",
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE"
     ],
@@ -73421,11 +72301,13 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "1984",
-    "isbn": "950-04-0344-7",
+    "isbn": "9500403447",
     "descripcion": "375 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
+      "NOVELA DE SUSPENSO",
+      "NOVELA POLICIAL",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -73444,7 +72326,7 @@
     "editorial": "Edhasa",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-628-019-8",
+    "isbn": "9789876280198",
     "descripcion": "134 p.",
     "temas": [
       "DICTADURA",
@@ -73469,7 +72351,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-581-001-8",
+    "isbn": "9505810018",
     "descripcion": "236 p.",
     "temas": [
       "LITERATURA",
@@ -73493,7 +72375,7 @@
     "editorial": "Luis Omar Comis",
     "lugar": "Ushuaia",
     "anio": "2017",
-    "isbn": "978-987-42-3135-2",
+    "isbn": "9789874231352",
     "descripcion": "78 p.",
     "temas": [
       "LITERATURA",
@@ -73516,11 +72398,13 @@
     "editorial": "Plaza & Janes Editoriales",
     "lugar": "Barcelona",
     "anio": "1997",
-    "isbn": "968-11-0245-2",
+    "isbn": "9681102452",
     "descripcion": "571 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
+      "NOVELA AUTOBIOGRAFICA",
+      "NOVELA EROTICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -73562,8 +72446,8 @@
     "autores_secundarios": [],
     "editorial": "Edimat",
     "lugar": "Madrid",
-    "anio": "",
-    "isbn": "84-8403-411-9",
+    "anio": "1999",
+    "isbn": "8484034119",
     "descripcion": "93 p.",
     "temas": [
       "LITERATURA",
@@ -73589,10 +72473,13 @@
     "isbn": "",
     "descripcion": "346 p.",
     "temas": [
+      "BOOM LATINOAMERICANO",
       "LITERATURA",
       "LITERATURA - NOVELAS",
       "LITERATURA LATINOAMERICANA",
-      "NOVELA"
+      "NOVELA",
+      "NOVELA DE APRENDIZAJE",
+      "NOVELA SOCIAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -73610,7 +72497,7 @@
     "editorial": "Enrique Santiago Rueda",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-564-088-1",
+    "isbn": "9789505640881",
     "descripcion": "191 p.",
     "temas": [
       "LITERATURA",
@@ -73633,7 +72520,7 @@
     "editorial": "Manantial",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "987-500-005-1",
+    "isbn": "9875000051",
     "descripcion": "127 p.",
     "temas": [
       "DISCURSOS",
@@ -73655,7 +72542,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "1989",
-    "isbn": "950-02-0036-8",
+    "isbn": "9500200368",
     "descripcion": "229 p.",
     "temas": [
       "ATLAS",
@@ -73683,7 +72570,7 @@
     "editorial": "Clyna",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-607-393-6",
+    "isbn": "9789876073936",
     "descripcion": "608 p.",
     "temas": [
       "FARMACOLOGIA",
@@ -73694,52 +72581,6 @@
     "inventarios": [
       "005019",
       "005019"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3115,
-    "titulo": "Patologia Funcional y Estructural",
-    "subtitulo": "",
-    "autor": "",
-    "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "",
-    "temas": [],
-    "sede": "CENT 11",
-    "inventarios": [
-      "^lCENTRAL^m616^ddomicilio",
-      "^lCENTRAL^m616^ddomicilio"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3116,
-    "titulo": "Investigacion en Sistemas y Servicios de Salud",
-    "subtitulo": "",
-    "autor": "Lemus, Jorge Daniel",
-    "autores_secundarios": [],
-    "editorial": "Corpus",
-    "lugar": "Rosario",
-    "anio": "2007",
-    "isbn": "950-9030-31-7",
-    "descripcion": "158 p.",
-    "temas": [
-      "EPISTEMOLOGIA",
-      "INVESTIGACION",
-      "MEDICINA Y SALUD",
-      "METODOLOGIA",
-      "SALUD PUBLICA",
-      "SERVICIOS DE SALUD",
-      "SISTEMA DE SALUD"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "003684",
-      "003684"
     ],
     "disponible": true
   },
@@ -73777,41 +72618,24 @@
     "editorial": "Ediciones B",
     "lugar": "Barcelona",
     "anio": "1982",
-    "isbn": "978-84-9872-514-8",
+    "isbn": "9788498725148",
     "descripcion": "654 p.",
     "temas": [
+      "CASTRATI",
+      "CONFLICTO SOCIAL-FAMILIAR",
+      "IDENTIDAD DE GENERO",
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
-      "NOVELAS"
+      "MUSICA",
+      "NOVELA DRAMATICA",
+      "NOVELA HISTORICA",
+      "NOVELAS",
+      "OBRAS ESCENICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
       "005192",
       "005192"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3119,
-    "titulo": "Un santo asesinato",
-    "subtitulo": "",
-    "autor": "Harding, Paul",
-    "autores_secundarios": [],
-    "editorial": "Plaza y Janes",
-    "lugar": "Barcelona",
-    "anio": "1999",
-    "isbn": "84-01-01227-9",
-    "descripcion": "291 p.",
-    "temas": [
-      "LITERATURA",
-      "LITERATURA - NOVELAS",
-      "LITERATURA ESTADOUNIDENSE",
-      "NOVELA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "005190",
-      "005190"
     ],
     "disponible": true
   },
@@ -73830,6 +72654,7 @@
       "LITERATURA",
       "LITERATURA FRANCESA",
       "LITERATURA JUVENIL",
+      "NOVELA DE AVENTURAS",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -73850,7 +72675,7 @@
     "editorial": "Vergara",
     "lugar": "Buenos Aires",
     "anio": "1986",
-    "isbn": "950-15-0532-4",
+    "isbn": "9501505324",
     "descripcion": "52 p.",
     "temas": [
       "LITERATURA",
@@ -73876,7 +72701,7 @@
     "editorial": "Sigmar",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "978-950-11-1284-5",
+    "isbn": "9789501112845",
     "descripcion": "70 p.",
     "temas": [
       "ANTOLOGIA",
@@ -73900,13 +72725,15 @@
     "editorial": "SM",
     "lugar": "Madrid",
     "anio": "1992",
-    "isbn": "84-348-1323-8",
+    "isbn": "8434813238",
     "descripcion": "211 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA CANADIENSE",
       "LITERATURA JUVENIL",
-      "NOVELAS"
+      "NOVELAS",
+      "NOVELAS DE AVENTURAS",
+      "WESTERN"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -73926,7 +72753,7 @@
     "editorial": "Plaza & Janes",
     "lugar": "Barcelona",
     "anio": "1998",
-    "isbn": "84-01-57052-2",
+    "isbn": "8401570522",
     "descripcion": "124 p.",
     "temas": [
       "CUENTOS",
@@ -73949,11 +72776,13 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "1991",
-    "isbn": "950-04-1089-3",
+    "isbn": "9500410893",
     "descripcion": "337 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
+      "NOVELA DE MISTERIO",
+      "NOVELA POLICIAL",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -73996,12 +72825,17 @@
     "editorial": "Alba",
     "lugar": "Madrid",
     "anio": "1998",
-    "isbn": "84-89715-59-9",
+    "isbn": "8489715599",
     "descripcion": "381 p.",
     "temas": [
+      "AMOR Y EROTISMO",
+      "CUENTOS DE LA EDAD MEDIA",
+      "EPIDEMIAS",
       "LITERATURA",
       "LITERATURA ITALIANA",
-      "NOVELAS"
+      "NOVELA SOCIAL",
+      "NOVELAS",
+      "PROSA RENACENTISTA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -74019,11 +72853,15 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "950-04-2440-1",
+    "isbn": "9500424401",
     "descripcion": "285 p.",
     "temas": [
+      "BOMBARDEO DE HIROSHIMA",
+      "CONSECUENCIAS PSICOLOGICAS",
+      "GUERRA MUNDIAL 1939-1945",
       "LITERATURA",
       "LITERATURA CANADIENSE",
+      "NOVELA HISTORICA",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -74042,7 +72880,7 @@
     "editorial": "Siglo XXI Editores Argentina",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "970-1105-69-X",
+    "isbn": "970110569X",
     "descripcion": "126 p.",
     "temas": [
       "ENFERMEDADES",
@@ -74068,12 +72906,18 @@
     "editorial": "Editorial Sol 90",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "84-96118-98-3",
+    "isbn": "8496118983",
     "descripcion": "93 p.",
     "temas": [
+      "DESIGUALDAD",
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
-      "NOVELAS"
+      "MARGINACION",
+      "NOVELA SOCIAL",
+      "NOVELAS",
+      "PARABOLAS LITERARIAS",
+      "PUEBLOS ORIGINARIOS",
+      "REALISMO SOCIAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -94096,34 +92940,6 @@
     "inventarios": [
       "006203",
       "006203"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3880,
-    "titulo": "Politica y poder en los procesos de desarrollo",
-    "subtitulo": "debates y posturas en torno a la plicacion de la antropologia",
-    "autor": "Isla, Alejandro",
-    "autores_secundarios": [
-      "Colmegna, Paula",
-      "Isla, Alejandro"
-    ],
-    "editorial": "De las Ciencias",
-    "lugar": "Buenos Aires",
-    "anio": "2005",
-    "isbn": "987-22098-0-4",
-    "descripcion": "320 p.",
-    "temas": [
-      "ANTROPOLOGIA SOCIAL",
-      "CULTURA",
-      "ENSAYO",
-      "POLITICA DE DESARROLLO",
-      "SOCIOLOGIA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "001838",
-      "001838"
     ],
     "disponible": true
   },
