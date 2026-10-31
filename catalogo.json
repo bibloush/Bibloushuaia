@@ -72938,7 +72938,7 @@
     "editorial": "Editorial Universitaria de la Patagonia",
     "lugar": "Comodoro Rivadavia",
     "anio": "1995",
-    "isbn": "950-763-013-9",
+    "isbn": "9507630139",
     "descripcion": "172 p.",
     "temas": [
       "GEOGRAFIA",
@@ -72961,12 +72961,18 @@
     "editorial": "Debolsillo",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "987-1138-00-8",
+    "isbn": "9871138008",
     "descripcion": "99 p.",
     "temas": [
+      "DIGNIDAD HUMANA",
       "LITERATURA",
       "LITERATURA COLOMBIANA",
-      "NOVELAS"
+      "MARGINILIDAD",
+      "NOVELAS",
+      "PENSIONES MILITARES",
+      "POBREZA",
+      "REALISMO LITERARIO",
+      "VIOLENCIA POLITICA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -72984,12 +72990,18 @@
     "editorial": "Destino",
     "lugar": "Barcelona",
     "anio": "2002",
-    "isbn": "84-233-3395-7",
+    "isbn": "8423333957",
     "descripcion": "314 p.",
     "temas": [
+      "CRIMEN",
+      "DELICUENCIAS",
+      "ENFERMEDADES",
       "LITERATURA",
-      "LITERATURA ALEMANA",
-      "NOVELAS"
+      "LITERATURA CANADIENSE",
+      "NOVELAS",
+      "RELACIONES FAMILIARES",
+      "SATIRA SOCIAL",
+      "TRASTORNOS"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -73007,7 +73019,7 @@
     "editorial": "Sudamericana",
     "lugar": "Buenos Aires",
     "anio": "1999",
-    "isbn": "950-07-0628-8",
+    "isbn": "9500706288",
     "descripcion": "55 p.",
     "temas": [
       "CUENTOS",
@@ -73031,41 +73043,23 @@
     "editorial": "Norma",
     "lugar": "Bogotá",
     "anio": "1992",
-    "isbn": "958-04-1497-1",
+    "isbn": "9580414971",
     "descripcion": "310 p.",
     "temas": [
+      "ACOSO ESCOLAR",
+      "CASAS DE MUNNECAS",
+      "HUERFANOS",
       "LITERATURA",
       "LITERATURA ESTADOUNIDENSE",
       "LITERATURA INFANTIL Y JUVENIL",
-      "NOVELAS"
+      "NOVELAS",
+      "ORFANATOS",
+      "TRASTORNOS EMOCIONALES"
     ],
     "sede": "CENT 11",
     "inventarios": [
       "005195",
       "005195"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3136,
-    "titulo": "Habia una vez una bruja",
-    "subtitulo": "",
-    "autor": "Zatz, Lia",
-    "autores_secundarios": [],
-    "editorial": "Coquena",
-    "lugar": "Buenos Aires",
-    "anio": "1993",
-    "isbn": "950-737-124-5",
-    "descripcion": "18 p.",
-    "temas": [
-      "CUENTO",
-      "LITERATURA",
-      "LITERATURA INFANTIL Y JUVENIL - CUENTOS"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "005194",
-      "005194"
     ],
     "disponible": true
   },
@@ -73105,7 +73099,7 @@
     "editorial": "Electa",
     "lugar": "Barcelona",
     "anio": "2002",
-    "isbn": "978-84-8156-331-3",
+    "isbn": "9788481563313",
     "descripcion": "143 p.",
     "temas": [
       "ARTE",
@@ -73130,7 +73124,7 @@
     "editorial": "Interamericana ; McGraw-Hill",
     "lugar": "Mexico",
     "anio": "1993",
-    "isbn": "968-25-1678-1",
+    "isbn": "9682516781",
     "descripcion": "310 p.",
     "temas": [
       "ANATOMIA",
@@ -73143,27 +73137,6 @@
     "inventarios": [
       "005456",
       "005456"
-    ],
-    "disponible": true
-  },
-  {
-    "id": 3140,
-    "titulo": "",
-    "subtitulo": "",
-    "autor": "Kordon, Klaus.",
-    "autores_secundarios": [],
-    "editorial": "Cantaro",
-    "lugar": "San Isidro",
-    "anio": "2010",
-    "isbn": "978-950-753-102-6",
-    "descripcion": "192 p.",
-    "temas": [
-      "NOVELA HISTORICA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "004231",
-      "004231"
     ],
     "disponible": true
   },
@@ -73201,7 +73174,7 @@
     "editorial": "Biblioteca de Neurociencias",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "987-98050-0-3",
+    "isbn": "9879805003",
     "descripcion": "267 p.",
     "temas": [
       "MEDICINA Y SALUD",
@@ -73251,10 +73224,12 @@
     "editorial": "Grijalbo",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "950-28-0301-9",
+    "isbn": "9502803019",
     "descripcion": "502 p.",
     "temas": [
       "DICCIONARIOS",
+      "ESPANOL-FRANCES",
+      "FRANCES-ESPANOL",
       "LENGUA FRANCESA",
       "REFERENCIA"
     ],
@@ -73274,7 +73249,7 @@
     "editorial": "Planeta",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "950-731-445-8",
+    "isbn": "9507314458",
     "descripcion": "125 p.",
     "temas": [
       "LITERATURA",
@@ -73321,7 +73296,7 @@
     "lugar": "Buenos Aires",
     "anio": "1962",
     "isbn": "",
-    "descripcion": "",
+    "descripcion": "500 p.",
     "temas": [
       "MEDICINA Y SALUD",
       "NEUROANATOMIA",
@@ -73348,7 +73323,7 @@
     "editorial": "Polemos",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-649-048-1",
+    "isbn": "9789876490481",
     "descripcion": "639 p.",
     "temas": [
       "ALIENACION MENTAL",
@@ -73375,7 +73350,7 @@
     "editorial": "Lumen",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-987-00-0849-1",
+    "isbn": "9789870008491",
     "descripcion": "400 p.",
     "temas": [
       "COUNSELLING PSICODINAMICO",
@@ -73426,7 +73401,7 @@
     "editorial": "Pomaire",
     "lugar": "Barcelona",
     "anio": "1977",
-    "isbn": "84-286-0294",
+    "isbn": "842860294",
     "descripcion": "221 p.",
     "temas": [
       "LITERATURA",
@@ -73444,15 +73419,15 @@
     "id": 3152,
     "titulo": "Intima, la palabra",
     "subtitulo": "Antologia 2016",
-    "autor": "Autores: Albarracín, Milagros; Alvarado, Catalina de; Amarante, Beatriz; Antoszewski, Marisa; Araujo, Stella Maris; Argelich, Graciela M.; Aschieri, Susana B.; Bacigaluppi, Elisa Corina; Barossi, Romeo Sebastián; Bertolone, Nélida E.; Boese, Irene; Bursuk, Claudia; Cabrejos, Christean; Casal, Alicia; Checchia, José Alberto; Colacioppo, Ricardo; Curti, Norma Edith; Diebra Dominguez, María I.; Domínguez, Avelino; Esteves, Ruben; Exner, Elsa; Fernández Laureiro, Dolores; Fernández, Norma; Ferrante, Silvia; Ferreyra, Manuel; Fonseca, Ana; Fraga, Noemí Treacey; Frascarelli, Cristina; Fuxan, Doris Lourdes; Gómez, Luis Abel; García, Sergio Omar; García, Gloria; Gargantini, Cecilia; Hlozek, Adela; Incetta, Ana; Jaime Irusta; María Graciela; Klosewichz, Manuel; Kloster, Alberto D.; Licitras. Ana Alicia; Longo, Víctor; Lorenzo, María del Rosario; Manderano de Díaz, Elena; Masio, Mabel A.; Aldo, Miguel; Mujica, Marta; Niebas, Nora; Ojanen, Adelma Finlandia; Palavecino, Julia Rosa; Pérez, Orlando Luis; Piccinelli, Luisa; Poyo Martínez, María del Carmen; Ramondetta, Rolando; Rodríguez, Clidia; Rovó, Elsa V.; Sánchez, Tyngui; Santoro, Ana María; Santos, Elba; Shuster, Juana Rosa; Sombra, Jorge; Spaltro, Liliana; Stork, Eugenio; Vargas Machuca, Nelly; Vázquez, Silvia Mabel; Verzi, Salvador; Yagas, Cristina Rosa; Casarotti Romer, Giuliana; López, Sabrina; Monpelat, Michelle Magdalena; Rivanera, Emiliana; Pasquini, Ailen; Sarno, Florencia",
+    "autor": "Albarracín, Milagros; Alvarado, Catalina de; Amarante, Beatriz; Antoszewski, Marisa; Araujo, Stella Maris; Argelich, Graciela M.; Aschieri, Susana B.; Bacigaluppi, Elisa Corina; Barossi, Romeo Sebastián; Bertolone, Nélida E.; Boese, Irene; Bursuk, Claudia; Cabrejos, Christean; Casal, Alicia; Checchia, José Alberto; Colacioppo, Ricardo; Curti, Norma Edith; Diebra Dominguez, María I.; Domínguez, Avelino; Esteves, Ruben; Exner, Elsa; Fernández Laureiro, Dolores; Fernández, Norma; Ferrante, Silvia; Ferreyra, Manuel; Fonseca, Ana; Fraga, Noemí Treacey; Frascarelli, Cristina; Fuxan, Doris Lourdes; Gómez, Luis Abel; García, Sergio Omar; García, Gloria; Gargantini, Cecilia; Hlozek, Adela; Incetta, Ana; Jaime Irusta; María Graciela; Klosewichz, Manuel; Kloster, Alberto D.; Licitras. Ana Alicia; Longo, Víctor; Lorenzo, María del Rosario; Manderano de Díaz, Elena; Masio, Mabel A.; Aldo, Miguel; Mujica, Marta; Niebas, Nora; Ojanen, Adelma Finlandia; Palavecino, Julia Rosa; Pérez, Orlando Luis; Piccinelli, Luisa; Poyo Martínez, María del Carmen; Ramondetta, Rolando; Rodríguez, Clidia; Rovó, Elsa V.; Sánchez, Tyngui; Santoro, Ana María; Santos, Elba; Shuster, Juana Rosa; Sombra, Jorge; Spaltro, Liliana; Stork, Eugenio; Vargas Machuca, Nelly; Vázquez, Silvia Mabel; Verzi, Salvador; Yagas, Cristina Rosa; Casarotti Romer, Giuliana; López, Sabrina; Monpelat, Michelle Magdalena; Rivanera, Emiliana; Pasquini, Ailen; Sarno, Florencia",
     "autores_secundarios": [
-      "Autores: Albarracín, Milagros; Alvarado, Catalina de; Amarante, Beatriz; Antoszewski, Marisa; Araujo, Stella Maris; Argelich, Graciela M.; Aschieri, Susana B.; Bacigaluppi, Elisa Corina; Barossi, Romeo Sebastián; Bertolone, Nélida E.; Boese, Irene; Bursuk, Claudia; Cabrejos, Christean; Casal, Alicia; Checchia, José Alberto; Colacioppo, Ricardo; Curti, Norma Edith; Diebra Dominguez, María I.; Domínguez, Avelino; Esteves, Ruben; Exner, Elsa; Fernández Laureiro, Dolores; Fernández, Norma; Ferrante, Silvia; Ferreyra, Manuel; Fonseca, Ana; Fraga, Noemí Treacey; Frascarelli, Cristina; Fuxan, Doris Lourdes; Gómez, Luis Abel; García, Sergio Omar; García, Gloria; Gargantini, Cecilia; Hlozek, Adela; Incetta, Ana; Jaime Irusta; María Graciela; Klosewichz, Manuel; Kloster, Alberto D.; Licitras. Ana Alicia; Longo, Víctor; Lorenzo, María del Rosario; Manderano de Díaz, Elena; Masio, Mabel A.; Aldo, Miguel; Mujica, Marta; Niebas, Nora; Ojanen, Adelma Finlandia; Palavecino, Julia Rosa; Pérez, Orlando Luis; Piccinelli, Luisa; Poyo Martínez, María del Carmen; Ramondetta, Rolando; Rodríguez, Clidia; Rovó, Elsa V.; Sánchez, Tyngui; Santoro, Ana María; Santos, Elba; Shuster, Juana Rosa; Sombra, Jorge; Spaltro, Liliana; Stork, Eugenio; Vargas Machuca, Nelly; Vázquez, Silvia Mabel; Verzi, Salvador; Yagas, Cristina Rosa; Casarotti Romer, Giuliana; López, Sabrina; Monpelat, Michelle Magdalena; Rivanera, Emiliana; Pasquini, Ailen; Sarno, Florencia",
+      "Albarracín, Milagros; Alvarado, Catalina de; Amarante, Beatriz; Antoszewski, Marisa; Araujo, Stella Maris; Argelich, Graciela M.; Aschieri, Susana B.; Bacigaluppi, Elisa Corina; Barossi, Romeo Sebastián; Bertolone, Nélida E.; Boese, Irene; Bursuk, Claudia; Cabrejos, Christean; Casal, Alicia; Checchia, José Alberto; Colacioppo, Ricardo; Curti, Norma Edith; Diebra Dominguez, María I.; Domínguez, Avelino; Esteves, Ruben; Exner, Elsa; Fernández Laureiro, Dolores; Fernández, Norma; Ferrante, Silvia; Ferreyra, Manuel; Fonseca, Ana; Fraga, Noemí Treacey; Frascarelli, Cristina; Fuxan, Doris Lourdes; Gómez, Luis Abel; García, Sergio Omar; García, Gloria; Gargantini, Cecilia; Hlozek, Adela; Incetta, Ana; Jaime Irusta; María Graciela; Klosewichz, Manuel; Kloster, Alberto D.; Licitras. Ana Alicia; Longo, Víctor; Lorenzo, María del Rosario; Manderano de Díaz, Elena; Masio, Mabel A.; Aldo, Miguel; Mujica, Marta; Niebas, Nora; Ojanen, Adelma Finlandia; Palavecino, Julia Rosa; Pérez, Orlando Luis; Piccinelli, Luisa; Poyo Martínez, María del Carmen; Ramondetta, Rolando; Rodríguez, Clidia; Rovó, Elsa V.; Sánchez, Tyngui; Santoro, Ana María; Santos, Elba; Shuster, Juana Rosa; Sombra, Jorge; Spaltro, Liliana; Stork, Eugenio; Vargas Machuca, Nelly; Vázquez, Silvia Mabel; Verzi, Salvador; Yagas, Cristina Rosa; Casarotti Romer, Giuliana; López, Sabrina; Monpelat, Michelle Magdalena; Rivanera, Emiliana; Pasquini, Ailen; Sarno, Florencia",
       "Gargantini, Cecilia y Surra, Roberto"
     ],
     "editorial": "AqL",
     "lugar": "Villa Martelli",
     "anio": "2016",
-    "isbn": "978-987-3837-39-5",
+    "isbn": "9789873837395",
     "descripcion": "100 p.",
     "temas": [
       "ANTOLOGIA",
@@ -73476,7 +73451,7 @@
     "editorial": "En Danza",
     "lugar": "Buenos Aires",
     "anio": "2014",
-    "isbn": "978-987-1869-18-3",
+    "isbn": "9789871869183",
     "descripcion": "779 p.",
     "temas": [
       "ANTOLOGIA",
@@ -73523,7 +73498,7 @@
     "editorial": "Ministerio de Educacion de la Nacion",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-00-0920-1",
+    "isbn": "9789500009201",
     "descripcion": "519 p.",
     "temas": [
       "ANTOLOGIA",
@@ -73550,7 +73525,7 @@
     "editorial": "El Ateneo",
     "lugar": "Buenos Aires",
     "anio": "1997",
-    "isbn": "950-02-0367-7",
+    "isbn": "9500203677",
     "descripcion": "230p.",
     "temas": [
       "EMBARAZO",
@@ -73610,7 +73585,7 @@
     "editorial": "Grupo editor latinoamericano",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-694-756-2",
+    "isbn": "9506947562",
     "descripcion": "400 p.",
     "temas": [
       "DESARROLLO ECONOMICO",
@@ -73634,7 +73609,7 @@
     "editorial": "Osmar Buyatti",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-1140-64-0",
+    "isbn": "9789871140640",
     "descripcion": "528 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -73657,7 +73632,7 @@
     "editorial": "Ediciones Macchi",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-537-188-8",
+    "isbn": "9505371888",
     "descripcion": "488 p.",
     "temas": [
       "ADMINISTRACION Y ORGANIZACION",
@@ -73680,7 +73655,7 @@
     "editorial": "Nueva editorial interamericana",
     "lugar": "México",
     "anio": "1975",
-    "isbn": "84-486-0113-0",
+    "isbn": "8448601130",
     "descripcion": "1533 p.",
     "temas": [
       "ENFERMEDADES",
@@ -73694,8 +73669,6 @@
     ],
     "sede": "CENT 11",
     "inventarios": [
-      "005127",
-      "005127",
       "004648",
       "004648"
     ],
@@ -73710,7 +73683,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-950-563-658-7",
+    "isbn": "9789505636587",
     "descripcion": "112 p.",
     "temas": [
       "LITERATURA",
@@ -73734,7 +73707,7 @@
     "editorial": "Masson",
     "lugar": "Barcelona",
     "anio": "1990",
-    "isbn": "84-311-0069-11-5",
+    "isbn": "843110069115",
     "descripcion": "984 p.",
     "temas": [
       "ENFERMEDADES DEL NINO",
@@ -73762,7 +73735,7 @@
     "editorial": "Eugene Braunwald",
     "lugar": "Estados Unidos",
     "anio": "1992",
-    "isbn": "0-7216-2943-1",
+    "isbn": "0721629431",
     "descripcion": "1918 p.",
     "temas": [
       "CARDIOLOGIA",
@@ -73791,12 +73764,16 @@
     "editorial": "Salamandra",
     "lugar": "Barcelona",
     "anio": "2009",
-    "isbn": "978-84-7888-704-0",
+    "isbn": "9788478887040",
     "descripcion": "190 p.",
     "temas": [
+      "BURGUESIA CENTROEUROPEA",
+      "CRISIS MATRIMONIAL",
       "LITERATURA",
       "LITERATURA ESLOVACA",
-      "NOVELAS"
+      "NOVELA PSICOLOGICA",
+      "NOVELAS",
+      "REPRESION EMOCIONAL"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -73871,7 +73848,7 @@
     "editorial": "Society of Critical Care Medicine",
     "lugar": "Mount Prospect",
     "anio": "2011",
-    "isbn": "978-0-936145-50-1",
+    "isbn": "9780936145501",
     "descripcion": "638 p.",
     "temas": [
       "DIAGNOSTICO",
@@ -73973,7 +73950,7 @@
     "editorial": "Longseller",
     "lugar": "Buenos Aires",
     "anio": "2004",
-    "isbn": "987-550-457-2",
+    "isbn": "9875504572",
     "descripcion": "192 p.",
     "temas": [
       "BEBES",
@@ -73999,7 +73976,7 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "1987",
-    "isbn": "950-04-0652-7",
+    "isbn": "9500406527",
     "descripcion": "314 p.",
     "temas": [
       "BEBES",
@@ -74051,7 +74028,7 @@
     "editorial": "Nemesis",
     "lugar": "Buenos Aires",
     "anio": "1990",
-    "isbn": "950-9457-08-6",
+    "isbn": "9509457086",
     "descripcion": "693 p.",
     "temas": [
       "MEDICINA",
@@ -74071,10 +74048,10 @@
     "subtitulo": "un estudio psicoanalítico",
     "autor": "Bleichmar, Hugo B.",
     "autores_secundarios": [],
-    "editorial": "Nueva visión",
+    "editorial": "Nueva Visión",
     "lugar": "Buenos Aires",
     "anio": "1988",
-    "isbn": "950-602-035-3",
+    "isbn": "9506020353",
     "descripcion": "178 p.",
     "temas": [
       "DEPRESION",
@@ -74113,32 +74090,6 @@
     "disponible": true
   },
   {
-    "id": 3178,
-    "titulo": "Derechos Humanos",
-    "subtitulo": "",
-    "autor": "Rey, Sebastian Alejandro",
-    "autores_secundarios": [
-      "Rey, Sebastian Alejandro"
-    ],
-    "editorial": "Ministerio de Justicia y Derechos Humanos",
-    "lugar": "Buenos Aires",
-    "anio": "2014",
-    "isbn": "",
-    "descripcion": "631",
-    "temas": [
-      "DERECHO",
-      "DERECHOS",
-      "DERECHOS HUMANOS",
-      "LEGISLACION ARGENTINA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "005245",
-      "005245"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3179,
     "titulo": "Avances en la implementacion del plan Nacional contra la Discriminacion",
     "subtitulo": "",
@@ -74149,7 +74100,7 @@
     "editorial": "INADI",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-22203-5-8",
+    "isbn": "9789872220358",
     "descripcion": "334 p.",
     "temas": [
       "DERECHO",
@@ -74175,7 +74126,7 @@
     "editorial": "Celcius",
     "lugar": "Buenos Aires",
     "anio": "1986",
-    "isbn": "950-9018-35-x",
+    "isbn": "950901835X",
     "descripcion": "193 p.",
     "temas": [
       "ARTRITIS",
@@ -74200,7 +74151,7 @@
     "editorial": "Organizacion Panamericana de la Salud",
     "lugar": "Washington D.C.",
     "anio": "1992",
-    "isbn": "92-75-71040-6",
+    "isbn": "9275710406",
     "descripcion": "156 p.",
     "temas": [
       "ENFERMERIA",
@@ -74226,7 +74177,7 @@
     "editorial": "Alfaguara",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-04-1245-8",
+    "isbn": "9789870412458",
     "descripcion": "168 p.",
     "temas": [
       "ENFERMERIA",
@@ -74240,8 +74191,8 @@
       "005279",
       "005327",
       "005327",
-      "005359",
-      "005359"
+      "005953",
+      "005953"
     ],
     "disponible": true
   },
@@ -74254,7 +74205,7 @@
     "editorial": "el autor",
     "lugar": "Ushuaia",
     "anio": "2006",
-    "isbn": "987-05-2001-4",
+    "isbn": "9870520014",
     "descripcion": "96 p.",
     "temas": [
       "ARTE",
@@ -74277,7 +74228,7 @@
     "editorial": "Alhambra",
     "lugar": "Madrid",
     "anio": "1980",
-    "isbn": "84-205-0732-6",
+    "isbn": "8420507326",
     "descripcion": "349 p.",
     "temas": [
       "MECANORRECEPTORES",
@@ -74311,7 +74262,7 @@
     "editorial": "Editora Cultural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2016",
-    "isbn": "978-987-3642-05-0",
+    "isbn": "9789873642050",
     "descripcion": "220 p.",
     "temas": [
       "EDUCACION",
@@ -74395,7 +74346,7 @@
     "editorial": "Ministerio de Educacion de la Nacion",
     "lugar": "Buenos Aires",
     "anio": "2014",
-    "isbn": "978-950-00-1009-2",
+    "isbn": "9789500010092",
     "descripcion": "248 p.",
     "temas": [
       "DERECHO",
@@ -74422,12 +74373,16 @@
     "editorial": "Tusquets",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-7223-682-X",
+    "isbn": "847223682X",
     "descripcion": "320 p.",
     "temas": [
+      "COMUNISMO",
+      "EXILIADOS POLITICOS",
+      "EXISTENCIALISMO",
       "LITERATURA",
       "LITERATURA CHECA",
-      "NOVELAS"
+      "NOVELAS",
+      "RELACIONES DE PAREJA"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -74447,7 +74402,7 @@
     "editorial": "Alianza Editorial",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-40-0119-X",
+    "isbn": "950400119X",
     "descripcion": "216 p.",
     "temas": [
       "ANOREXIA",
@@ -74499,7 +74454,7 @@
     "editorial": "Anaya",
     "lugar": "Madrid",
     "anio": "1988",
-    "isbn": "84-207-3219-2",
+    "isbn": "8420732192",
     "descripcion": "126 p.",
     "temas": [
       "AMERICA",
@@ -74546,7 +74501,7 @@
     "editorial": "El Manual Moderno",
     "lugar": "Mexico D.F.",
     "anio": "1993",
-    "isbn": "968-426-566-2",
+    "isbn": "9684265662",
     "descripcion": "784 p.",
     "temas": [
       "ENFERMEDAD PROFESIONAL",
@@ -74573,7 +74528,7 @@
     "editorial": "EL Manual Moderno",
     "lugar": "Mexico D.F.",
     "anio": "1993",
-    "isbn": "968-426-609-1",
+    "isbn": "9684266091",
     "descripcion": "357 p.",
     "temas": [
       "ELECTROLITOS",
@@ -74601,11 +74556,13 @@
     "editorial": "Larousse",
     "lugar": "Mexico D.F.",
     "anio": "1983",
-    "isbn": "650-538-063-1",
+    "isbn": "6505380631",
     "descripcion": "634 p.",
     "temas": [
-      "DICCIONARIO FRANCES",
       "DICCIONARIOS",
+      "ESPANOL-FRANCES",
+      "FRANCES-ESPANOL",
+      "LENGUA FRANCESA",
       "REFERENCIA"
     ],
     "sede": "CENT 11",
@@ -74654,7 +74611,7 @@
     "editorial": "Capital Intelectual",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-1181-24-8",
+    "isbn": "9871181248",
     "descripcion": "112 p.",
     "temas": [
       "ECONOMIA",
@@ -74678,7 +74635,7 @@
     "editorial": "Utopias",
     "lugar": "Ushuaia",
     "anio": "2017",
-    "isbn": "978-987-4079-86-2",
+    "isbn": "9789874079862",
     "descripcion": "68 p.",
     "temas": [
       "LITERATURA",
@@ -74701,7 +74658,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-581-674-X",
+    "isbn": "950581674X",
     "descripcion": "120 p.",
     "temas": [
       "AMPLIFICADORES",
@@ -74731,7 +74688,7 @@
     "editorial": "Secretaria de Cultura de la Presidencia de la Nacion",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-9161-59-3",
+    "isbn": "9789879161593",
     "descripcion": "268 p.",
     "temas": [
       "DERECHO",
@@ -74761,7 +74718,7 @@
     "editorial": "Zagier & Urruty",
     "lugar": "Ushuaia",
     "anio": "2001",
-    "isbn": "1-879568-83-7",
+    "isbn": "1879568837",
     "descripcion": "128 p.",
     "temas": [
       "ANTARTIDA",
@@ -74801,7 +74758,7 @@
     "editorial": "Seix Barral",
     "lugar": "Barcelona",
     "anio": "1985",
-    "isbn": "84-322-2405-7",
+    "isbn": "8432224057",
     "descripcion": "624 p.",
     "temas": [
       "LITERATURA",
@@ -74829,7 +74786,7 @@
     "editorial": "Norma",
     "lugar": "Bogota",
     "anio": "2003",
-    "isbn": "958-04-7323-4",
+    "isbn": "9580473234",
     "descripcion": "360 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -74883,7 +74840,7 @@
     "editorial": "EDIAR",
     "lugar": "Buenos Aires",
     "anio": "1996",
-    "isbn": "950-574-044-1",
+    "isbn": "9505740441",
     "descripcion": "431 p.",
     "temas": [
       "DERECHO",
@@ -74936,7 +74893,7 @@
     "editorial": "Ediciones Ciudad Argentina",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "987-950-030-0",
+    "isbn": "9879500300",
     "descripcion": "320 p.",
     "temas": [
       "HIGIENE",
@@ -74968,7 +74925,7 @@
     "editorial": "IADER",
     "lugar": "Buenos Aires",
     "anio": "2000",
-    "isbn": "987-98431-0-X",
+    "isbn": "987984310X",
     "descripcion": "295 p.",
     "temas": [
       "BOLSA DE COMERCIO",
@@ -75013,25 +74970,6 @@
     "disponible": true
   },
   {
-    "id": 3211,
-    "titulo": "Bioquimica",
-    "subtitulo": "",
-    "autor": "Thorpe, William",
-    "autores_secundarios": [],
-    "editorial": "",
-    "lugar": "",
-    "anio": "",
-    "isbn": "",
-    "descripcion": "",
-    "temas": [],
-    "sede": "",
-    "inventarios": [
-      "001091",
-      "001091"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3212,
     "titulo": "Materiales Plasticos",
     "subtitulo": "Propiedades y aplicaciones",
@@ -75040,7 +74978,7 @@
     "editorial": "Nueva Libreria",
     "lugar": "Buenos Aires",
     "anio": "2017",
-    "isbn": "978-987-1871-49-0",
+    "isbn": "9789871871490",
     "descripcion": "244 p.",
     "temas": [
       "APLICACIONES",
@@ -75076,7 +75014,7 @@
     "editorial": "Jerez Editores",
     "lugar": "Resistencia",
     "anio": "2017",
-    "isbn": "978-987-4424-13-6",
+    "isbn": "9789874424136",
     "descripcion": "376 p.",
     "temas": [
       "INDUSTRIA",
@@ -75121,9 +75059,23 @@
     "editorial": "Panamericana",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-950-06-0582-3",
+    "isbn": "9789500605823",
     "descripcion": "642 p.",
-    "temas": [],
+    "temas": [
+      "ANATOMIA HUMANA",
+      "APARATO DIGESTIVO",
+      "APARATO RESPIRATORIO",
+      "ESTRUCTURAS CELULARES",
+      "FISIOLOGIA HUMANA",
+      "HOMEOSTASIS",
+      "MEDICINA",
+      "ORGANOS",
+      "SALUD",
+      "SISTEMA CIRCULATORIO",
+      "SISTEMA ENDOCRINO",
+      "SISTEMA NERVIOSO",
+      "TEJIDOS"
+    ],
     "sede": "CENT 11",
     "inventarios": [
       "005429",
@@ -75144,7 +75096,7 @@
     "editorial": "Emece",
     "lugar": "Buenos Aires",
     "anio": "2009",
-    "isbn": "978-950-04-2863-7",
+    "isbn": "9789500428637",
     "descripcion": "152 p.",
     "temas": [
       "LITERATURA",
@@ -75171,7 +75123,7 @@
     "editorial": "Salvat",
     "lugar": "Barcelona",
     "anio": "1980",
-    "isbn": "84-345-2048-6",
+    "isbn": "8434520486",
     "descripcion": "T II. 963-1922 p.",
     "temas": [
       "CUIDADOS DE ENFERMERIA",
@@ -75316,7 +75268,7 @@
     "editorial": "Salvat",
     "lugar": "Barcelona",
     "anio": "1977",
-    "isbn": "84-345-1509-1",
+    "isbn": "8434515091",
     "descripcion": "669 p.",
     "temas": [
       "DEFECTOS",
@@ -75349,7 +75301,7 @@
     "editorial": "Editorial Científico-Médica",
     "lugar": "Barcelona",
     "anio": "1980",
-    "isbn": "84-224-0657-8",
+    "isbn": "8422406578",
     "descripcion": "409 p.",
     "temas": [
       "CIRUGIA OSEA REPARADORA",
@@ -75379,7 +75331,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2016",
-    "isbn": "978-987-02-9105-3",
+    "isbn": "9789870291053",
     "descripcion": "448 p.",
     "temas": [
       "CUESTIONES METODOLOGICAS",
@@ -75402,7 +75354,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-02-5551-2",
+    "isbn": "9789870255512",
     "descripcion": "216 p.",
     "temas": [
       "CARTA ORGANICA",
@@ -75434,7 +75386,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2016",
-    "isbn": "978-987-545-564-1",
+    "isbn": "9789875455641",
     "descripcion": "168 p.",
     "temas": [
       "LITERATURA",
@@ -75459,7 +75411,7 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "978-987-545-358-6",
+    "isbn": "9789875453586",
     "descripcion": "136 p.",
     "temas": [
       "LITERATURA",
@@ -75484,7 +75436,7 @@
     "editorial": "Losada",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-07-1363-0",
+    "isbn": "9789870713630",
     "descripcion": "328 p.",
     "temas": [
       "LITERATURA",
@@ -75511,7 +75463,7 @@
     "editorial": "Ediciones B",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "84-666-2595-X",
+    "isbn": "846662595X",
     "descripcion": "319 p.",
     "temas": [
       "LITERATURA",
@@ -75539,7 +75491,7 @@
     "editorial": "Alhambra Longman",
     "lugar": "Madrid",
     "anio": "1993",
-    "isbn": "84-205-2335-6",
+    "isbn": "8420523356",
     "descripcion": "563 p.",
     "temas": [
       "ENFERMEDADES NEUROLOGICAS LOCALIZADAS",
@@ -75571,7 +75523,7 @@
     "editorial": "Continental",
     "lugar": "Buenos Aires",
     "anio": "1975",
-    "isbn": "84-7051-038-X",
+    "isbn": "847051038X",
     "descripcion": "555 p.",
     "temas": [
       "BIOLOGIA",
@@ -75595,7 +75547,7 @@
     "editorial": "Planeta",
     "lugar": "Buenos Aires",
     "anio": "1993",
-    "isbn": "950-742-375-3",
+    "isbn": "9507423753",
     "descripcion": "302 p.",
     "temas": [
       "BIOGRAFIA",
@@ -75622,7 +75574,7 @@
     "editorial": "Continente",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "978-950-754-251-0",
+    "isbn": "9789507542510",
     "descripcion": "160 p.",
     "temas": [
       "GEOGRAFIA",
@@ -75680,7 +75632,7 @@
     "editorial": "Grijalbo",
     "lugar": "Barcelona",
     "anio": "1989",
-    "isbn": "84-253-2189-1",
+    "isbn": "8425321891",
     "descripcion": "vol. 1, 192 p",
     "temas": [
       "AFECCIONES",
@@ -75711,7 +75663,7 @@
     "editorial": "Grijalbo",
     "lugar": "Barcelona",
     "anio": "1989",
-    "isbn": "84-253-2190-5",
+    "isbn": "8425321905",
     "descripcion": "vol. 2, 193-383 p.",
     "temas": [
       "AFECCIONES",
@@ -75742,10 +75694,9 @@
     "editorial": "Safeliz",
     "lugar": "Madrid",
     "anio": "1979",
-    "isbn": "84-7208-030-7",
+    "isbn": "8472080307",
     "descripcion": "vol. 1, 557 p.",
     "temas": [
-      "4",
       "ANATOMIA",
       "EMBARAZO",
       "FISIOLOGIA DEL EMBARAZO",
@@ -75776,7 +75727,7 @@
     "editorial": "Safeliz",
     "lugar": "Madrid",
     "anio": "1977",
-    "isbn": "84-7208-031-5",
+    "isbn": "8472080315",
     "descripcion": "vol. 2, 588-1133",
     "temas": [
       "ANATOMIA",
@@ -75809,7 +75760,7 @@
     "editorial": "Urano",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "84-95618-60-5",
+    "isbn": "8495618605",
     "descripcion": "558 p.",
     "temas": [
       "LITERATURA",
@@ -75833,7 +75784,7 @@
     "editorial": "Paidos",
     "lugar": "Buenos Aires",
     "anio": "2003",
-    "isbn": "950-12-3194-1",
+    "isbn": "9501231941",
     "descripcion": "160 p.",
     "temas": [
       "ADICCIONES",
@@ -75862,7 +75813,7 @@
     "editorial": "Plaza & Janes",
     "lugar": "Barcelona",
     "anio": "2000",
-    "isbn": "84-01-01330-5",
+    "isbn": "8401013305",
     "descripcion": "563 p.",
     "temas": [
       "LITERATURA",
@@ -75887,7 +75838,7 @@
     "editorial": "Nueva Visión",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-602-305-0",
+    "isbn": "9506023050",
     "descripcion": "240 p.",
     "temas": [
       "ADICCIONES",
@@ -75918,7 +75869,7 @@
     "editorial": "Siglo XXI Editores",
     "lugar": "Buenos Aires",
     "anio": "2006",
-    "isbn": "987-1105-24-X",
+    "isbn": "987110524X",
     "descripcion": "224 p.",
     "temas": [
       "AMERICA LATINA",
@@ -75950,7 +75901,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-27365-1-4",
+    "isbn": "9789872736514",
     "descripcion": "680 p.",
     "temas": [
       "ARTE",
@@ -75975,7 +75926,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-9433-89-8",
+    "isbn": "9789879433898",
     "descripcion": "v. VII, 582 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76001,7 +75952,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-987-28375-5-6",
+    "isbn": "9789872837556",
     "descripcion": "226 p.",
     "temas": [
       "ARTE",
@@ -76023,7 +75974,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-9433-86-7",
+    "isbn": "9789879433867",
     "descripcion": "140 p.",
     "temas": [
       "LITERATURA",
@@ -76050,7 +76001,7 @@
     "editorial": "Argentores",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-1752-09-6",
+    "isbn": "9789871752096",
     "descripcion": "636 p.",
     "temas": [
       "ARTE",
@@ -76075,7 +76026,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2011",
-    "isbn": "978-987-27365-5-2",
+    "isbn": "9789872736552",
     "descripcion": "468 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76099,7 +76050,7 @@
     "editorial": "Ediciones Aql",
     "lugar": "Buenos Aires",
     "anio": "2016",
-    "isbn": "978-987-3837-39-5",
+    "isbn": "9789873837395",
     "descripcion": "102 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76126,7 +76077,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-28375-4-9",
+    "isbn": "9789872837549",
     "descripcion": "326 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76150,7 +76101,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-25-6",
+    "isbn": "9789879433256",
     "descripcion": "200 p.",
     "temas": [
       "ARTE",
@@ -76177,12 +76128,12 @@
     "editorial": "INTeatro",
     "lugar": "Bujenos Aires",
     "anio": "2011",
-    "isbn": "978-987-27365-0-7",
+    "isbn": "9789872736507",
     "descripcion": "206 p.",
     "temas": [
-      "4",
       "ARTE",
-      "TEATRO"
+      "TEATRO",
+      "TEATRO ARGENTINO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -76202,7 +76153,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-63-8",
+    "isbn": "9789879433638",
     "descripcion": "v. IV, 322 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76228,7 +76179,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "978-987-9433-51-5",
+    "isbn": "9789879433515",
     "descripcion": "240 p.",
     "temas": [
       "LITERATURA",
@@ -76255,7 +76206,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2013",
-    "isbn": "978-987-28375-6-3",
+    "isbn": "9789872837563",
     "descripcion": "292 p.",
     "temas": [
       "LITERATURA",
@@ -76282,7 +76233,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-9433-81-2",
+    "isbn": "9789879433812",
     "descripcion": "v. I, 730 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76309,7 +76260,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2010",
-    "isbn": "978-987-9433-81-2",
+    "isbn": "9789879433812",
     "descripcion": "v. II, 646 p.",
     "temas": [
       "ANTOLOGIA",
@@ -76333,7 +76284,7 @@
     "editorial": "Aguafuerte, Editora Cultural TDF",
     "lugar": "Ushuaia",
     "anio": "2013",
-    "isbn": "978-987-28630-4-3",
+    "isbn": "9789872863043",
     "descripcion": "460 p.",
     "temas": [
       "ARQUEOLOGIA",
@@ -76360,7 +76311,7 @@
     "editorial": "Dunken",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "987-02-1401-0",
+    "isbn": "9870214010",
     "descripcion": "144 p.",
     "temas": [
       "LITERATURA",
@@ -76385,7 +76336,7 @@
     "editorial": "Editora Cutural Tierra del Fuego",
     "lugar": "Ushuaia",
     "anio": "2018",
-    "isbn": "978-987-3642-12-8",
+    "isbn": "9789873642128",
     "descripcion": "160 p.",
     "temas": [
       "ANECDOTAS",
@@ -76404,32 +76355,6 @@
     "disponible": true
   },
   {
-    "id": 3261,
-    "titulo": "Cuentos de tierra y de fuego",
-    "subtitulo": "",
-    "autor": "Acosta Monjarres, Macarena",
-    "autores_secundarios": [
-      "Buey, diego"
-    ],
-    "editorial": "Dunken",
-    "lugar": "Buenos Aires",
-    "anio": "2018",
-    "isbn": "978-987-763-561-4",
-    "descripcion": "40 p.",
-    "temas": [
-      "CUENTOS",
-      "LITERATURA",
-      "LITERATURA - CUENTOS",
-      "LITERATURA ARGENTINA"
-    ],
-    "sede": "CENT 11",
-    "inventarios": [
-      "005489",
-      "005489"
-    ],
-    "disponible": true
-  },
-  {
     "id": 3262,
     "titulo": "Fausto",
     "subtitulo": "",
@@ -76438,7 +76363,7 @@
     "editorial": "Colihue",
     "lugar": "Buenos Aires",
     "anio": "2005",
-    "isbn": "950-581-027-X",
+    "isbn": "950581027X",
     "descripcion": "128 p.",
     "temas": [
       "LITERATURA",
@@ -76464,7 +76389,7 @@
     "editorial": "Ediciones B",
     "lugar": "Barcelona",
     "anio": "2005",
-    "isbn": "84-666-2183-0",
+    "isbn": "8466621830",
     "descripcion": "460 p.",
     "temas": [
       "ALIMENTACION",
@@ -76491,7 +76416,7 @@
     "editorial": "Losada",
     "lugar": "Buenos Aires",
     "anio": "1997",
-    "isbn": "950-03-0257-8",
+    "isbn": "9500302578",
     "descripcion": "238 p.",
     "temas": [
       "LITERATURA",
@@ -76516,7 +76441,7 @@
     "editorial": "Debolsillo",
     "lugar": "Buenos Aires",
     "anio": "2015",
-    "isbn": "978-987-566-898-0",
+    "isbn": "9789875668980",
     "descripcion": "656 p.",
     "temas": [
       "LITERATURA",
@@ -76541,13 +76466,15 @@
     "editorial": "Norma",
     "lugar": "Buenos Aires",
     "anio": "2007",
-    "isbn": "987-9334-96-5",
+    "isbn": "9879334965",
     "descripcion": "136 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA ARGENTINA",
       "LITERATURA INFANTIL Y JUVENIL",
-      "NOVELAS"
+      "NOVELA POLICIAL",
+      "NOVELAS",
+      "SUSPENSO PSICOLOGICO"
     ],
     "sede": "CENT 11",
     "inventarios": [
@@ -76565,7 +76492,7 @@
     "editorial": "Granica",
     "lugar": "Buenos Aires",
     "anio": "1994",
-    "isbn": "950-641-210-3",
+    "isbn": "9506412103",
     "descripcion": "238 p.",
     "temas": [
       "ADMINISTRACION DE EMPRESAS",
@@ -76594,7 +76521,7 @@
     "editorial": "Centro de Estudios de Estado y Sociedad",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-950-9572-26-3",
+    "isbn": "9789509572263",
     "descripcion": "405 p.",
     "temas": [
       "DERECHO",
@@ -76623,12 +76550,13 @@
     "editorial": "Andres Bello",
     "lugar": "Santiago de Chile",
     "anio": "2000",
-    "isbn": "84-95407-32-9",
+    "isbn": "8495407329",
     "descripcion": "304 p.",
     "temas": [
       "LITERATURA",
       "LITERATURA INGLESA",
       "LITERATURA JUVENIL",
+      "NOVELA POLICIAL",
       "NOVELAS"
     ],
     "sede": "CENT 11",
@@ -76647,7 +76575,7 @@
     "editorial": "Cantaro",
     "lugar": "Buenos Aires",
     "anio": "1998",
-    "isbn": "950-753-011-8",
+    "isbn": "9507530118",
     "descripcion": "91 p.",
     "temas": [
       "LITERATURA",
@@ -76673,7 +76601,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-65-2",
+    "isbn": "9789879433652",
     "descripcion": "v. 1, 26 p.",
     "temas": [
       "LITERATURA",
@@ -76697,7 +76625,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-28375-0-1",
+    "isbn": "9789872837501",
     "descripcion": "34 p.",
     "temas": [
       "LITERATURA",
@@ -76721,7 +76649,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-28375-1-8",
+    "isbn": "9789872837518",
     "descripcion": "52 p.",
     "temas": [
       "LITERATURA",
@@ -76745,7 +76673,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-27365-7-6",
+    "isbn": "9789872736576",
     "descripcion": "85 p.",
     "temas": [
       "LITERATURA",
@@ -76769,7 +76697,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-27365-9-0",
+    "isbn": "9789872736590",
     "descripcion": "67 p.",
     "temas": [
       "LITERATURA",
@@ -76793,7 +76721,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-27365-8-3",
+    "isbn": "9789872736583",
     "descripcion": "48 p.",
     "temas": [
       "LITERATURA",
@@ -76817,7 +76745,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-66-9",
+    "isbn": "9789879433669",
     "descripcion": "v. 1, 50 p.",
     "temas": [
       "LITERATURA",
@@ -76843,7 +76771,7 @@
     "editorial": "Inteatro",
     "lugar": "Buenos Aires",
     "anio": "2012",
-    "isbn": "978-987-28375-2-5",
+    "isbn": "9789872837525",
     "descripcion": "117 p.",
     "temas": [
       "LITERATURA",
@@ -76867,7 +76795,7 @@
     "editorial": "Instituto Nacional del Teatro",
     "lugar": "Buenos Aires",
     "anio": "2008",
-    "isbn": "978-987-9433-64-5",
+    "isbn": "9789879433645",
     "descripcion": "v. 1, 28 p.",
     "temas": [
       "LITERATURA",
@@ -76893,7 +76821,7 @@
     "editorial": "Hyspanamerica",
     "lugar": "Buenos Aires",
     "anio": "1992",
-    "isbn": "950-752-188-6",
+    "isbn": "9507521886",
     "descripcion": "47 p.",
     "temas": [
       "HISTORIA",
