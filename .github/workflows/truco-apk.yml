@@ -37,13 +37,19 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          curl --fail --location --retry 4 --retry-delay 5 \
+          OUT="truco-anotador/app/src/main/assets/marcha_san_lorenzo.mp3"
+          if ! curl --fail --location --retry 3 --retry-delay 3 \
             --user-agent "TrucoHeberFrau/1.0 (Android open source)" \
-            "https://upload.wikimedia.org/wikipedia/commons/a/a7/San_Lorenzo_-_U.S._Marine_Band.ogg" \
-            --output /tmp/marcha.ogg
-          test -s /tmp/marcha.ogg
-          ffmpeg -nostdin -y -loglevel error -i /tmp/marcha.ogg -vn -ac 1 -ar 32000 -b:a 64k \
-            truco-anotador/app/src/main/assets/marcha_san_lorenzo.mp3
+            "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/San_Lorenzo_-_U.S._Marine_Band.ogg/San_Lorenzo_-_U.S._Marine_Band.ogg.mp3" \
+            --output "$OUT"; then
+            curl --fail --location --retry 3 \
+              "https://upload.wikimedia.org/wikipedia/commons/a/a7/San_Lorenzo_-_U.S._Marine_Band.ogg" \
+              --output /tmp/marcha.ogg
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq ffmpeg
+            ffmpeg -nostdin -y -loglevel error -i /tmp/marcha.ogg -vn -ac 1 -ar 32000 -b:a 64k "$OUT"
+          fi
+          test -s "$OUT"
       - name: Compilar APK debug instalable
         working-directory: truco-anotador
         run: gradle --no-daemon assembleDebug
