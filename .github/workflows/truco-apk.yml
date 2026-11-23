@@ -1,0 +1,68 @@
+name: Compilar APK Truco Heber Frau
+
+on:
+  push:
+    branches:
+      - truco-anotador
+    paths:
+      - 'truco-anotador/**'
+      - '.github/workflows/truco-apk.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar proyecto
+        uses: actions/checkout@v4
+      - name: Preparar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Android SDK
+        uses: android-actions/setup-android@v3
+      - name: Preparar Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.10.2'
+      - name: Incorporar Marcha de San Lorenzo (dominio publico)
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 4 --retry-delay 5 \
+            --user-agent "TrucoHeberFrau/1.0 (Android open source)" \
+            "https://upload.wikimedia.org/wikipedia/commons/a/a7/San_Lorenzo_-_U.S._Marine_Band.ogg" \
+            --output /tmp/marcha.ogg
+          test -s /tmp/marcha.ogg
+          ffmpeg -nostdin -y -loglevel error -i /tmp/marcha.ogg -vn -ac 1 -ar 32000 -b:a 64k \
+            truco-anotador/app/src/main/assets/marcha_san_lorenzo.mp3
+      - name: Compilar APK debug instalable
+        working-directory: truco-anotador
+        run: gradle --no-daemon assembleDebug
+      - name: Preparar APK descargable
+        run: |
+          mkdir -p dist
+          cp truco-anotador/app/build/outputs/apk/debug/app-debug.apk dist/Truco-Heber-Frau.apk
+      - name: Publicar artefacto de GitHub Actions
+        uses: actions/upload-artifact@v4
+        with:
+          name: Truco-Heber-Frau-APK
+          path: dist/Truco-Heber-Frau.apk
+          retention-days: 90
+      - name: Publicar APK en Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          if gh release view truco-v1.0 >/dev/null 2>&1; then
+            gh release upload truco-v1.0 dist/Truco-Heber-Frau.apk --clobber
+          else
+            gh release create truco-v1.0 dist/Truco-Heber-Frau.apk \
+              --target truco-anotador \
+              --title "Anotador de Truco - Heber Frau" \
+              --notes "Anotador de 15 o 30 puntos con fosforos, marcador Nos/Ellos, guardado automatico y Marcha de San Lorenzo. APK para instalar en Android."
+          fi
