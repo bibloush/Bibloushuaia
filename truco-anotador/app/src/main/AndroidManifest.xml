@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
   <uses-permission android:name="android.permission.VIBRATE" />
-  <application android:allowBackup="true" android:label="Truco - Heber Frau" android:theme="@android:style/Theme.Material.Light.NoActionBar" android:icon="@drawable/truco_icon" android:supportsRtl="true">
+  <application android:allowBackup="true" android:label="Anotador Truco" android:theme="@android:style/Theme.Material.Light.NoActionBar" android:icon="@drawable/truco_icon" android:supportsRtl="true">
     <activity android:name=".MainActivity" android:screenOrientation="portrait" android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

@@ -2,22 +2,17 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
-<meta name="theme-color" content="#2b160e"><title>Anotador de Truco</title>
+<meta name="theme-color" content="#2b160e"><title>Anotador Truco</title>
 <style>
 :root{color-scheme:dark;--gold:#c4a45d;--cream:#f3e8d0;--wood:#301c12}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-body{margin:0;color:#fff;font-family:Arial,Helvetica,sans-serif;background:#26160f;overflow:hidden;user-select:none}
-body::before{content:"";position:fixed;inset:0;z-index:-2;background:
-radial-gradient(ellipse 140% 85% at 50% 48%,transparent 40%,#0906049e 100%),
-repeating-linear-gradient(90deg,#1b100d 0px,#412618 4px,#26160d 13px,#54331c 26px,#21130c 42px,#482819 58px,#24140c 79px,#3c2215 94px,#190e09 109px),
-repeating-linear-gradient(88deg,transparent 0px,#ecbf7138 2px,transparent 4px,transparent 13px,#03020142 14px,transparent 18px);background-blend-mode:normal,normal,overlay}
-body::after{content:"";position:fixed;inset:0;z-index:-1;opacity:.18;pointer-events:none;background:
-repeating-radial-gradient(ellipse 13px 160px at 28% 40%,transparent 0 3px,#8f542f80 4px 5px,transparent 6px 11px),
-repeating-linear-gradient(90deg,transparent 0 38px,#0b0604aa 39px,#8d582446 40px,transparent 42px,transparent 94px)}
+body{margin:0;color:#fff;font-family:Arial,Helvetica,sans-serif;background:#11202a;overflow:hidden;user-select:none}
+body::before{content:"";position:fixed;inset:0;z-index:-2;background:linear-gradient(to bottom,#101c2bb0,#0a1425b6 48%,#020710d4),url('faro_fin_del_mundo.jpg') center / cover no-repeat;}
+body::after{content:"";position:fixed;inset:0;z-index:-1;background:radial-gradient(ellipse at center,transparent 35%,#0008 100%);pointer-events:none}
 .app{height:100dvh;min-height:550px;display:flex;flex-direction:column;position:relative}
 header{height:88px;flex:none;border-bottom:2px solid #977340;background:
-repeating-linear-gradient(45deg,#23140d 0 5px,#2f1b11 5px 8px,#28160f 8px 12px);display:flex;justify-content:space-between;align-items:center;padding:12px 23px 4px}
-header h1{font-size:clamp(27px,7.7vw,38px);font-weight:500;color:#ffca28;margin:0;letter-spacing:.3px;text-shadow:0 1px 1px #120b07}
+linear-gradient(180deg,#0c1926ea,#152334de);display:flex;justify-content:space-between;align-items:center;padding:12px 23px 4px}
+header h1{font-size:clamp(23px,6.7vw,34px);font-weight:600;color:#ffca28;margin:0;letter-spacing:.3px;text-shadow:0 1px 1px #120b07}
 .circle-menu{width:42px;height:42px;border:1.6px solid var(--gold);border-radius:50%;display:flex;justify-content:center;align-items:center;background:#180f0b44;color:var(--gold);font-size:25px;cursor:pointer}
 .board{flex:1;min-height:0;position:relative;padding-top:12px}
 .score-area{position:relative;margin:0 auto;width:62%;max-width:315px;display:flex;flex-direction:column}
@@ -52,7 +47,7 @@ footer{flex:none;display:flex;align-items:center;justify-content:flex-end;flex-d
 @media(max-height:585px){.sticks{height:39px}.sticks svg{height:38px;width:38px}.col-name{font-size:24px}.score-area{width:58%}footer{height:85px}}
 </style></head><body>
 <div class="app">
-<header><button class="circle-menu" aria-label="Deshacer último punto" onclick="undo()">&#x21b6;</button><h1>Anotador</h1><button class="circle-menu" aria-label="Abrir menú" onclick="toggleMenu()">&#9776;</button></header>
+<header><button class="circle-menu" aria-label="Deshacer último punto" onclick="undo()">&#x21b6;</button><h1>Anotador Truco</h1><button class="circle-menu" aria-label="Abrir menú" onclick="toggleMenu()">&#9776;</button></header>
 <div class="board">
 <div class="score-area">
 <div class="column-heads"><div><div class="col-name">Nos:</div><div class="score-value" id="score-nos">0 puntos</div></div><div><div class="col-name">Ellos:</div><div class="score-value" id="score-ellos">0 puntos</div></div></div>
@@ -66,9 +61,10 @@ footer{flex:none;display:flex;align-items:center;justify-content:flex-end;flex-d
 <div class="controls right"><button class="score-btn" id="plus-ellos" aria-label="Sumar punto a ellos" onclick="point('ellos',1)">+</button><button class="score-btn" id="minus-ellos" aria-label="Restar punto a ellos" onclick="point('ellos',-1)">&minus;</button></div>
 <div class="winner" id="winner"><strong id="winner-text"></strong><button class="option-btn" onclick="newGame()">Nuevo partido</button></div>
 <div class="menu" id="menu"><h2>Configuración</h2>
-<div class="menu-row"><span>Marcha de San Lorenzo</span><button id="music-button" class="option-btn" onclick="toggleMusic()">Sonido: Sí</button></div>
+<div class="menu-row"><span>Música de fondo</span><button id="music-button" class="option-btn" onclick="toggleMusic()">Sonido: Sí</button></div>
 <div class="menu-row"><span>Partido a</span><div class="modes"><button class="option-btn" id="goal15" onclick="setGoal(15)">15</button><button class="option-btn" id="goal30" onclick="setGoal(30)">30</button></div></div>
 <div class="menu-row"><span>Deshacer último tanto</span><button class="option-btn" onclick="undo();toggleMenu(false)">Deshacer</button></div>
+<div class="menu-row"><span style="font-size:11px;line-height:1.4;color:#e4d6b8">Foto: Justraveling.com · <a style="color:#e4d6b8" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br>Música: El Choclo (1907), dominio público</span></div>
 </div>
 </div>
 <footer><button class="new-btn" onclick="newGame()">Nuevo partido</button><div class="signature">Hecha por Heber Frau</div></footer>

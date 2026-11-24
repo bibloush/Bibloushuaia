@@ -10,6 +10,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.webkit.JavascriptInterface;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
@@ -19,11 +20,13 @@ public class MainActivity extends Activity {
 
     @Override public void onCreate(Bundle state) {
         super.onCreate(state);
-        getWindow().setStatusBarColor(Color.rgb(34, 19, 12));
-        getWindow().setNavigationBarColor(Color.rgb(34, 19, 12));
+        getWindow().setStatusBarColor(Color.rgb(14,24,34));
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+        getWindow().setNavigationBarColor(Color.rgb(14,24,34));
         musicEnabled = getPreferences(MODE_PRIVATE).getBoolean("music_enabled", true);
         webView = new WebView(this);
-        webView.setBackgroundColor(Color.rgb(34, 19, 12));
+        webView.setBackgroundColor(Color.rgb(14,24,34));
+        webView.setKeepScreenOn(true);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setAllowFileAccess(true);
@@ -39,7 +42,7 @@ public class MainActivity extends Activity {
     private void startMusic() {
         if (player != null) { if (!player.isPlaying()) player.start(); return; }
         try {
-            AssetFileDescriptor afd = getAssets().openFd("marcha_san_lorenzo.mp3");
+            AssetFileDescriptor afd = getAssets().openFd("musica_fondo.ogg");
             MediaPlayer mp = new MediaPlayer();
             mp.setDataSource(afd.getFileDescriptor(), afd.getStartOffset(), afd.getLength());
             afd.close();
@@ -49,7 +52,7 @@ public class MainActivity extends Activity {
             mp.start();
             player = mp;
         } catch (Exception ex) {
-            android.util.Log.w("TrucoHeber", "No se pudo reproducir la marcha", ex);
+            android.util.Log.w("TrucoHeber", "No se pudo reproducir la música", ex);
         }
     }
 
